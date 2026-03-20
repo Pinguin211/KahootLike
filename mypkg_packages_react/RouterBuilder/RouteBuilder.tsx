@@ -39,17 +39,17 @@ export class RouteBuilder<T extends RouteSchema<string>> {
     /**
      * Crée un routeur avec un sous-ensemble de routes spécifiées.
      */
-    public router(routeNames: (keyof T)[]) {
+    public router(routeNames: (keyof T)[], basename?: string) {
         const routerConfig = routeNames.map(name => this.routes[name]);
-        return createBrowserRouter(routerConfig);
+        return createBrowserRouter(routerConfig, { basename });
     }
 
     /**
      * Crée un routeur incluant toutes les routes définies dans le schéma.
      */
-    public routerAll() {
+    public routerAll(basename?: string) {
         const allKeys = Object.keys(this.routes) as (keyof T)[];
-        return this.router(allKeys);
+        return this.router(allKeys, basename);
     }
 }
 
