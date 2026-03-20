@@ -1,0 +1,125 @@
+{
+  "name": "Nature - Les Déserts",
+  "questions": [
+    {
+      "answer": "Quel est le plus grand désert chaud du monde ?",
+      "valids": ["Le Sahara"],
+      "falses": ["Le Gobi", "Le Kalahari", "Le désert d'Atacama"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sahara,desert" }
+    },
+    {
+      "answer": "Comment les cactus survivent-ils sans eau pendant longtemps ?",
+      "valids": ["Ils stockent l'eau dans leurs tiges", "Ils ont des épines pour réduire l'évaporation"],
+      "falses": ["Ils boivent la sève d'autres plantes", "Ils ont des racines plongeant dans la mer"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/cactus,desert" }
+    },
+    {
+      "answer": "Quel animal est surnommé le « vaisseau du désert » ?",
+      "valids": ["Le chameau (et le dromadaire)"],
+      "falses": ["Le scorpion", "Le serpent à sonnettes", "L'autruche"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/camel,sand" }
+    },
+    {
+      "answer": "Un désert est uniquement défini par la chaleur.",
+      "valids": ["Faux (le manque de précipitations le définit)"],
+      "falses": ["Vrai"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dune,sun" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une oasis ?",
+      "valids": ["Une zone de végétation isolée dans un désert avec un point d'eau"],
+      "falses": ["Une dune de sable mouvante", "Un phénomène optique d'illusion d'eau"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/oasis,desert" }
+    },
+    {
+      "answer": "Quel est le plus grand désert froid du monde ?",
+      "valids": ["L'Antarctique"],
+      "falses": ["Le Gobi", "Le Groenland", "La Sibérie"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/antarctica,ice" }
+    },
+    {
+      "answer": "Comment se nomme le grand désert aride situé en Amérique du Sud (Chili), réputé être le plus sec du monde ?",
+      "valids": ["Le désert d'Atacama"],
+      "falses": ["La Patagonie", "Le Mojave", "Le Sonora"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/atacama,desert" }
+    },
+    {
+      "answer": "Une grande étendue de sable avec de hautes dunes mouvantes s'appelle souvent :",
+      "valids": ["Un erg"],
+      "falses": ["Un reg (désert de pierres)", "Une toundra", "Une savane"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dunes,sand" }
+    },
+    {
+      "answer": "Quel pourcentage de la surface terrestre est recouvert par les déserts (chauds et froids confondus) ?",
+      "valids": ["Environ 33% (un tiers)"],
+      "falses": ["Environ 10%", "Environ 75%", "Moins de 5%"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/desert,dry" }
+    },
+    {
+      "answer": "Que mange principalement un fennec, renard des sables, dans le désert ?",
+      "valids": ["Des insectes, petits rongeurs, oiseaux et fruits"],
+      "falses": ["Exclusivement du sable", "Uniquement de grandes antilopes"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fennec,fox" }
+    },
+    {
+      "answer": "Dans un désert chaud, les nuits y sont généralement...",
+      "valids": ["Très froides, la température chute fortement à cause de l'absence de nuages"],
+      "falses": ["Encore plus chaudes que le jour", "Tièdes et très humides"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/night,desert" }
+    },
+    {
+      "answer": "Où se trouve la Vallée de la Mort (Death Valley), l'un des endroits les plus chauds du monde ?",
+      "valids": ["Dans le désert des Mojaves (Californie, USA)"],
+      "falses": ["En Australie", "Au Mexique", "En Égypte"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/deathvalley,sand" }
+    },
+    {
+      "answer": "Quel peuple nomade du Sahara est surnommé 'les hommes bleus' pour la teinture indigo de leurs vêtements qui déteint sur leur peau ?",
+      "valids": ["Les Touaregs"],
+      "falses": ["Les Bédouins", "Les Massaïs", "Les Inuits"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tuareg,nomad" }
+    },
+    {
+      "answer": "Quelle plante arbustive étrange du désert de Namib peut vivre plus de 1000 ans avec de très longues feuilles traînant au sol ?",
+      "valids": ["La Welwitschia mirabilis"],
+      "falses": ["Le baobab", "Le palmier dattier", "L'agave"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/plant,namib" }
+    },
+    {
+      "answer": "Le dromadaire a-t-il une ou deux bosses ?",
+      "valids": ["Une seule bosse"],
+      "falses": ["Deux bosses (c'est le chameau de Bactriane)", "Aucune bosse"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dromedary,desert" }
+    },
+    {
+      "answer": "Lequel de ces lézards du désert nord-américain est venimeux ?",
+      "valids": ["Le monstre de Gila"],
+      "falses": ["L'iguane vert", "Le dragon de Komodo", "Le gecko léopard"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/gila,monster" }
+    },
+    {
+      "answer": "Qu'est-ce qui cause le mirage dans le désert ?",
+      "valids": ["La réfraction des rayons lumineux à travers des couches d'air de différentes températures (air chaud au sol)"],
+      "falses": ["L'évaporation d'eaux souterraines invisibles", "Le magnétisme des dunes de sable"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mirage,desert" }
+    },
+    {
+      "answer": "Que contiennent réellement les bosses des chameaux ?",
+      "valids": ["Des réserves de graisse qu'il transforme en énergie (et d'où l'oxydation produit un peu d'eau)"],
+      "falses": ["Des poches remplies d'eau liquide pure", "Du sable stérile"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/camel,hump" }
+    },
+    {
+      "answer": "Quelle est la principale menace pour les rares écosystèmes des oasis et bordures désertiques ?",
+      "valids": ["La désertification (avancée du désert) due au surpâturage ou changements climatiques"],
+      "falses": ["Les tempêtes de neige inattendues", "L'invasion de pingouins"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/desertification,land" }
+    },
+    {
+      "answer": "Comment s'appelle le vent chaud et sec chargé de sable soufflant du Sahara vers le nord de l'Afrique et l'Europe ?",
+      "valids": ["Le Sirocco (ou l'Harmattan s'il va vers l'ouest/sud)"],
+      "falses": ["Le Mistral", "La Tramontane", "L'Alizé"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sandstorm,desert" }
+    }
+  ]
+}

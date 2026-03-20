@@ -1,0 +1,125 @@
+{
+  "name": "Volcan & Géologie - Célèbres Volcans",
+  "questions": [
+    {
+      "answer": "Quel volcan a détruit la ville romaine de Pompéi en 79 apr. J.-C. ?",
+      "valids": ["Le Vésuve"],
+      "falses": ["L'Etna", "Le Stromboli", "Le mont Fuji"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/vesuvius,ruins" }
+    },
+    {
+      "answer": "Où se situe le piton de la Fournaise, l'un des volcans les plus actifs au monde ?",
+      "valids": ["Sur l'île de La Réunion"],
+      "falses": ["À Hawaï", "En Islande", "Au Japon"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/volcano,reunion" }
+    },
+    {
+      "answer": "Le mont Fuji est le plus haut sommet de quel pays ?",
+      "valids": ["Le Japon"],
+      "falses": ["La Chine", "L'Indonésie", "Les Philippines"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fuji,japan" }
+    },
+    {
+      "answer": "Quel est le plus grand volcan du système solaire connu (situé sur Mars) ?",
+      "valids": ["Olympus Mons"],
+      "falses": ["Mauna Loa", "Mont Everest", "Tharsis Tholus"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mars,volcano" }
+    },
+    {
+      "answer": "De quel type est principalement le volcan de Yellowstone aux États-Unis ?",
+      "valids": ["Un supervolcan avec une immense caldeira"],
+      "falses": ["Un petit stratovolcan pointu", "Un volcan sous-marin éteint"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/yellowstone,geyser" }
+    },
+    {
+      "answer": "En 1980, l'éruption catastrophique d'un volcan de l'État de Washington aux États-Unis a soufflé un côté entier de sa montagne. Lequel ?",
+      "valids": ["Le Mont Saint Helens"],
+      "falses": ["Le volcan Paricutin", "Le volcan Santa María", "Le mont Rainier"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sthelens,explosion" }
+    },
+    {
+      "answer": "Lequel de ces volcans italiens trône majestueusement en Sicile et domine la ville de Catane ?",
+      "valids": ["L'Etna"],
+      "falses": ["Le Vésuve", "Le Vulcano", "Le Stromboli"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/etna,sicily" }
+    },
+    {
+      "answer": "Quel redoutable volcan indonésien situé dans le détroit de la Sonde a explosé en 1883 avec le bruit réputé être le plus fort rapporté dans l'histoire humaine ?",
+      "valids": ["Le Krakatoa (Krakatau)"],
+      "falses": ["Le mont Tambora", "Le Merapi"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/krakatoa,explosion" }
+    },
+    {
+      "answer": "Le Mauna Kea à Hawaï, si l'on mesure depuis sa base sous la mer, est considéré comme la véritable plus haute montagne du monde. De quel volcanisme est-il issu ?",
+      "valids": ["Volcanisme de point chaud (en plein milieu de plaque océanique)"],
+      "falses": ["Volcanisme magique du père noël", "Volcan explosif de subduction simple"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/maunakea,mountain" }
+    },
+    {
+      "answer": "Comment s'appelle ce mythique et destructeur volcan mexicain avec un nom complexe qui observe constamment Mexico sous son regard ?",
+      "valids": ["Le Popocatépetl"],
+      "falses": ["Le volcan Chichonal", "El Teide"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mexico,volcano,popo" }
+    },
+    {
+      "answer": "Parmi les îles Canaries (Espagne), quel pic gigantesque volcanique dresse fièrement sa silhouette sur l'île de Tenerife ?",
+      "valids": ["Le Teide (le mont Teide)"],
+      "falses": ["L'Arnal", "Le pic d'Ossau", "Le Kilauea espagnol"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/teide,canary" }
+    },
+    {
+      "answer": "Où se situe l'Eyjafjallajökull, le très célèbre volcan lourd en crasses ou « volcan au nom imprononçable » dont l'éruption de 2010 a paralysé l'espace aérien de toute l'Europe ?",
+      "valids": ["En Islande"],
+      "falses": ["Hawaï", "En Norvège boréale stricte", "Au Groenland occidental"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/iceland,volcano,ash" }
+    },
+    {
+      "answer": "Le Vésuve (Italie) a figé des malheureux (statues de plâtre coulées dans le vide) en 79 dans :",
+      "valids": ["Une nuée ardente impliquant des gaz brûlants et des fines cendres grises destructrices", "Un ensevelissement par de lourdes retombées de pierres ponces puis nuée de 400°C"],
+      "falses": ["Une très simple lave liquide écarlate", "L'eau bouillante de la méditerranée fuyant par vagues"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pompeii,cast" }
+    },
+    {
+      "answer": "La Montagne Pelée est située au nord de la Martinique (Antilles françaises). Elle est fameuse pour sa tristement mortelle éruption d'une nuée ardente foudroyante...",
+      "valids": ["Détruisant toute la ville de Saint-Pierre en trois minutes un matin de mai 1902"],
+      "falses": ["Qu'en 1999 causant la panique d'une discotèque isolée..."],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pelee,martinique" }
+    },
+    {
+      "answer": "Comment s'appelle ce 'Volcan Phare de la mer Méditerranée', dont l'activité est permanente avec des mini-jaillissements continus rougeoyants ?",
+      "valids": ["Le Stromboli (Îles Éoliennes au nord de la Sicile)"],
+      "falses": ["Sainte-Sophie-le-Volcan", "Santorin antique (Théra)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/stromboli,night" }
+    },
+    {
+      "answer": "Le Kilimandjaro fait-il en réalité partie des grands volcans ?",
+      "valids": ["Oui, c'est bien un stratovolcan composé d'une succession de caldeiras géantes, bien qu'il soit aujourd'hui dormant et couronné de neiges"],
+      "falses": ["Non, c'est un pur gros pli de granite"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/kilimanjaro,snow" }
+    },
+    {
+      "answer": "En 1815 explose un titan, entraînant son panache, ses gaz modifiants le climat mondial et le fameux « été sans été ou année sans été ». Quel est son nom ?",
+      "valids": ["Le Tambora (Indonésie)"],
+      "falses": ["Olympus Mons le furieux", "L'Erebus"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tambora,eruption" }
+    },
+    {
+      "answer": "Le Mont Érèbe (Mount Erebus) ou d'autres curiosités volcaniques : où peut-on trouver ce mont exceptionnel particulièrement actif possédant un lac de lave bouillant ?",
+      "valids": ["En Antarctique (territoire des grands froids par excellence)"],
+      "falses": ["Dans le Sahara (Algérie / Tchad)", "Sous New-York"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/erebus,antarctica" }
+    },
+    {
+      "answer": "Le mont Pinatubo, qui a craché ses entrailles en 1991 est localisé...",
+      "valids": ["Aux Philippines", "Sur la ceinture de feu des Philippines"],
+      "falses": ["Au Kenya sauvage", "Au Chili strict"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pinatubo,ash" }
+    },
+    {
+      "answer": "Combien de temps l'héroïque volcan mongol Tcholbatorg-7 d'Anatolie du centre oriental est resté en éruption continue selon de grands recits connus ?",
+      "valids": ["C'est une tromperie, il s'agit d'un volcan de fiction (faux piège de culture pure, aucun Tcholbatorg en Anatolie centrale n'est mongol). Ce volcan n'existe pas"],
+      "falses": ["Au moins trois siècles complets", "Seulement une heure exacte de récréation"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/trap,volcano,myth" }
+    }
+  ]
+}

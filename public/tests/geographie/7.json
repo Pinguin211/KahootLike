@@ -1,0 +1,35 @@
+{
+  "name": "Géographie - Climat et Cartographie",
+  "questions": [
+    {
+      "answer": "Qu'est-ce que la ligne de l'Équateur ?",
+      "valids": ["La ligne imaginaire horizontale qui divise la Terre en hémisphères Nord et Sud"],
+      "falses": ["Le méridien qui divise l'Est et l'Ouest", "Le sommet du pôle Nord"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/equator,map" }
+    },
+    {
+      "answer": "Comment appelle-t-on le méridien de référence (longitude 0°) ?",
+      "valids": ["Le Méridien de Greenwich"],
+      "falses": ["Le Tropique du Cancer", "La ligne de changement de date"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/greenwich,line" }
+    },
+    {
+      "answer": "Un climat tropical est généralement...",
+      "valids": ["Chaud toute l'année avec une saison sèche et une saison des pluies"],
+      "falses": ["Extrêmement froid et sec", "Toujours sous la neige"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tropical,weather" }
+    },
+    {
+      "answer": "Que lis-t-on sur une carte topographique géologique ?",
+      "valids": ["Le relief du terrain, les altitudes et les formes de la surface avec des courbes de niveau"],
+      "falses": ["Uniquement les frontières politiques intérieures", "Juste la couleur du ciel de la région"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/topography,map" }
+    },
+    {
+      "answer": "Quel continent possède le climat le plus froid enregistré sur Terre, avec un immense indlandsis (calotte glaciaire) ?",
+      "valids": ["L'Antarctique (pôle Sud)"],
+      "falses": ["L'Arctique (qui est un océan pris par la banquise)", "L'Europe de l'Est"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/antarctica,ice" }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Matériel et composants",
+  "questions": [
+    {
+      "answer": "Quel est le rôle principal de la mémoire RAM dans un ordinateur ?",
+      "valids": [
+        "Stocker temporairement les données des programmes en cours d'exécution"
+      ],
+      "falses": [
+        "Sauvegarder définitivement les fichiers et les photos",
+        "Refroidir le processeur lors des calculs intenses",
+        "Gérer l'affichage des graphismes à l'écran"
+      ],
+      "assets": {
+        "img_url": "https://loremflickr.com/400/300/ram,computer"
+      }
+    },
+    {
+      "answer": "Parmi ces composants, lesquels servent à stocker des données de manière permanente ?",
+      "valids": [
+        "Le disque dur (HDD)",
+        "Le SSD (Solid State Drive)"
+      ],
+      "falses": [
+        "Le processeur (CPU)",
+        "L'alimentation (PSU)"
+      ],
+      "assets": {
+        "img_url": "https://loremflickr.com/400/300/ssd,harddrive"
+      }
+    },
+    {
+      "answer": "À quoi sert la carte mère ?",
+      "valids": [
+        "À centraliser et relier tous les composants de l'ordinateur entre eux"
+      ],
+      "falses": [
+        "À fournir uniquement le son à l'ordinateur",
+        "À crypter les données sensibles envoyées sur internet",
+        "À imprimer des documents en 3D"
+      ],
+      "assets": {
+        "img_url": "https://loremflickr.com/400/300/motherboard,circuits"
+      }
+    },
+    {
+      "answer": "Quels ports sont spécifiquement conçus pour transmettre un signal vidéo vers un écran ?",
+      "valids": [
+        "Le port HDMI",
+        "Le port DisplayPort"
+      ],
+      "falses": [
+        "Le port RJ45 (Ethernet)",
+        "Le port Jack 3.5mm"
+      ],
+      "assets": {
+        "img_url": "https://loremflickr.com/400/300/hdmi,cable"
+      }
+    },
+    {
+      "answer": "Que fait le processeur (CPU) ?",
+      "valids": [
+        "Il exécute les instructions et effectue les calculs des programmes"
+      ],
+      "falses": [
+        "Il stocke les mots de passe de l'utilisateur",
+        "Il alimente l'écran en électricité",
+        "Il bloque les virus informatiques"
+      ],
+      "assets": {
+        "img_url": "https://loremflickr.com/400/300/cpu,processor"
+      }
+    }
+  ]
+}

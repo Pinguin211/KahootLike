@@ -1,0 +1,125 @@
+{
+  "name": "Nature - Les Insectes",
+  "questions": [
+    {
+      "answer": "Combien de pattes possèdent tous les insectes adultes (par définition anatomique) ?",
+      "valids": ["Six (6) pattes"],
+      "falses": ["Huit (8) pattes", "Quatre (4) pattes", "Dix (10) pattes"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/insect,bug" }
+    },
+    {
+      "answer": "Quel insecte fabrique du miel ?",
+      "valids": ["L'abeille"],
+      "falses": ["La guêpe", "Le frelon", "La fourmi"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/bee,honey" }
+    },
+    {
+      "answer": "Comment appelle-t-on la transformation de la chenille en papillon ?",
+      "valids": ["La métamorphose"],
+      "falses": ["La mue", "L'incubation", "L'éclosion"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/butterfly,nature" }
+    },
+    {
+      "answer": "Quel est le rôle principal du moustique mâle ?",
+      "valids": ["Se nourrir de nectar de fleurs et polliniser"],
+      "falses": ["Piquer les animaux pour leur sang", "Pondre des œufs dans l'eau stagnante"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mosquito,macro" }
+    },
+    {
+      "answer": "Les fourmis vivent dans... ?",
+      "valids": ["Une fourmilière", "Des colonies organisées"],
+      "falses": ["Des ruches", "Des essaims solitaires"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ant,ground" }
+    },
+    {
+      "answer": "Les libellules naissent dans et grandissent au fond de l'eau. Que sont-elles jeunes ?",
+      "valids": ["Des larves ou nymphes aquatiques redoutables"],
+      "falses": ["Des têtards mignons", "De minuscules vers de terre"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dragonfly,water" }
+    },
+    {
+      "answer": "Comment s'appelle l'enveloppe rigide externe qui protège le corps des insectes ?",
+      "valids": ["L'exosquelette (ou cuticule)"],
+      "falses": ["L'endocarpe", "L'endosquelette", "La coquille", "La carapace"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/beetle,shell" }
+    },
+    {
+      "answer": "Quel insecte peut émettre des flashs de lumière grâce à un organe dans son abdomen ?",
+      "valids": ["La luciole (ou lampyre)"],
+      "falses": ["Le papillon de nuit", "Le grillon", "La mouche luminescente"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/firefly,glowing" }
+    },
+    {
+      "answer": "Comment se nomme la reine des abeilles qui pond de nouveaux œufs d'ouvrières ?",
+      "valids": ["La mère de la colonie (la reine)"],
+      "falses": ["La grande prêtresse abeille", "Le bourdon roi"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/queen,bee" }
+    },
+    {
+      "answer": "Le criquet chante (stridule) principalement en...",
+      "valids": ["Frottant ses pattes arrière rugueuses contre ses ailes"],
+      "falses": ["Utilisant des cordes vocales microscopiques", "Sifflant par de petits trous sur son nez"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/grasshopper,green" }
+    },
+    {
+      "answer": "Lequel de ces insectes vit souvent dans nos maisons et se nourrit de bois mort ou abîmé ?",
+      "valids": ["Le termite"],
+      "falses": ["L'abeille charpentière mignonne", "La coccinelle"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/termite,wood" }
+    },
+    {
+      "answer": "La coccinelle la plus courante (à 7 points) est particulièrement appréciée des jardiniers car...",
+      "valids": ["Elle mange énormément de pucerons"],
+      "falses": ["Elle mange les mauvaises herbes", "Ses couleurs repoussent les loups"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ladybug,leaf" }
+    },
+    {
+      "answer": "De quoi se nourrit une mante religieuse ?",
+      "valids": ["D'autres insectes (carnassière), qu'elle chasse en 'priant' avec ses pattes ravisseuses"],
+      "falses": ["Uniquement de feuilles", "De nectar sacré de l'orchidée"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mantis,bug" }
+    },
+    {
+      "answer": "Quel est l'insecte ravageur de champs qui peut former des vols migratoires de milliards d'individus dévorant tout sur leur passage en Afrique ?",
+      "valids": ["Le criquet pèlerin"],
+      "falses": ["La sauterelle verte commune", "La grosse mouche de la viande", "Le hanneton"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/locust,swarm" }
+    },
+    {
+      "answer": "Combien de parties du corps principales (tête, thorax...) un insecte comporte-t-il ?",
+      "valids": ["Trois (3) parties : Tête, Thorax, Abdomen"],
+      "falses": ["Deux (2) parties : Tête, Queue", "Une seule et même boule monobloc"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/insect,anatomy" }
+    },
+    {
+      "answer": "Quel papillon très célèbre traverse l'Amérique du Nord, parcourant des milliers de km du Canada au Mexique chaque année ?",
+      "valids": ["Le papillon Monarque"],
+      "falses": ["Le paon du jour", "Le vulcain", "Le grand morpho bleu"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/monarch,butterfly" }
+    },
+    {
+      "answer": "La soie textile originaire d'Asie est fabriquée par...",
+      "valids": ["La chenille du bombyx du mûrier (ver à soie) lorsqu'elle file son cocon"],
+      "falses": ["Des araignées tisserandes géantes", "Des plantes spéciales (la soie du cotonnier)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/silkworm,cocoon" }
+    },
+    {
+      "answer": "Les Phasmes sont des insectes étonnants connus pour leur...",
+      "valids": ["Mimétisme (camouflage) exceptionnel en forme de brindille ou feuille"],
+      "falses": ["Vitesse de course incroyable", "Piqûre mortelle foudroyante"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/stickinsect,branch" }
+    },
+    {
+      "answer": "Les mouches domestiques 'dégustent' souvent la nourriture en...",
+      "valids": ["La touchant avec leurs pattes, car leurs récepteurs gustatifs s'y trouvent"],
+      "falses": ["La humant par leur nez puissant", "Mordant des gros morceaux"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fly,food" }
+    },
+    {
+      "answer": "L'araignée est-elle scientifiquement un insecte ?",
+      "valids": ["Non (c'est un arachnide)"],
+      "falses": ["Oui"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/spider,web" }
+    }
+  ]
+}

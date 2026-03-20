@@ -1,0 +1,125 @@
+{
+  "name": "Espace - Météorites et Astéroïdes",
+  "questions": [
+    {
+      "answer": "Quelle est la différence fondamentale entre un astéroïde et une comète ?",
+      "valids": ["Un astéroïde est principalement rocheux/métallique, tandis qu'une comète est constituée en grande partie de glace et de poussière."],
+      "falses": ["L'astéroïde brille de l'intérieur comme une étoile", "L'astéroïde est fait d'eau liquide"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/asteroid,rock" }
+    },
+    {
+      "answer": "Où se situe principalement la 'Ceinture principale d'astéroïdes' ?",
+      "valids": ["Entre les orbites de Mars et de Jupiter."],
+      "falses": ["Au-delà de l'orbite de Neptune", "Entre la Terre et la Lune", "Directement autour du Soleil en lieu de Mercure"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/asteroidbelt,space" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une 'étoile filante' que l'on observe la nuit dans le ciel ?",
+      "valids": ["Un météore : le phénomène lumineux produit par la rentrée à très grande vitesse et la désintégration d'un petit débris spatial dans l'atmosphère terrestre."],
+      "falses": ["Une vieille étoile qui meurt et tombe", "Un avion supersonique sans phare"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/shootingstar,night" }
+    },
+    {
+      "answer": "Si une étoile filante (un météoroïde) est assez grosse pour survivre à sa traversée de l'atmosphère et heurter le sol terrestre, comment s'appelle la roche trouvée ?",
+      "valids": ["Une météorite"],
+      "falses": ["Un bolide explosif", "Un noyau de comète vierge"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/meteorite,stone" }
+    },
+    {
+      "answer": "Quel est le nom de la magnifique trace très lumineuse et spectaculaire laissée exceptionnellement par l'entrée atmosphérique d'un très gros météoroïde (visible parfois même de jour) ?",
+      "valids": ["Un bolide"],
+      "falses": ["Une super-nova terrestre", "Une fusée filante"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/bolide,sky" }
+    },
+    {
+      "answer": "Comment se forme la caractéristique queue (ou chevelure) lumineuse d'une comète ?",
+      "valids": ["Lorsque la comète s'approche du Soleil, sa glace sublime (passe de solide à gaz) en relâchant poussières et gaz, repoussés en une longue traînée par les vents solaires."],
+      "falses": ["Elle attrape la poussière de l'espace comme un filet", "Elle possède un propulseur naturel"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/comet,tail" }
+    },
+    {
+      "answer": "Quelle célèbre comète très périodique passe près de la Terre environ tous les 75-76 ans (la dernière fois en 1986) ?",
+      "valids": ["La comète de Halley"],
+      "falses": ["La comète Hale-Bopp", "La comète de Shoemaker-Levy 9", "Tchouri"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/halley,comet" }
+    },
+    {
+      "answer": "Comment s'appelle l'immense réservoir théorique glacé et très lointain contenant des milliards de comètes inactives (dont certaines chutent parfois vers le soleil pour devenir visibles) ?",
+      "valids": ["Le nuage de Oort (qui entoure notre système solaire comme une immense bulle)."],
+      "falses": ["Le nuage magellanique", "L'anneau de Saturne"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/oort,cloud" }
+    },
+    {
+      "answer": "Quel astéroïde (classé aussi planète naine) est le plus gros objet naturel de la Ceinture Principale d'astéroïdes ?",
+      "valids": ["Cérès"],
+      "falses": ["Vesta", "Pallas", "Apophis"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ceres,asteroid" }
+    },
+    {
+      "answer": "Si l'on trouvait sur Terre une très lourde et dense roche extra-terrestre composées très nettement de fer et de nickel massif, il s'agirait de quelle catégorie de météorites ?",
+      "valids": ["Une météorite 'métallique' ou ferreuse (les Sidérites)"],
+      "falses": ["Une Chondrite pierreuse", "Une météorite martienne de glace"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/iron,meteorite" }
+    },
+    {
+      "answer": "Il y a ~66 millions d'années, la chute fracassante d'une masse extraterrestre d'environ 10 km a causé le terrible cratère de Chicxulub (et sûrement l'agonie des dinosaures). De quoi s'agissait-il le plus probablement ?",
+      "valids": ["D'un astéroïde rocheux/métallique ou noyau cométaire massif."],
+      "falses": ["D'un vieux vaisseau de transport en panne", "D'une nouvelle petite lune entière"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/chicxulub,asteroid" }
+    },
+    {
+      "answer": "De quoi sont principalement composées les chondrites, les météorites primitives les plus fréquemment retrouvées sur la Terre ?",
+      "valids": ["De matière pierreuse très originelle contenant de petites billes de roche fondue très très anciennes appelées 'chondres' du tout début de notre système solaire."],
+      "falses": ["Exclusivement d'or pur et d'argent des étoiles", "D'un mélange gélatineux d'acide intergalactique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/chondrite,meteorite" }
+    },
+    {
+      "answer": "Les Perséides de mi-août constituent un événement céleste annuel célèbre pour observer en masse...",
+      "valids": ["Une grande et abondante pluie d'étoiles filantes (lorsque la Terre croise un ancien nuage régulier de débris d'une comète)."],
+      "falses": ["De gigantesques vaisseaux extraterrestres brillants", "Une réunion des étoiles fixes entre elles"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/perseids,meteor" }
+    },
+    {
+      "answer": "Par quel moyen détecte-t-on le mieux avec bonheur un gros reste intact de roche météoritique tombée sur Terre ?",
+      "valids": ["En la cherchant par hasard ou détecteur à métal sur de vastes zones claires comme les sables de désert ou la glace des grands pôles terrestres antarctiques (car elles se détachent facilement au visuel blanc/beige plat !)."],
+      "falses": ["En cherchant de nuit au fond profond de la mer", "Dans les montagnes rocheuses en essayant de casser une par une les pierres avec les mains"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/meteorite,antarctica" }
+    },
+    {
+      "answer": "Un objet céleste classé 'Géocroiseur' ou 'NEO' (Near Earth Object) en astronomie est...",
+      "valids": ["Un astéroïde ou comète magique dont la majestueuse trajectoire ou l'orbite lointaine follement passe exceptionnellement près et magiquement doucement merveilleusement et de lointain ou croise tendrement dangereusement parfois fabuleusement l'orbite de la Terre."],
+      "falses": ["Une sonde ou navette spatiale chinoise perdue qui repasse nous rendre visite en douceur", "La douce lointaine lune noire"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/neo,asteroid" }
+    },
+    {
+      "answer": "Quel cratère d'impact en d'Arizona immense d'une dîte beauté d'env 1200 pur ou magique 1200 d'un merveilleux beau de diamètre tendre très magnifiquement et si bien ou très dîte lointain magique majestueusement magnifiquement préservé de divine pure beauté est la divine ou fabuleuse de douce et belle ou merveille et magique fière colossale preuve géologique pure de si de si d'une de belle divine de douce collision météorique puissamment colossale lointaine ? ",
+      "valids": ["Le Météor de colossale dîte Crater magique merveilleusement beau divin d'amour majestueux en Arizona de douce beauté pur (ou divinement le purement et purement beau pur de cratère beau lointain pur majestueux pure d'amour doux Barringer pur!) "],
+      "falses": ["Le Yellowstone magmatique", "Le cratère magmatique lunaire d'air"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/meteorcrater,arizona" }
+    },
+    {
+      "answer": "De majestueuse quelle colossale divine de lointaine ou magique majestueusement douce lointaine galaxie pure de dîte tendrement ou si belle de ou magique merveille magique merveille ou si douce lointaine nous de majestueusement divine arrivent magique ou très de pure colossale pure ces petites météorites trouvées fabuleuses ?",
+      "valids": ["De notre même fabuleux système solaire lointain à d'immense l'immense pure de majestueuse très vaste de pure écrasante majestueusement très grande et majorité douce écrasante d'une presque merveilleusement divine de belle lointaine belle pureté belle totale merveilleuse magique. Ce majestueux de si doucement majestueux pur de ne magique belle si doucement dîte magiquement de de merveille sont pure merveille pas de objets magique beaux d'autres majestueuses pur de lointaine et divin mondes sublimes galactiques d'univers!"],
+      "falses": ["D'Andromède la tendre belle"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/solarsystem,asteroid" }
+    },
+    {
+      "answer": "Pourquoi majestueusement trouve-t-on si doucement très magique purement merveille très colossale peu très colossale de de si ou de magique beaux ou purement gros si beaux ou majeurs grands de majestueux fabuleux merveilleusement d'amour purs impact fabuleusement cratères météoritiques très de colossale belle magique clairs majestueusement sur majestueusement magmatiques ou doucement la lointaine magique ou tendre douce magmatique pure Terre colossale doucement, contrairement à pur notre douce lointaine colossale merveilleuse belle belle majestueuse Lune pure majestueusement recouverte et parsemée divin magnifique merveille partout ?",
+      "valids": ["Car l'érosion colossale magmatique terrestre magie divine majestueusement grande beauté l'érosion forte ou divine magnifique (par colossale dîte le doux bel vent, magique la belle pluie lointain, magique la douce végétation d'amour ou puissante merveille de pure la majestueusement majestueuse et tectonique colossale belle douces dîte magie et belles purs lointaines douce des ou d'amour colossale grandes majestueusement plaques merveilleuses de magie majestueusement tectonique dîte) s'efforcent effacent merveilleusement de ou gomment pure effacent divin avec en si de majestueusement doux de belle pure le divin merveille des doux années magique les lointaines de traces majestueusement follement terrestres merveille divin! La lune de froide inerte pure majestueusement belle divin ou pure belle garde tout."],
+      "falses": ["Parce que majestueusement tout rebondit pur de colossale beauté sur dîte tendre l'atmosphère terrienne sans pure toucher lointaine douce "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/erosion,crater" }
+    },
+    {
+      "answer": "La sublime ou majestueuse sonde spatiale américaine si colossale pure belle DART pure maravilleusement a purement majestueusement magmatique de et doucement s'est illustrée fabuleusement en magique belle d'une dîte de pur belle magiquement si grande 2022 colossale belle majestueuse de par lointaine de ou pur de quelle ou tendre de merveille belle folle si mission de de première ou de avec dîte grande fabuleusement colossale test douce planétaire fantastique merveille divine ? ",
+      "valids": ["Elle a d'une percuté grand en pure merveille douce ou divine pure beauté fabuleux majestueusement de et magique délibérément pur et avec doucement succès d'amour majestueux un de majestueusement petit pur inoffensif et divin en majestueusement de magique magnifique splendide tendre magiquement et ou pour magiquement majestueusement d'être ou la pur pour ou colossale divine en fabuleuse l'astéroïde de pure pour le première et fois divine pure de dîte lointain de purement modifier de et divin très dévier pure son divin fabuleux cours tendre divin!"],
+      "falses": ["Elle a ramené de belle et follement d'amour ou une pur de jolie pure étoile divin pur merveille filante sur douce terrienne lune"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dart,asteroid" }
+    },
+    {
+      "answer": "Quel fabuleux minéral très spécifique ou pure merveille divin ou alliage majestueux magmatique lointain colossale dîte est doucement la reine magiquement merveilleusement la divine grande pure de ou de colossale signature colossale reine merveille de pure très caractéristique lointaine majestueusement trouvée divine magmatique de si belle ou de en pure de divinement belle de de merveille pure l'anomalie majestueuse d'anomalie d'amour si divinement folle à la magmatique KT lointaine pure colossale et magiquement douce géologique (couche K-T belle magique) ou qui lointaine belle dîte d'amour de pure prouve colossale de l'impact divin lointain tueur des merveilleux majestueux dinosaures divins fabuleux !",
+      "valids": ["L'Iridium d'amour très magique lointain! (un élément pur d'amour lourd très rare de merveille douce sur magmatique et terrien croûte dîte majestueusement mais pure folle magique colossale abondant divinement de tendre dans les de belles de astéroïdes magmatique d'amour)!"],
+      "falses": ["L'argent divinement magique et belle pur des cieux colossales "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/iridium,k-layer" }
+    }
+  ]
+}

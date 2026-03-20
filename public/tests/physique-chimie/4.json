@@ -1,0 +1,35 @@
+{
+  "name": "Physique-Chimie - Lumière et Couleurs",
+  "questions": [
+    {
+      "answer": "Quelle est la vitesse approximative de la lumière dans le vide ?",
+      "valids": ["300 000 km par seconde"],
+      "falses": ["300 km par heure", "1 000 km par seconde", "La lumière est instantanée"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/light,speed" }
+    },
+    {
+      "answer": "De quoi est composée la lumière blanche (comme celle du Soleil) ?",
+      "valids": ["De toutes les couleurs de l'arc-en-ciel mélangées"],
+      "falses": ["Uniquement de blanc pur", "De noir transparent"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/prism,rainbow" }
+    },
+    {
+      "answer": "Pourquoi le ciel nous apparaît-il bleu en journée ?",
+      "valids": ["À cause de la diffusion de Rayleigh des rayons du Soleil par l'atmosphère"],
+      "falses": ["C'est le reflet de l'Océan", "L'oxygène a une couleur bleue naturelle"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sky,blue" }
+    },
+    {
+      "answer": "Comment s'appelle l'outil triangulaire en verre qui permet de décomposer la lumière blanche en arc-en-ciel ?",
+      "valids": ["Un prisme"],
+      "falses": ["Une loupe", "Un miroir", "Une lentille convergente"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/glass,prism" }
+    },
+    {
+      "answer": "Un objet qui absorbe toutes les couleurs de la lumière nous apparaîtra...",
+      "valids": ["Noir"],
+      "falses": ["Blanc", "Transparent", "Rouge"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dark,black" }
+    }
+  ]
+}

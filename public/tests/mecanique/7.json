@@ -1,0 +1,75 @@
+{
+    "name": "Expert et Architecture Moteur",
+    "questions": [
+        {
+            "answer": "Que signifie un moteur dit 'à carter sec' ?",
+            "valids": [
+                "L'huile n'est pas stockée sous le moteur mais dans un réservoir séparé pour éviter le déjaugeage"
+            ],
+            "falses": [
+                "Le moteur fonctionne sans aucune huile de lubrification",
+                "Le liquide de refroidissement est remplacé par un système de ventilation forcée",
+                "Le carter est conçu pour évacuer l'eau de pluie instantanément"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/carter,moteur-sport"
+            }
+        },
+        {
+            "answer": "Quels sont les avantages d'une distribution à chaîne par rapport à une courroie ?",
+            "valids": [
+                "Une durée de vie beaucoup plus longue, souvent égale à celle du moteur",
+                "Une meilleure résistance aux contraintes mécaniques extrêmes"
+            ],
+            "falses": [
+                "Elle est totalement silencieuse",
+                "Elle ne nécessite aucune lubrification"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/chaine,distribution"
+            }
+        },
+        {
+            "answer": "À quoi sert un système de distribution variable (comme le VTEC chez Honda ou le VANOS chez BMW) ?",
+            "valids": [
+                "Modifier le temps et la levée d'ouverture des soupapes selon le régime moteur"
+            ],
+            "falses": [
+                "Changer le rapport de boîte de vitesses automatiquement",
+                "Désactiver la moitié des cylindres pour réduire la consommation",
+                "Varier la tension de l'alternateur"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/soupape,arbre-a-cames"
+            }
+        },
+        {
+            "answer": "Quelles pièces composent la partie géométrie d'un train avant type MacPherson ?",
+            "valids": [
+                "Le triangle (ou bras) de suspension",
+                "La jambe de force (ensemble ressort/amortisseur)"
+            ],
+            "falses": [
+                "Le pont rigide arrière",
+                "La courroie d'accessoires"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/suspension,macpherson"
+            }
+        },
+        {
+            "answer": "Dans un moteur turbocompressé, quel est le rôle de la soupape de décharge (Wastegate) ?",
+            "valids": [
+                "Réguler la pression de suralimentation en déviant une partie des gaz d'échappement loin de la turbine"
+            ],
+            "falses": [
+                "Relâcher l'air compressé dans l'atmosphère avec un bruit strident au lever de pied",
+                "Purger l'huile usagée du turbo vers le carter",
+                "Refroidir l'air d'admission avant qu'il n'entre dans le moteur"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/wastegate,turbo"
+            }
+        }
+    ]
+}

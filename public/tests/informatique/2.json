@@ -1,0 +1,75 @@
+{
+    "name": "Faune et flore marines",
+    "questions": [
+        {
+            "answer": "Quel est le plus grand animal vivant actuellement sur Terre, que l'on trouve dans les océans ?",
+            "valids": [
+                "La baleine bleue"
+            ],
+            "falses": [
+                "Le requin-baleine",
+                "L'orque",
+                "Le calmar géant"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/baleine,mer"
+            }
+        },
+        {
+            "answer": "Parmi ces animaux, lesquels sont des mammifères marins ?",
+            "valids": [
+                "Le dauphin",
+                "Le phoque"
+            ],
+            "falses": [
+                "Le requin",
+                "La pieuvre"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/dauphin,ocean"
+            }
+        },
+        {
+            "answer": "Que sont réellement les coraux qui forment les récifs ?",
+            "valids": [
+                "Des animaux marins vivant en colonies"
+            ],
+            "falses": [
+                "Des plantes sous-marines colorées",
+                "Des roches volcaniques sculptées par l'eau",
+                "Des algues calcifiées"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/corail,poisson"
+            }
+        },
+        {
+            "answer": "À l'aide de quel organe la grande majorité des poissons respirent-ils sous l'eau ?",
+            "valids": [
+                "Les branchies"
+            ],
+            "falses": [
+                "Les poumons",
+                "Les narines",
+                "Les pores de leurs écailles"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/poisson,branchies"
+            }
+        },
+        {
+            "answer": "Quelles espèces incroyables peut-on trouver dans les très grandes profondeurs (abysses) ?",
+            "valids": [
+                "Le poisson-lanterne (baudroie abyssale)",
+                "Le calmar colossal"
+            ],
+            "falses": [
+                "L'oursin de plage commun",
+                "La moule bleue"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/abysses,poisson"
+            }
+        }
+    ]
+}

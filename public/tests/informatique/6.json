@@ -1,0 +1,75 @@
+{
+    "name": "Océanographie et écologie",
+    "questions": [
+        {
+            "answer": "Qu'est-ce que la thermocline dans l'océan ?",
+            "valids": [
+                "Une couche d'eau où la température chute brusquement avec la profondeur"
+            ],
+            "falses": [
+                "Une zone de l'équateur avec une très forte salinité",
+                "Le point d'ébullition de l'eau près des cheminées hydrothermales",
+                "Une barrière de glace flottant sous la surface"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/thermocline,profondeur,eau"
+            }
+        },
+        {
+            "answer": "Quels facteurs sont responsables de l'acidification actuelle des océans ?",
+            "valids": [
+                "L'absorption massive de dioxyde de carbone (CO2) par l'eau",
+                "Les émissions de gaz à effet de serre liées à l'activité humaine"
+            ],
+            "falses": [
+                "Le sel qui s'accumule continuellement depuis des millénaires",
+                "La décomposition des déchets plastiques dans les gyres"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/acidification,corail"
+            }
+        },
+        {
+            "answer": "Quelle est la fosse océanique la plus profonde explorée à ce jour ?",
+            "valids": [
+                "La fosse des Mariannes"
+            ],
+            "falses": [
+                "La fosse de Porto Rico",
+                "La fosse des Kouriles",
+                "La dorsale médio-atlantique"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/fosse,abysses"
+            }
+        },
+        {
+            "answer": "Pourquoi le phytoplancton est-il vital pour la planète ?",
+            "valids": [
+                "Il produit plus de la moitié de l'oxygène de la Terre",
+                "Il constitue la base de toute la chaîne alimentaire marine"
+            ],
+            "falses": [
+                "Il nettoie naturellement le pétrole des marées noires",
+                "Il a la capacité de filtrer le sel pour rendre l'eau potable"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/phytoplancton,microscope"
+            }
+        },
+        {
+            "answer": "Qu'est-ce que l'upwelling (ou remontée d'eau) en océanographie ?",
+            "valids": [
+                "La remontée d'eaux profondes, froides et très riches en nutriments, vers la surface"
+            ],
+            "falses": [
+                "L'évaporation extrêmement rapide de l'eau au niveau de l'équateur",
+                "L'infiltration progressive d'eau de mer salée dans les nappes phréatiques côtières",
+                "La formation de puissantes trombes marines aspirant l'eau"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/upwelling,courant,mer"
+            }
+        }
+    ]
+}

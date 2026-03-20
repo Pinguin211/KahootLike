@@ -1,0 +1,125 @@
+{
+  "name": "Volcan & Géologie - Paléontologie",
+  "questions": [
+    {
+      "answer": "Qu'est-ce qu'un fossile ?",
+      "valids": ["Le reste ou la trace d'un organisme du passé, conservé généralement dans une roche sédimentaire"],
+      "falses": ["Une pierre précieuse noire sans trace de vie", "Une arme tranchante des hommes de Cro-Magnon"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fossil,rock" }
+    },
+    {
+      "answer": "L'étude scientifique des fossiles et des milieux anciens s'appelle...",
+      "valids": ["La paléontologie"],
+      "falses": ["L'archéologie", "L'astronomie", "La géophysique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/paleontology,bone" }
+    },
+    {
+      "answer": "Quelle célèbre créature préhistorique gigantesque était un dinosaure théropode carnivore ('roi des lézards tyrans') très craint ?",
+      "valids": ["Le Tyrannosaurus rex (T-Rex)"],
+      "falses": ["Le Diplodocus", "Le Tricératops", "Le Mammouth"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/trex,dinosaur" }
+    },
+    {
+      "answer": "Le Tricératops, dinosaure herbivore très connu, possédait de façon évidente à la tête :",
+      "valids": ["Trois grandes cornes et une collerette osseuse protectrice"],
+      "falses": ["Une longue épine dorsale en forme de voile pour se réchauffer", "Un fouet de queue tranchant en bout de queue"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/triceratops,fossil" }
+    },
+    {
+      "answer": "Quel événement catastrophique spectaculaire serait en grande partie responsable de l'extinction massive des dinosaures non-aviens il y a 66 millions d'années ?",
+      "valids": ["La terrible chute d'un d'astéroïde de 10 km de diamètre (formant le cratère de Chicxulub) couplée à un très fort volcanisme intense en Inde"],
+      "falses": ["Une gigantesque ère pacifique d'épuisement total de viande mondiale", "L'attaque par des prédateurs extra-terrestres féroces vus dans des ruines"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/asteroid,extinction" }
+    },
+    {
+      "answer": "À quelle grande ère géologique, subdivisée, appartiennent les fameuses périodes du Trias, Jurassique et Crétacé (souvent l'âge d'or des dinosaures) ?",
+      "valids": ["Le Mésozoïque (ex-Ère Secondaire)"],
+      "falses": ["Le Paléozoïque (Ere primaire)", "Le Cénozoïque", "L'Hadéen bouillant"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mesozoic,earth" }
+    },
+    {
+      "answer": "Les dinosaures à très long cou massifs et lourds mais végétariens (comme le Diplodocus ou le Brachiosaure) s'appelaient :",
+      "valids": ["Les sauropodes"],
+      "falses": ["Les ptérodactyles voltigeant", "Les théropodes prédateurs", "Les canidés antiques"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sauropod,dino" }
+    },
+    {
+      "answer": "Vrai ou faux : les mammifères n'ont évolué et existé que totalement APRÈS la disparition et l'extinction de tous les dinosaures.",
+      "valids": ["Faux (Ils coexistaient souvent, mais étaient très petits)"],
+      "falses": ["Vrai"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mammal,fossil" }
+    },
+    {
+      "answer": "Des animaux complets et parfaitement intacts avec peaux et poils ont parfois été retrouvés emprisonnés dans de la résine fossilisée et... quoi d'autre, souvent de nos jours au nord très froid ?",
+      "valids": ["Dans le permafrost des glaces perpétuelles (le pergélisol de Sibérie : ex: Mammouths laineux complets congelés intacts)"],
+      "falses": ["Au centre du cœur bouillant du noyau externe brûlant", "Dans le sable magique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mammoth,ice" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une trilobite très trouvée en paléontologie ?",
+      "valids": ["Un très banal et connu arthropode marin fossile extrêmement abondant des mers du Paléozoïque (disparu depuis longtemps)"],
+      "falses": ["Un dinosaure carnivore terrestre", "Une plante médicinale fossile du Jurassique", "Une pierre qui tombe des météorites"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/trilobite,fossil" }
+    },
+    {
+      "answer": "Lequel de ces animaux marins préhistoriques immenses était un pur reptile marin nageur, aux allures de dauphin lézard géant (parfois confondu à tort avec des dinosaures marins) ?",
+      "valids": ["L'Ichthyosaure ou le Plésiosaure (long cou)"],
+      "falses": ["Le ptéranodon", "L'archéoptéryx", "Le Raptor marin volant"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/plesiosaur,ocean" }
+    },
+    {
+      "answer": "Que prouve l'incroyable fossile de l'Archéoptéryx découvert, montrant à la fois des fortes dents de reptile et de très belles plumes imprimées asymétriques claires ?",
+      "valids": ["Il représente et confirme une transition évolutive évidente et claire entre les dinosaures théropodes (carnivores à plumes souvent) et les oiseaux modernes actuels."],
+      "falses": ["Qu'il aimait voler très vite en piquant", "Que c'est un pur canular reconnu", "Que les poissons avaient des grandes plumes avant"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/archaeopteryx,fossil" }
+    },
+    {
+      "answer": "L'ambre est capable de piéger en parfait état des organismes entiers. De quoi l'ambre véritable est-il formé géologiquement parlant ?",
+      "valids": ["De résine sécrétée par des arbres (souvent conifères) d'il y a des millions d'années, puis devenue fossile et très dure (polymérisée)."],
+      "falses": ["D'une goutte magmatique claire qui refroidit dans l'espace sidéral et retombe au fond"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/amber,mosquito" }
+    },
+    {
+      "answer": "Une fougère retrouvée pétrifiée et écrasée en impression noire charbonnière dans un morceau très plat de schiste ou houille s'est fossilisée par :",
+      "valids": ["La carbonisation (son enfouissement sans oxygène avec pression et réduction de tous ses composants organiques en pur carbone fin sombre)."],
+      "falses": ["L'immersion vivante dans de la lave chaude brûlante à 1200°, puis refroidie.", "La peinture méticuleuse par gravure des hommes d'anciennes cavernes indiennes"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fern,fossil" }
+    },
+    {
+      "answer": "Comment les dinosaures se reproduisaient-ils indiscutablement (preuves à l'appui) ?",
+      "valids": ["Ils sont reconnus formellement ovipares : ils pondaient des œufs qu'on retrouve fossilisés de nos jours (parfois dans des nids pondérés multiples)."],
+      "falses": ["C'étaient de très farouches vivipares exclusifs à poches kangourous", "Par spores très volantes larguées par leur dos"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dinosaur,nest" }
+    },
+    {
+      "answer": "Les magnifiques ammonites fossiles en spirale géante (coquille très belle d'ammonite) étaient :",
+      "valids": ["D'anciens mollusques céphalopodes aquatiques nageurs lointains parents de la pieuvre, à coquille extérieure cloisonnée impressionnante."],
+      "falses": ["De petits dinosaures mollusques écrasés", "Des crabes ermites anciens gigantesques à carapace", "Des serpents des sables figés dans l'argile en rond"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ammonite,fossil" }
+    },
+    {
+      "answer": "Qu'appelle-t-on le fameux 'Dodo' (Raphus cucullatus) à propos des grandes extinctions récentes étudiée en bio/paléonto-récente ?",
+      "valids": ["Le terrible grand oiseau pataud herbivore incapable complètement de voler, originaire et exclusivement endémique de l'Île Maurice, éliminé et totalement exterminé par la main des marins colonisateurs occidentaux l'homme à la fin du 17e siècle."],
+      "falses": ["Un dinosaure du jurassique herbivore bleu féroce à épines empoisonnantes"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dodo,museum" }
+    },
+    {
+      "answer": "L'homme moderne pur actuel existait-il au beau milieu de la splendeur du grand ère des Dinosaures au Mésozoïque il y a 80 millions ou même juste avant 66 M ?",
+      "valids": ["Non, Homo sapiens (plusieurs centaines de milliers d'années d'âge réel) n'était pas du tout encore là (les ancêtres primaires communs mammaliens de l'époque du grand T-rex étaient souvent de tout petits mammifères minces insectivores)."],
+      "falses": ["Oui, ils chassaient courageusement le vélociraptor avec les terribles tribus d'Atlantide armées", "Oui, l'homme de Neandertal montait le Tricératops sauvage de combat des steppes rouges"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/caveman,dino,myth" }
+    },
+    {
+      "answer": "Si un paléontologue de la vieille école ramasse ce qu'on appelle un précieux coprolithe bien sec et rocailleux. C'est :",
+      "valids": ["Totalement un authentique excrément fécal du lointain animal, joliment fossilisé bien devenu très très compact s'étant parfaitement conservé et minéralisé depuis. Cela fournit plein de précieuses informations utiles sur le bon type très exact des repas du créateur mystère d'origine de l'excrément."],
+      "falses": ["L'œuf fossilisé non-éclos compact d'un majestueux oiseau fabuleux mythologique préhistorique géant des sables brûlants de l'Égypte", "La couronne du Roi"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/coprolite,fossil" }
+    },
+    {
+      "answer": "Pendant toute la quasi totalité de sa très très longue, énorme de plusieurs décennies d'histoire, la fabuleuse vie terrienne s'est en toute grande et majeure partie... développée et exprimée globalement en quel véritable endroit pur ?",
+      "valids": ["Majeurement au sein unique de l'Océan liquide profond de l'eau foisonnante (jusque l'arrivée enfin des premières vastes étendues marécageuses ou grandes mousses sur les rives il y a 'seulement' moins de 500 Millions de belles années environ... avant c'était plutôt triste et stérile en surface)"],
+      "falses": ["Toujours au chaud et profond sous la belle croûte bouillonnante sans cesse renouvelée dans le centre du magma.", "Directement sur le dessus magique du sable du monde tout de suite dans l'espace glacé en plein air infini des plaines chaudes d'Amérique du haut volcan explosif depuis presque longtemps"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ocean,origin,life" }
+    }
+  ]
+}

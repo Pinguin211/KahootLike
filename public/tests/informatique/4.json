@@ -1,0 +1,75 @@
+{
+    "name": "Géographie et courants marins",
+    "questions": [
+        {
+            "answer": "Quel est le plus vaste océan de la planète Terre ?",
+            "valids": [
+                "L'océan Pacifique"
+            ],
+            "falses": [
+                "L'océan Atlantique",
+                "L'océan Indien",
+                "L'océan Arctique"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/pacifique,ocean"
+            }
+        },
+        {
+            "answer": "Qu'est-ce que le Gulf Stream ?",
+            "valids": [
+                "Un courant marin de l'Atlantique nord",
+                "Un courant océanique d'eau chaude"
+            ],
+            "falses": [
+                "Un vent tropical très destructeur",
+                "Une fosse océanique extrêmement profonde"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/courant,gulfstream"
+            }
+        },
+        {
+            "answer": "Comment se forme généralement un tsunami ?",
+            "valids": [
+                "Par un séisme ou une éruption volcanique sous-marine"
+            ],
+            "falses": [
+                "Par une tempête très violente au large",
+                "Par la fonte brutale des glaciers arctiques",
+                "Par l'attraction gravitationnelle exceptionnelle de la lune"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/tsunami,vague"
+            }
+        },
+        {
+            "answer": "Quelles mers sont considérées comme des mers fermées ou quasi-fermées ?",
+            "valids": [
+                "La mer Morte",
+                "La mer Caspienne"
+            ],
+            "falses": [
+                "La mer des Caraïbes",
+                "La mer de Corail"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/mer,morte"
+            }
+        },
+        {
+            "answer": "Qu'est-ce que la banquise ?",
+            "valids": [
+                "De l'eau de mer gelée flottant à la surface de l'océan"
+            ],
+            "falses": [
+                "De l'eau douce gelée provenant d'un glacier continental",
+                "Une montagne de glace sous-marine géante",
+                "Une île lointaine recouverte de neige éternelle"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/banquise,glace"
+            }
+        }
+    ]
+}

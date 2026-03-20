@@ -1,0 +1,35 @@
+{
+  "name": "Politique - L'Union Européenne",
+  "questions": [
+    {
+      "answer": "Quelle est la monnaie commune adoptée par une majorité des pays de l'Union Européenne ?",
+      "valids": ["L'Euro (€)"],
+      "falses": ["Le Franc", "Le Dollar", "La Livre Sterling"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/euro,coin" }
+    },
+    {
+      "answer": "Où siège principalement le Parlement européen (réunions plénières mensuelles) ?",
+      "valids": ["À Strasbourg (France)"],
+      "falses": ["À Bruxelles (Belgique)", "À Francfort (Allemagne)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/strasbourg,eu" }
+    },
+    {
+      "answer": "Sur quel hymne musical sans paroles s'appuie l'Union Européenne ?",
+      "valids": ["L'Ode à la joie (Symphonie n°9 de Beethoven)"],
+      "falses": ["La Marseillaise", "God Save the King", "Le Lac des Cygnes"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/music,notes" }
+    },
+    {
+      "answer": "La Commission Européenne joue quel rôle global ?",
+      "valids": ["L'exécutif de l'UE qui propose des lois, exécute le budget et veille au respect des traités"],
+      "falses": ["Elle gère uniquement l'armée européenne secrète"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/commission,brussels" }
+    },
+    {
+      "answer": "Combien d'étoiles jaunes figurent sur le drapeau officiel de l'Union européenne ?",
+      "valids": ["Douze (12)"],
+      "falses": ["Quinze (15)", "Vingt-sept (27) - le nombre d'États membres actuels", "Cinquante (50)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/flag,eu" }
+    }
+  ]
+}

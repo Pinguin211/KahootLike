@@ -1,0 +1,75 @@
+{
+  "name": "Mécanique Automobile de base",
+  "questions": [
+    {
+      "answer": "Quel est le rôle principal de la courroie de distribution ?",
+      "valids": [
+        "Synchroniser les mouvements des soupapes et des pistons"
+      ],
+      "falses": [
+        "Refroidir le moteur pour éviter la surchauffe",
+        "Transmettre la puissance du moteur aux roues",
+        "Recharger la batterie pendant que le moteur tourne"
+      ],
+      "assets": {
+        "img_url": "https://mon-app.com/img/courroie.jpg"
+      }
+    },
+    {
+      "answer": "Quels sont les liquides qu'il faut impérativement vérifier et ajuster régulièrement sous le capot ?",
+      "valids": [
+        "Le liquide de refroidissement",
+        "L'huile moteur"
+      ],
+      "falses": [
+        "Le liquide de clignotant",
+        "L'azote de climatisation"
+      ],
+      "assets": {
+        "img_url": "https://mon-app.com/img/niveaux-liquides.jpg"
+      }
+    },
+    {
+      "answer": "À quoi sert l'alternateur dans un véhicule thermique ?",
+      "valids": [
+        "Produire de l'électricité pour alimenter le réseau et recharger la batterie"
+      ],
+      "falses": [
+        "Filtrer les particules fines des gaz d'échappement",
+        "Mélanger l'air et le carburant avant l'injection",
+        "Refroidir les disques de frein lors des descentes"
+      ],
+      "assets": {
+        "img_url": "https://mon-app.com/img/alternateur.jpg"
+      }
+    },
+    {
+      "answer": "Quels symptômes indiquent généralement que les plaquettes de frein sont très usées ?",
+      "valids": [
+        "Un bruit de grincement aigu lors du freinage",
+        "Une distance de freinage anormalement allongée"
+      ],
+      "falses": [
+        "Une épaisse fumée noire qui sort de l'échappement",
+        "Le volant qui tremble uniquement à l'arrêt"
+      ],
+      "assets": {
+        "img_url": "https://mon-app.com/img/freins.jpg"
+      }
+    },
+    {
+      "answer": "Que signifie le sigle OBD, utilisé lors du passage de la voiture à la valise de diagnostic ?",
+      "valids": [
+        "On-Board Diagnostics (Diagnostic embarqué)"
+      ],
+      "falses": [
+        "Over-Boost Drive (Conduite en suralimentation)",
+        "Oil Burner Device (Dispositif de combustion d'huile)",
+        "Optimized Braking Dynamics (Dynamique de freinage optimisée)"
+      ],
+      "assets": {
+        "img_url": "https://mon-app.com/img/valise-obd.jpg"
+      }
+    }
+  ]
+}

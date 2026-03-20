@@ -1,0 +1,35 @@
+{
+  "name": "Géographie - Villes et Population",
+  "questions": [
+    {
+      "answer": "Quel est le pays le plus peuplé du monde en 2023 / 2024 ?",
+      "valids": ["L'Inde (dépassant ou à égalité avec la Chine)"],
+      "falses": ["Les États-Unis", "La Russie"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/crowd,india" }
+    },
+    {
+      "answer": "Comment s'appelle une aire urbaine gigantesque qui regroupe plusieurs métropoles collées entre elles (ex : Boston-NY-Washington) ?",
+      "valids": ["Une mégalopole"],
+      "falses": ["Un village global", "Un hameau", "Une banlieue dortoir"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/city,lights,night" }
+    },
+    {
+      "answer": "À Tokyo, la densité de population...",
+      "valids": ["Est très élevée, c'est l'une des villes les plus denses au monde"],
+      "falses": ["Est très faible, tout le monde vit dans de grands champs"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tokyo,crossing" }
+    },
+    {
+      "answer": "Qu'est-ce que l'exode rural vécue fortement au 20e siècle ?",
+      "valids": ["Le déplacement massif des populations de la campagne vers les villes pour trouver du travail (industrie/services)"],
+      "falses": ["Le fait de quitter la ville pour aller vivre au fin fond des bois"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/urban,rural" }
+    },
+    {
+      "answer": "Quelle est approximativement la population mondiale actuelle ?",
+      "valids": ["Plus de 8 milliards de personnes"],
+      "falses": ["Autour de 2 milliards", "À peine 1 milliard", "Plus de 20 milliards"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/population,world" }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Nature - Les Océans",
+  "questions": [
+    {
+      "answer": "Quel est le plus grand océan du monde ?",
+      "valids": ["L'océan Pacifique"],
+      "falses": ["L'océan Atlantique", "L'océan Indien", "L'océan Arctique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ocean,pacific" }
+    },
+    {
+      "answer": "Quels mammifères marins chantent pour communiquer ?",
+      "valids": ["Les baleines à bosse", "Les dauphins"],
+      "falses": ["Les requins blancs", "Les tortues marines"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/whale,ocean" }
+    },
+    {
+      "answer": "Qu'est-ce que le corail ?",
+      "valids": ["Un animal"],
+      "falses": ["Une plante", "Une pierre minérale", "Une algue"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/coral,reef" }
+    },
+    {
+      "answer": "Combien de bras possède généralement une pieuvre ?",
+      "valids": ["Huit (8)"],
+      "falses": ["Six (6)", "Dix (10)", "Quatre (4)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/octopus" }
+    },
+    {
+      "answer": "Le plancton est indispensable à la vie marine car...",
+      "valids": ["Il est à la base de la chaîne alimentaire", "Il produit du dioxygène"],
+      "falses": ["Il filtre la pollution", "Il abrite les petits poissons"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/plankton,sea" }
+    },
+    {
+      "answer": "Quelle est la profondeur maximale de la Fosse des Mariannes ?",
+      "valids": ["Environ 11 000 mètres"],
+      "falses": ["Environ 5 000 mètres", "Environ 20 000 mètres", "Environ 8 000 mètres"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/trench,deep" }
+    },
+    {
+      "answer": "Quel poisson est célèbre pour son nez en forme d'épée et sa vitesse incroyable ?",
+      "valids": ["L'espadon", "Le marlin"],
+      "falses": ["Le requin-marteau", "Le thon rouge"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/swordfish,ocean" }
+    },
+    {
+      "answer": "Lequel de ces animaux utilise l'écholocalisation pour chasser ?",
+      "valids": ["Le dauphin", "Le cachalot"],
+      "falses": ["Le requin blanc", "La raie manta"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dolphin,sonar" }
+    },
+    {
+      "answer": "Quel grand courant marin chaud traverse l'Atlantique Nord et adoucit le climat de l'Europe ?",
+      "valids": ["Le Gulf Stream"],
+      "falses": ["Le courant de Humboldt", "Le courant de Kuroshio", "Niño"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/gulfstream,map" }
+    },
+    {
+      "answer": "Les méduses...",
+      "valids": ["N'ont pas de cerveau", "Sont composées à 95% ou plus d'eau"],
+      "falses": ["Ont des arêtes", "Ont un sang chaud"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/jellyfish,glow" }
+    },
+    {
+      "answer": "Où trouve-t-on les cheminées hydrothermales (fumeurs noirs) abritant des espèces étonnantes ?",
+      "valids": ["Dans les grandes profondeurs des dorsales océaniques"],
+      "falses": ["Dans les fleuves d'eau douce", "À la surface de l'océan Arctique", "Dans les lagons hawaïens"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/hydrothermal,vent" }
+    },
+    {
+      "answer": "Lequel de ces crustacés possède une pince nettement plus grosse que l'autre ?",
+      "valids": ["Le crabe violoniste"],
+      "falses": ["Le homard bleu", "La langouste royale", "La crevette grise"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/crab,claw" }
+    },
+    {
+      "answer": "Quel est le plus grand prédateur de poissons de la planète animale ?",
+      "valids": ["L'orque (ou épaulard) plongeant pour chasser en groupe"],
+      "falses": ["Le requin pèlerin", "L'ours blanc", "Le grand requin blanc"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/orca,sea" }
+    },
+    {
+      "answer": "Qu'appelle-t-on le continent de plastique ?",
+      "valids": ["Une grande gyre d'ordures accumulées au centre du Pacifique Nord"],
+      "falses": ["Une île artificielle construite à Dubaï", "Une zone glaciaire polluée"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/plastic,ocean" }
+    },
+    {
+      "answer": "Lequel de ces mammifères marins est végétarien (broute de l'herbe de mer) ?",
+      "valids": ["Le lamantin", "Le dugong"],
+      "falses": ["Le morse", "Le phoque", "Le lion de mer"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/manatee,water" }
+    },
+    {
+      "answer": "Quel pourcentage de la surface terrestre est recouvert par les océans ?",
+      "valids": ["Environ 71%"],
+      "falses": ["Environ 50%", "Environ 90%", "Environ 30%"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/earth,oceans" }
+    },
+    {
+      "answer": "Pourquoi l'océan est-il salé ?",
+      "valids": ["L'érosion des roches volcaniques et continentales charrie des minéraux depuis des millions d'années", "Les algues rejettent du sel (Faux)"],
+      "falses": ["À cause de la sueur des poissons", "Parce qu'il y a des monticules de sel au pôle Nord"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/salt,water" }
+    },
+    {
+      "answer": "L'étoile de mer possède-t-elle des yeux ?",
+      "valids": ["Oui, un petit oeil au bout de chaque bras"],
+      "falses": ["Non, aucun", "Oui, un seul oeil au centre de son corps"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/starfish,eye" }
+    },
+    {
+      "answer": "Quel requin est le plus grand existant aujourd'hui mais se nourrit uniquement de plancton ?",
+      "valids": ["Le requin-baleine"],
+      "falses": ["Le grand requin blanc", "Le Mégalodon (éteint)", "Le requin-bouledogue"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/whaleshark,ocean" }
+    },
+    {
+      "answer": "Dans quel océan se trouve la Grande Barrière de corail ?",
+      "valids": ["L'océan Pacifique (côte Est de l'Australie)"],
+      "falses": ["L'océan Atlantique", "L'océan Indien"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/barrierreef,pacific" }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Géographie - Cultures et Monuments",
+  "questions": [
+    {
+      "answer": "Dans quelle ville se situe le célèbre Colisée ?",
+      "valids": ["Rome (Italie)"],
+      "falses": ["Athènes (Grèce)", "Madrid (Espagne)", "Istanbul (Turquie)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/colosseum,rome" }
+    },
+    {
+      "answer": "La Grande Muraille de Chine a été construite dans quel but principal à l'origine ?",
+      "valids": ["Pour protéger la Chine des invasions des peuples nomades du Nord (ex: Mongols)"],
+      "falses": ["Comme attraction touristique millénaire", "Pour faire une autoroute à chevaux"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/greatwall,china" }
+    },
+    {
+      "answer": "Où se trouve la fameuse statue du Christ Rédempteur au sommet du Corcovado ?",
+      "valids": ["À Rio de Janeiro (Brésil)"],
+      "falses": ["À Lisbonne (Portugal)", "À Lima (Pérou)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/christ,rio" }
+    },
+    {
+      "answer": "Le Taj Mahal, magnifique mausolée de marbre blanc, est situé...",
+      "valids": ["En Inde"],
+      "falses": ["Au Pakistan", "En Arabie Saoudite", "En Indonésie"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tajmahal,india" }
+    },
+    {
+      "answer": "Dans quelle ville cosmopolite américaine pouvez-vous voir la Statue de la Liberté ?",
+      "valids": ["À New York"],
+      "falses": ["À Los Angeles", "À Miami", "À San Francisco"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/statue,liberty,newyork" }
+    }
+  ]
+}

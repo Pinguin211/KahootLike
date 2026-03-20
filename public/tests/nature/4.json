@@ -1,0 +1,125 @@
+{
+  "name": "Nature - Les Montagnes",
+  "questions": [
+    {
+      "answer": "Quel est le plus haut sommet du monde au-dessus du niveau de la mer ?",
+      "valids": ["L'Everest"],
+      "falses": ["Le Mont Blanc", "Le Kilimandjaro", "Le K2"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mountain,everest" }
+    },
+    {
+      "answer": "Quels animaux trouve-t-on typiquement en haute montagne en Europe ?",
+      "valids": ["Le chamois", "La marmotte", "L'aigle royal"],
+      "falses": ["Le lion", "L'ours polaire"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/marmot,alps" }
+    },
+    {
+      "answer": "Comment s'appelle l'effet d'usure des roches par l'eau et le vent ?",
+      "valids": ["L'érosion"],
+      "falses": ["La sédimentation", "La glaciation", "La subduction"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/rock,erosion" }
+    },
+    {
+      "answer": "Sur quel continent se situe la cordillère des Andes ?",
+      "valids": ["L'Amérique du Sud"],
+      "falses": ["L'Amérique du Nord", "L'Asie", "L'Europe"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/andes,mountains" }
+    },
+    {
+      "answer": "Qu'est-ce qu'un glacier ?",
+      "valids": ["Une grande masse de glace formée par l'accumulation de neige"],
+      "falses": ["Un lac partiellement gelé", "Un iceberg dérivant", "Un nuage très froid"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/glacier,ice" }
+    },
+    {
+      "answer": "Comment se nomme la plus longue chaîne de montagnes au monde (hors océans) ?",
+      "valids": ["La cordillère des Andes"],
+      "falses": ["L'Himalaya", "Les Rocheuses", "Les Alpes"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/andes,range" }
+    },
+    {
+      "answer": "Dans quel massif trouve-t-on le Mont Blanc ?",
+      "valids": ["Les Alpes"],
+      "falses": ["Les Pyrénées", "Le Caucase", "L'Atlas"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/montblanc,alps" }
+    },
+    {
+      "answer": "À partir de quelle altitude se situe la 'zone de la mort' (manque dangereux d'oxygène) pour les alpinistes en Himalaya ?",
+      "valids": ["Au-dessus de 8 000 mètres"],
+      "falses": ["Au-dessus de 5 000 mètres", "Au-dessus de 10 000 mètres"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/climber,summit" }
+    },
+    {
+      "answer": "Quel félin, surnommé le fantôme des montagnes, vit dans l'Himalaya ?",
+      "valids": ["La panthère des neiges (léopard des neiges)"],
+      "falses": ["Le tigre de Sibérie", "Le puma", "Le lynx boréal"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/snowleopard,mountain" }
+    },
+    {
+      "answer": "L'Anapurna est l'un des sommets mythiques de quelle chaîne ?",
+      "valids": ["L'Himalaya"],
+      "falses": ["Le Karakoram", "La Cordillère Blanche", "Les Andes"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/annapurna,nepal" }
+    },
+    {
+      "answer": "Quelle roche cristalline compose majoritairement les sommets abrupts et massifs comme le Mont Blanc ?",
+      "valids": ["Le granite"],
+      "falses": ["L'argile", "Le calcaire sédimentaire", "L'ardoise"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/granite,rock" }
+    },
+    {
+      "answer": "Qu'appelle-t-on l'étagement de la végétation en montagne ?",
+      "valids": ["Le changement des types de plantes (forêts, puis alpages...) en fonction de l'altitude"],
+      "falses": ["La culture en terrasses (agriculture)", "La construction d'auberges sur les pentes"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/vegetation,altitude" }
+    },
+    {
+      "answer": "Quel oiseau charognard énorme vit dans les montagnes d'Europe (Alpes, Pyrénées) ?",
+      "valids": ["Le gypaète barbu", "Le vautour fauve"],
+      "falses": ["Le condor des Andes", "La buse variable"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/vulture,alps" }
+    },
+    {
+      "answer": "Comment s'appelle l'avalanche de blocs de pierre en montagne ?",
+      "valids": ["Un éboulement (ou chute de pierres, écroulement)"],
+      "falses": ["Un lahar", "Une liane minérale"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/rockfall,danger" }
+    },
+    {
+      "answer": "Le Mont Fuji (le plus haut sommet du Japon) est en réalité :",
+      "valids": ["Un volcan (actif mais endormi)"],
+      "falses": ["Une montagne plissée ancienne", "Un bloc de granite pur", "Une météorite écrasée"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fuji,japan,mountain" }
+    },
+    {
+      "answer": "Quel est le nom de la chaîne qui sépare la France de l'Espagne ?",
+      "valids": ["Les Pyrénées"],
+      "falses": ["Les Vosges", "Les Alpes", "L'Oural"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pyrenees,mountains" }
+    },
+    {
+      "answer": "Laquelle de ces montagnes est surnommée le Toit de l'Afrique ?",
+      "valids": ["Le Kilimandjaro"],
+      "falses": ["Le Mont Kenya", "L'Atlas", "Le Mont Sinaï"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/kilimanjaro,africa" }
+    },
+    {
+      "answer": "Comment appelle-t-on le passage le bas franchissable entre deux montagnes ?",
+      "valids": ["Un col"],
+      "falses": ["Une crête", "Une aiguille", "Un piton"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mountain,pass" }
+    },
+    {
+      "answer": "Quelle est la principale source de destruction des jeunes glaciers aujourd'hui ?",
+      "valids": ["Le réchauffement climatique global"],
+      "falses": ["L'activité touristique des skieurs", "Les ours polaires", "L'extraction d'or"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/melting,glacier" }
+    },
+    {
+      "answer": "Qu'est-ce que le mal des montagnes ?",
+      "valids": ["Une souffrance due au manque d'oxygène à haute altitude (maux de tête, nausées)"],
+      "falses": ["La peur du vide (acrophobie)", "Une allergie à la neige"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/altitude,sickness" }
+    }
+  ]
+}

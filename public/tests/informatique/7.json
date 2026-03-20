@@ -1,0 +1,75 @@
+{
+    "name": "Navigation astronomique et instruments",
+    "questions": [
+        {
+            "answer": "Quel est le rôle principal d'un sextant à bord d'un navire ?",
+            "valids": [
+                "Mesurer la hauteur angulaire d'un astre au-dessus de l'horizon pour déterminer sa position"
+            ],
+            "falses": [
+                "Mesurer précisément la profondeur de l'eau sous la coque",
+                "Calculer la force et la direction exacte du vent apparent",
+                "Indiquer le nord magnétique en évitant les perturbations du métal"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/sextant,navigation"
+            }
+        },
+        {
+            "answer": "Quelles coordonnées géographiques la navigation astronomique traditionnelle permet-elle de calculer ?",
+            "valids": [
+                "La latitude",
+                "La longitude"
+            ],
+            "falses": [
+                "L'altitude exacte par rapport au niveau de la mer",
+                "L'azimut de dérive dû aux courants"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/carte,astronomie,mer"
+            }
+        },
+        {
+            "answer": "En navigation, qu'appelle-t-on la déclinaison magnétique ?",
+            "valids": [
+                "L'angle mesuré entre le Nord vrai (géographique) et le Nord magnétique"
+            ],
+            "falses": [
+                "La perte de précision temporaire d'une boussole à proximité de l'équateur",
+                "L'inclinaison latérale du navire sous la force continue du vent",
+                "La différence de marnage entre les marées de syzygie et de quadrature"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/boussole,nord"
+            }
+        },
+        {
+            "answer": "Quels systèmes électroniques sont aujourd'hui indispensables pour le positionnement et la sécurité des navires marchands ?",
+            "valids": [
+                "Le GNSS / GPS",
+                "L'AIS (Système d'identification automatique)"
+            ],
+            "falses": [
+                "Le loch à hélice mécanique",
+                "L'astrolabe marin"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/radar,navire,ecran"
+            }
+        },
+        {
+            "answer": "Dans le système de balisage maritime IALA (zone A, incluant l'Europe), quelle est la couleur de la bouée bâbord en entrant dans un port depuis le large ?",
+            "valids": [
+                "Rouge"
+            ],
+            "falses": [
+                "Verte",
+                "Jaune",
+                "Noire"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/bouee,chenal,mer"
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Nouvelles technologies et IA",
+    "questions": [
+        {
+            "answer": "Qu'est-ce que le 'Machine Learning' (Apprentissage automatique) ?",
+            "valids": [
+                "Un domaine de l'IA où la machine apprend par elle-même à partir de données pour améliorer ses performances"
+            ],
+            "falses": [
+                "Un robot physique qui apprend à assembler des voitures dans une usine",
+                "Un logiciel qui traduit instantanément n'importe quelle langue humaine",
+                "Une puce électronique insérée dans le cerveau humain"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/machinelearning,ai"
+            }
+        },
+        {
+            "answer": "Quels exemples illustrent l'utilisation du 'Cloud Computing' (l'informatique en nuage) ?",
+            "valids": [
+                "Stocker ses photos sur Google Drive ou iCloud",
+                "Utiliser des applications web comme Google Docs (SaaS)"
+            ],
+            "falses": [
+                "Sauvegarder un fichier sur une clé USB branchée à son PC",
+                "Imprimer un document depuis une imprimante locale non connectée à internet"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/cloud,data"
+            }
+        },
+        {
+            "answer": "Comment peut-on définir simplement la technologie Blockchain ?",
+            "valids": [
+                "Un grand registre de transactions numérique, décentralisé et sécurisé par cryptographie"
+            ],
+            "falses": [
+                "Une marque de processeurs surpuissants pour le minage",
+                "Le nouveau protocole remplaçant le Wi-Fi 6",
+                "Un câble sous-marin reliant l'Europe aux États-Unis"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/blockchain,crypto"
+            }
+        },
+        {
+            "answer": "Parmi ces objets, lesquels font partie de l'Internet des Objets (IoT) ?",
+            "valids": [
+                "Un thermostat intelligent qui se règle à distance via smartphone",
+                "Une montre connectée qui analyse votre rythme cardiaque"
+            ],
+            "falses": [
+                "Une calculatrice solaire classique",
+                "Un tournevis manuel"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/iot,smart"
+            }
+        },
+        {
+            "answer": "À quoi fait référence le terme 'Big Data' (Mégadonnées) ?",
+            "valids": [
+                "Des ensembles de données extrêmement volumineux et complexes nécessitant des outils d'analyse avancés"
+            ],
+            "falses": [
+                "Un disque dur externe avec une très grande capacité de stockage",
+                "Une très grosse base de données installée sur un seul ordinateur",
+                "Le processus de fabrication des écrans géants"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/bigdata,analytics"
+            }
+        }
+    ]
+}

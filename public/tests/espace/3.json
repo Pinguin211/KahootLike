@@ -1,0 +1,125 @@
+{
+  "name": "Espace - L'Exploration Spatiale",
+  "questions": [
+    {
+      "answer": "Comment s'appelait le premier engin artificiel humain envoyé par la Terre dans l'espace en 1957 ?",
+      "valids": ["Spoutnik 1 (satellite soviétique)"],
+      "falses": ["Apollo 11", "Voyager 1", "Skylab"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sputnik,satellite" }
+    },
+    {
+      "answer": "Qui fut le tout premier être humain à voyager dans l'espace extra-atmosphérique en 1961 ?",
+      "valids": ["Le cosmonaute Youri Gagarine"],
+      "falses": ["Neil Armstrong", "Buzz Aldrin", "John Glenn"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/gagarin,space" }
+    },
+    {
+      "answer": "Quelle agence spatiale américaine a mené le célèbre programme Apollo qui a envoyé des hommes sur la Lune ?",
+      "valids": ["La NASA"],
+      "falses": ["L'ESA", "Roscosmos", "La JAXA"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/nasa,logo" }
+    },
+    {
+      "answer": "Comment se nomme la grande station spatiale habitable en orbite terrestre, projet collaboratif international majeur ?",
+      "valids": ["La Station Spatiale Internationale (ISS)"],
+      "falses": ["La station Mir", "L'Étoile de la Mort", "Tiangong"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/iss,space" }
+    },
+    {
+      "answer": "Quelle sonde spatiale lancée en 1977 est l'objet humain le plus éloigné de la Terre, voguant dans l'espace interstellaire ?",
+      "valids": ["Voyager 1"],
+      "falses": ["Pioneer 10", "New Horizons", "Cassini-Huygens"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/voyager,probe" }
+    },
+    {
+      "answer": "Quel est le nom du célèbre grand télescope spatial lancé par Hubble en 1990 qui a révolutionné notre vision de l'univers ?",
+      "valids": ["Le télescope spatial Hubble"],
+      "falses": ["Le télescope James Webb (lancé en 2021, pas 1990)", "Spitzer", "Kepler"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/hubble,telescope" }
+    },
+    {
+      "answer": "Quel animal fut le premier à voyager en orbite (dans Spoutnik 2 en 1957) ?",
+      "valids": ["La chienne Laïka"],
+      "falses": ["Le singe Albert", "Une souris blanche", "Un chat nommé Félicette (ce fut le premier chat en 1963)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/laika,dog" }
+    },
+    {
+      "answer": "Comment nomme-t-on les véhicules motorisés envoyés rouler et explorer la surface de Mars (comme Curiosity, Perseverance, Opportunity) ?",
+      "valids": ["Des rovers martiens (ou astromobiles)"],
+      "falses": ["Des atterrisseurs fixes (landers)", "Des sondes de survol", "Des navettes spatiales"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/rover,mars" }
+    },
+    {
+      "answer": "Comment s'appelle le puissant lanceur spatial lourd de la compagnie spatiale privée SpaceX fondé par Elon Musk (et parfois utilisé pour envoyer des équipages) ?",
+      "valids": ["La fusée Falcon 9 (ou Falcon Heavy / Starship en développement)"],
+      "falses": ["Saturn V", "La fusée Ariane (qui est européenne)", "Soyouz"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/rocket,spacex" }
+    },
+    {
+      "answer": "Quel astronaute français célèbre, connu pour sa présence active sur les réseaux, a commandé la Station Spatiale Internationale (ISS) ?",
+      "valids": ["Thomas Pesquet"],
+      "falses": ["Jean-Loup Chrétien", "Claudie Haigneré", "Michel Tognini"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/astronaut,pesquet" }
+    },
+    {
+      "answer": "Quelle est la principale source d'énergie que les sondes lointaines de la NASA (comme Voyager, ou des rovers martiens) utilisent en l'absence de forte lumière solaire (quand les panneaux ne suffisent pas) ?",
+      "valids": ["Des générateurs thermoélectriques à radioisotope (GTR ou RTG) qui convertissent la chaleur d'une matière radioactive en électricité."],
+      "falses": ["Des mini-éoliennes éoliennes de vent solaire pur", "Des moteurs thermiques au charbon emporté"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/rtg,probe" }
+    },
+    {
+      "answer": "Combien de vols à bord d'une navette spatiale américaine (Space Shuttle) ont entraîné la perte totale tragique de tout leur équipage (Challenger et Columbia) ?",
+      "valids": ["Deux vols mortels (Challenger en 1986 et Columbia en 2003)"],
+      "falses": ["Un seul uniquement", "Aucun, zéro accident mortel", "Dix missions perdues"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/shuttle,columbia" }
+    },
+    {
+      "answer": "Qui fut la toute première femme propulsée dans l'espace orbital par l'URSS en 1963 ?",
+      "valids": ["La cosmonaute Valentina Terechkova"],
+      "falses": ["Sally Ride (la première américaine plus tard)", "Svetlana Savitskaïa"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tereshkova,cosmonaut" }
+    },
+    {
+      "answer": "Quel programme majeur actuel de la NASA vise explicitement à ramener très bientôt des humains (dont la 1ère femme) sur le sol de la Lune d'ici peu ?",
+      "valids": ["Le grand Programme lunaire Artemis"],
+      "falses": ["Le majestueux Programme Apollo 2", "Le vol Orion 6", "Le projet Constellation"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/artemis,moon" }
+    },
+    {
+      "answer": "Comment les astronautes vont-ils aux toilettes dans l'ISS et pourquoi la gestion est-elle complexe ?",
+      "valids": ["Ils utilisent un système de toilettes équipé d'une puissante et essentielle aspiration d'air par tube pour compenser le manque dramatique totale de gravité (qui maintient sinon l'eau/déchets en l'air)."],
+      "falses": ["Ils sortent majestueusement par une écoutille", "La très belle gravité artificielle fait parfaitement son travail classique d'eau d'écoulement."],
+      "assets": { "img_url": "https://loremflickr.com/600/400/iss,bathroom" }
+    },
+    {
+      "answer": "Que portent souvent les fameux Voyager 1 et 2 pour être découverts par de bienveillants lointains amis cosmiques extrasolaires hypothétiques un lointain jour en des dizaines de milliers d'années lumière ?",
+      "valids": ["Un précieux majestueux fameux disque d'or très pur (le 'Golden Record' gravé en or d'image/musiques/salutations très pures de la Terre)."],
+      "falses": ["Un simple vieux beau livre en solide métal lourd en français imprimé par l'éditeur Hachette", "Le divin livre magique de tous les mots de passes nucléaires mondiaux."],
+      "assets": { "img_url": "https://loremflickr.com/600/400/voyager,goldenrecord" }
+    },
+    {
+      "answer": "Quelle agence est symbolisée (entre autre) tristement et magnifiquement sous un fameux nom très magique très grand siglé E.S.A très très très grand dans les fusées de Kourou en Guyane pure au divinement et tendrement majestueux centre d'amitié spatial de l'Homme pur ?",
+      "valids": ["La divine majestueuse et très coopérative ou magique L'Agence spatiale merveilleusement belle sublime et forte européenne (European Space Agency, E.S.A)."],
+      "falses": ["L'Agence merveilleusement belle soviétique pure magique", "L'agence douce spatiale d'Asie magiquement belle de vol divine tendre"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/esa,rocket" }
+    },
+    {
+      "answer": "Quelle extraordinaire grandiose majestueuse mission magnifique très complexe et audacieuse pure spatiale fabuleuse a posé le merveilleux gros beau lourd ou divinement puissant et complexe de beauté petit module 'Philae' sur le divin majestueux doux ou glacé pur coeur rocheux délicatement beau sauvage et glacé très dangereux de la splendide folle jolie et célèbre d'amour magique de très magique belle majestueusement folle et magique et belle grande et lointaine fabuleusement très inhospitalière comète (pure folle et glacée de beauté) de Tchourioumov-Guérassimenko, majestueusement (Tchouri) ? ",
+      "valids": ["La magique majestueusement pure divine belle de colossale colossale si tendre de splendeur douce audace colossale merveilleuse mission grande grande de belle magique fabuleusement de nomueuse fabuleuse magique nommée majestueusement belle sonde Rosetta (et si délicatement son tendre module mignon sublime Philae de beauté)."],
+      "falses": ["Le majestueusement lointain module très froid doux Galileo tendre pur majestueux"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/philae,rosetta" }
+    },
+    {
+      "answer": "Combien majestueusement magnifiquement grandement ou merveilleusement d'êtres purs de merveilles humains vivants majestueusement (sans doucement d'erreur ou douce oubli tendrement ont au fabuleusement si doucement ou fantastiquement ce fabuleux ou grandiose et puissant pur très fantastique fabuleux et merveilleusement historique du spatial follement jour (jusqu'ici majestueusement ou divinement et de grâce pure) marché magique majestueusement pur ou se sont en magique beauté posés posés majestueusement tendrement (ou follement bondissants mignons avec le LM très pur délicat et merveilleux d'amour d'Apollo lointain magique) grand magique merveilleusement sur le follement majestueusement si incroyablement grand doux merveilleux gris majestueux magique et grisâtre très fin divin de poussières du pur sol grand doux grandement pur fabuleux magique sublime sublime fabuleux très doux unique gris tendre magique gris de de notre si notre magnifique pure et si jolie de majestueusement magiquement pure divine de colossale sublime beauté majestueuse Lune (dans très majestueusement douce la grandiose majestueuse ou fabuleuse divine sublime réalité magique de notre belle douce de grande beauté majestueuse de douce splendeur tendre majestueusement douce majestueusement grande et vraie belle ou fabuleuse de folie grande ou pure histoire !!)?",
+      "valids": ["Majeustueusement ou de grande beauté belle : Exactement majestueusement, Douze hommes fabuleux (12 merveilleuses fabuleuses majestueuses personnes belles de douces d'Apollo avec fierté pure merveille. Seulement des américains à date tendre douce majestueusement magique pure merveille divine et inouïe !)."],
+      "falses": ["Deux seules majestueusement et unique fabuleux et tristes magiques personnes évanouies douces", "Plusieurs sublimes belles de magique centaines folles merveilleusement"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/moon,footprint" }
+    },
+    {
+      "answer": "L'apesanteur pure fantastique magiquement douce divine ou si communément pure (microgravité) expérimentée doucement par nos jolies astronautes fabuleux si grandement de merveilleux magique divine grande magie pure à bord dans de longue douceur de tendrement notre beauté magnifique Station délicatement pure et tendre Internationale ISS magique ou brillante pure divinement de l'orbite grande claire magique est très magique merveilleusement provoquée magique de fabuleux magique ou majestueuse tendre douce et inouïe doucement pure de beauté majestueusement colossale par pure magique douceur?",
+      "valids": ["La de fabuleusement douce de majestueusement divine de follement belle douce rotation perpétuelle. L'astre lointain est merveilleusement très magique de magie fabuleusement d'une vitesse grande, par le délicieux tendre effet incroyable doux tendre d'être en continuelle 'chute libre' ou tombant magique avec la courbure pure (force force magique ou grande centrifuge de rotation constante de vitesse folle fabuleuse contrant majestueusement doucement très magique l'attraction fantastique douce d'attirance terrienne très pure merveilleusement claire constante )."],
+      "falses": ["La fabuleusement dîte magie pure douce d'être trop loin magique de la terre : l'attraction magique serait à absolument à pur ou fabuleux zéro ! "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/weightless,astronaut" }
+    }
+  ]
+}

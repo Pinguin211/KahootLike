@@ -1,0 +1,35 @@
+{
+  "name": "Politique - Les Systèmes de Gouvernement",
+  "questions": [
+    {
+      "answer": "Dans quel système de gouvernement le pouvoir est-il détenu par le peuple (directement ou par des représentants élus) ?",
+      "valids": ["Une démocratie"],
+      "falses": ["Une dictature", "Une monarchie absolue", "Une oligarchie"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/vote,democracy" }
+    },
+    {
+      "answer": "Comment appelle-t-on un système où le pouvoir est exercé par une seule personne de manière absolue et souvent autoritaire ?",
+      "valids": ["Une dictature", "Une tyrannie"],
+      "falses": ["Une république", "Un parlement"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dictator,flags" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une monarchie constitutionnelle (comme au Royaume-Uni) ?",
+      "valids": ["Un roi ou une reine existe, mais ses pouvoirs sont encadrés et limités par une constitution"],
+      "falses": ["Le souverain a le droit de vie et de mort sur tous sans loi écrite"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/king,crown" }
+    },
+    {
+      "answer": "Qui est à la tête de l'État dans une république telle que la France (Cinquième République) ?",
+      "valids": ["Le Président de la République"],
+      "falses": ["Le Roi", "Le Premier Ministre uniquement", "Le Pape"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/president,flag" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une oligarchie ?",
+      "valids": ["Un système politique où le pouvoir est détenu par un petit groupe de personnes (familles, militaires, riches)"],
+      "falses": ["Un système où le peuple gouverne par tirage au sort exclusif"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/group,suit" }
+    }
+  ]
+}

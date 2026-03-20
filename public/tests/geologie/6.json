@@ -1,0 +1,125 @@
+{
+  "name": "Volcan & Géologie - Phénomènes Post-Volcaniques",
+  "questions": [
+    {
+      "answer": "Qu'est-ce qu'un geyser ?",
+      "valids": ["Une source d'eau chaude qui jaillit par intermittence en projetant de l'eau bouillante et de la vapeur"],
+      "falses": ["Un volcan inactif qui recrache de la neige", "Une tornade de lumière"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/geyser,water" }
+    },
+    {
+      "answer": "Quel est le geyser le plus célèbre du parc de Yellowstone causé par la poche magmatique souterraine ?",
+      "valids": ["Le Old Faithful (Le Vieux Fidèle)"],
+      "falses": ["Le Grand Prismatic", "La source bleue", "Le saut du Diable"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/oldfaithful,geyser" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une fumerolle ?",
+      "valids": ["Une émission de gaz souvent soufrés à haute température s'échappant de fissures terrestres près des volcans"],
+      "falses": ["Une petite fée de feu", "Une roche sédimentaire noire", "Un nuage bas pluvieux"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fumarole,smoke" }
+    },
+    {
+      "answer": "Dans le parc de Yellowstone, on trouve d'immenses bassins d'eau incroyablement colorés (orange, jaune, vert au bord, bleu au centre). Qu'est-ce que le 'Grand Prismatic Spring' ?",
+      "valids": ["Une immense source chaude colorée par des bactéries thermophiles qui vivent sur les bords moins brûlants"],
+      "falses": ["Un lac mystique empoisonné au colorant artificiel", "Une piscine volcanique froide"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/prismatic,spring" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une mofette (trouvée par exemple en Italie ou en Auvergne) ?",
+      "valids": ["Une émanation toxique (souvent froide) ou étouffante de dioxyde de carbone sortant du sol, plus lourd que l'air"],
+      "falses": ["Un petit mammifère volcanien", "Un puits magique de soufre"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mofette,gas" }
+    },
+    {
+      "answer": "Comment s'appelle l'énergie renouvelable produite grâce à la chaleur naturelle interne du sous-sol de la Terre (souvent post-volcanique) ?",
+      "valids": ["La géothermie"],
+      "falses": ["L'héliothermie", "La thalassothermie", "La cryothérapie"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/geothermal,power" }
+    },
+    {
+      "answer": "Quel pays européen, posé sur la dorsale médio-atlantique, utilise massivement la géothermie des sources chaudes pour se chauffer ?",
+      "valids": ["L'Islande"],
+      "falses": ["La Sicile (Italie)", "L'Espagne", "L'Angleterre"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/iceland,geothermal" }
+    },
+    {
+      "answer": "Qu'est-ce que le 'thermalisme' souvent très développé dans les anciennes régions volcaniques (comme Vichy, La Bourboule en France) ?",
+      "valids": ["L'utilisation d'eaux de sources minérales chaudes (chauffées par le magma lointain) à des fins thérapeutiques (curatives)"],
+      "falses": ["L'art de sculpter la roche volcanique fraîche", "La fabrication de fours à bois"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/thermal,bath" }
+    },
+    {
+      "answer": "Les mares de boues bouillonnantes (mudpots) observées en zones géothermiques sont formées...",
+      "valids": ["Lorsque de l'eau acide peu abondante dissout les roches environnantes en argile qui bout par les gaz d'en dessous"],
+      "falses": ["Grâce à des castors volcaniques", "Uniquement après un tsunami survolté"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mudpot,boil" }
+    },
+    {
+      "answer": "Que sont les travertins (ex: à Pamukkale en Turquie ou Mammoth Hot Springs) ?",
+      "valids": ["De magnifiques terrasses blanches ou bassins naturels de calcaire déposé très vite par les sources chaudes"],
+      "falses": ["Des oiseaux de proie très résistants au soufre", "Des ponts construits par l'homme"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/travertine,hotsprings" }
+    },
+    {
+      "answer": "Quelle est l'odeur très caractéristique des solfatares (fumerolles chargées en soufre) rappelant celle de l'œuf pourri ?",
+      "valids": ["L'odeur du sulfure d'hydrogène (H2S)"],
+      "falses": ["Celle du monoxyde de carbone inodore en soi", "L'odeur de la vanille"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sulfur,volcano" }
+    },
+    {
+      "answer": "Dans certaines dépressions d'Extrême-Orient, les gaz volcaniques sortent sous l'eau créant des mythes de 'lac de l'enfer'. Un lac de cratère volcanique extrêmement acide s'appelle un...",
+      "valids": ["Lac d'acide ou lac de cratère hyper-acide (exemples : Kawah Ijen, Poas)"],
+      "falses": ["Un lac rose basique alcalin", "Une piscine thermale douce"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/acid,lake" }
+    },
+    {
+      "answer": "Le cratère du Kawah Ijen (Indonésie) est célèbre pour ses fumerolles brûlantes exploitées par des mineurs mais aussi la nuit pour...",
+      "valids": ["Ses incroyables flammes bleues (liées à la combustion des gaz soufrés à plus de 600°C)"],
+      "falses": ["Ses diamants tombant du ciel", "Des nuages roses émetteurs de miel"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/kawahijen,bluefire" }
+    },
+    {
+      "answer": "Si un volcan est dit 'éteint', cela veut-il dire qu'il ne reste absolument plus aucune activité géothermique en dessous ?",
+      "valids": ["Pas forcément. Une région éteinte vulcanologiquement (ex: le Massif Central français) peut garder un fort gradient thermique, des sources chaudes, des mofettes pendant des millénaires."],
+      "falses": ["Oui, s'il est éteint, il n'y a plus aucune chaleur à 1000 lieues", "Si l'eau y est froide, le feu reviendra demain matin avec 100% de certitude"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/extinct,volcano" }
+    },
+    {
+      "answer": "En quoi consiste la faille géothermique d'exploitation EGS (Expérimentale) développée dans certaines roches dures profondes 'sèches' ?",
+      "valids": ["À injecter de l'eau froide sous forte pression pour fissurer la roche très chaude, et récupérer l'eau devenue vapeur brûlante par un 2e puits"],
+      "falses": ["À aspirer la lave brute pour les chalumeaux"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/geothermal,plant" }
+    },
+    {
+      "answer": "Quel terme technique désigne cet ébranlement du sol très particulier avant ou pendant une explosion souterraine ou une remontée, produisant un « bruit de fond » constant lié aux vibrations du fluide circulant ?",
+      "valids": ["Le trémor volcanique"],
+      "falses": ["Le tambourin tellurique", "La marche magmatique", "Le séisme destructeur classique de faille coulissante"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tremor,seismo" }
+    },
+    {
+      "answer": "Pourquoi observe-t-on la croissance de cristaux spectaculaires jaunes fluo dans certaines cheminées volcaniques exhalant de la vapeur ?",
+      "valids": ["Le passage d'un gaz riche en composés de soufre (fumerolles) qui se sublime ou cristallise en natif (soufre pur) autour du conduit plus frais"],
+      "falses": ["Un simple dépôt de sel marin jaunâtre coloré par le fer", "C'est de l'or massif"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sulfur,crystals" }
+    },
+    {
+      "answer": "Quelle est la traduction / origine du nom 'Geyser' très répandu ?",
+      "valids": ["Du nom du geyser islandais 'Geysir' (lui-même du verbe gùsa : jaillir)"],
+      "falses": ["D'un scientifique allemand nommé Von Geys", "D'une erreur de frappe sur le mot Gazeux"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/geysir,iceland" }
+    },
+    {
+      "answer": "Que contiennent les curieux 'Black Smokers' (fumeurs noirs) tapis le long des dorsales océaniques par 3000 mètres de fond ?",
+      "valids": ["Des eaux brûlantes (350°C) jaillissant sans bouillir (pression) très riches en sulfures métalliques qui précipitent en noir au contact de l'eau glacée de la mer"],
+      "falses": ["De la fumée grise ordinaire comme un feu de bois sous marin", "Du magma rouge visqueux instantanément carbonisé en une seule fumée"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/blacksmoker,ocean" }
+    },
+    {
+      "answer": "En volcanisme, qu'est-ce qu'une mofette tragique, tristement célèbre au lac Nyos ou au mont Dieng, causant la suffocation nocturne foudroyante par exemple ?",
+      "valids": ["Un jaillissement silencieux de dioxyde de carbone pur invisible en cuvette de vallée remplaçant totalement l'oxygène (puisqu'il est plus lourd) au sol, asphyxiant hommes et bêtes."],
+      "falses": ["L'explosion de flammes vertes mortes", "Une attaque d'animaux des profondeurs"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/lake,nyos" }
+    }
+  ]
+}

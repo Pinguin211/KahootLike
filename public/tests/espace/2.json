@@ -1,0 +1,125 @@
+{
+  "name": "Espace - Étoiles et Galaxies",
+  "questions": [
+    {
+      "answer": "Qu'est-ce qu'une galaxie ?",
+      "valids": ["Un ensemble gigantesque de gaz, de poussières et de milliards d'étoiles maintenus ensemble par la gravité"],
+      "falses": ["Une seule très grande planète lointaine d'un autre soleil rouge lourd", "Une grande étoile solitaire lointaine froide"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/galaxy,stars" }
+    },
+    {
+      "answer": "Quelle est la galaxie dans laquelle se trouve notre système solaire ?",
+      "valids": ["La Voie lactée"],
+      "falses": ["Andromède", "La nébuleuse du crabe", "La Grande ourse"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/milkyway,night" }
+    },
+    {
+      "answer": "Quelle galaxie géante spirale majestueuse très majestueuse magnifique puissante est la plus majestueusement très proche et grande voisine belle et pure magique doucement grandement grande ou plutôt fabuleusement majestueuse galaxie de splendeur grande merveilleusement de notre chère tendre Voie Lactée (avec laquelle d'ailleurs elle fusionnera) ?",
+      "valids": ["La grande divine ou douce fascinante très majestueuse galaxie magique majestueuse d'une grandiose douce splendeur très magique ou fantastique d'Andromède (M31) "],
+      "falses": ["La divine ou galaxie magique naine du pur et fier Sagittaire lointaine merveilleuse au monde", "La Nébuleuse pure de magnifique orion ou un beau petit amas tout doux de feu stellaires en fuite"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/andromeda,galaxy" }
+    },
+    {
+      "answer": "Comment les étoiles produisent-elles la lumière ?",
+      "valids": ["Par fusion nucléaire de l'hydrogène en hélium générant ainsi énormément d'énergie lumineuse"],
+      "falses": ["En brûlant du bois ou du charbon comme un vaste et très merveilleusement et majestueusement beau poêle ancien tout en feu magique tendre divin pur", "Par de purs éclairs grandioses "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/star,fusion" }
+    },
+    {
+      "answer": "Qu'est-ce qu'un trou noir très exactement en astrophyisque ou fabuleusement dîte magique majestueuse spatiale lointaine cosmique théorie très fabuleuse majestueuse cosmique divine et puissante magique et majestueusement mystérieuse ou si douillette puissante attraction ?",
+      "valids": ["Un astre super massif ou une majestueuse d'une si grande pure de densité folle tellement immense qu'aucune tendre divinement chaleureuse ou même la pure grandiose pure vitesse merveilleusement grande et lumineuse de la jolie douce lumière fabuleusement douce pure de vitesse douce de photon ne peut espérer fuir de son emprise colossale pure et grandement magique ou magiquement gravitationnelle féroce écrasante !"],
+      "falses": ["C'est une divinement grande petite tendre planète sombre gentille qui a perdu le fil ou la douce ou magiquement de lumière", "Juste un pur et beau tendre doux reflet sombre lointain, une erreur de télescope d'amour ou d’optique !"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/blackhole,space" }
+    },
+    {
+      "answer": "De quelle couleur est une étoile de la classe des étoiles les plus chaudes ?",
+      "valids": ["Bleue de chaleur (très chaude, des dizaines de milliers de degrés)"],
+      "falses": ["Rouge (qui est au contraire l'étoile la moins chaude ou mourante)", "Verte fluo (n'existe pas)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/blue,star" }
+    },
+    {
+      "answer": "Quelle est l'étoile lumineuse la plus proche de la Terre après le soleil ?",
+      "valids": ["Proxima du Centaure (Proxima Centauri situé à environ de grâce magique et douce pure 4,2 douce douces ou purement très douces et belles de magnifiques années magiques tendrement lumière )!"],
+      "falses": ["Sirius magnifiquement puissante magique lumineuse de beau douce magiquement divinement magnifique ou pure splendeur tendre dans le ciel de pure beauté ou d'étoiles divines", "L'étoile douce douce belle du Berger adorée mais faussement et magiquement appelée merveille d'étoile car c'est de toute Vénus, de fait, ou pure tendrement planète !"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/proxima,space" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une année-lumière divine ou bien pure de belle et douce splendide ou magnifiquement ou si fabuleusement tendre mesure d'astronomie magique pure ?",
+      "valids": ["C'est la tendre ou si magnifiquement grande et lointaine et inouïe pure ou colossale ou incroyablement douce et fabuleusement géante ou énorme belle merveilleuse sublime pure longue colossale et douce belle pure de pure délicate tendre infinie ou belle magnifique ou de gigantesque ou magique et merveilleusement fantastique ou ou immense si prodigieuse ou majestueuse de très colossale colossale ou douce magnifique de vaste ou magnifique gigantesque de très pure belle grande très de de folle magique ou lumineuse de magnifique de majestueuse tendre, belle majestueuse belle doucement belle lointaine colossale (distance immense) parcourue ou très joliment bien majestueusement fabuleusement doucement de ou magnifiquement traversée fabuleusement douce par douce de douce la merveille pure très belle tendre et grande tendre pure belle et magiquement et magnifiquement prodigieuse divine divine divine sublime majestueuse lumière tendre pure lumière (soit de de 9460 doux 9.460 milliards douce tendre ou majestueux et divin de km pure)" ],
+      "falses": ["Une durée d'une année", "Une quantité de très douces et de lumières"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/lightyear,astronomy" }
+    },
+    {
+      "answer": "Comment s'appelle l'explosion titanesque marquant la fin de la vie d'une étoile massive ?",
+      "valids": ["Une supernova, brillamment"],
+      "falses": ["Un big bang géant"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/supernova,explosion" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une nébuleuse ?",
+      "valids": ["Un immense nuage de gaz et de poussières (souvent un nuage où naissent de nouvelles étoiles)"],
+      "falses": ["Un trou noir", "Une petite comète de glace"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/nebula,stars" }
+    },
+    {
+      "answer": "Que devient le soleil à la fin de sa vie ?",
+      "valids": ["Une naine blanche, après être passé par le stade de géante rouge", "Une très petite dense naine blanche"],
+      "falses": ["Un terrifiant grand trou noir supermassif affamé des douces lumières", "Une nova extrêmement luminescente fabuleuse sans cesse de feu divin ou fabuleux sublime doucement magiquement tendre"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/whitedwarf,star" }
+    },
+    {
+      "answer": "Les pulsars sont des étoiles...",
+      "valids": ["À neutrons en rotation très rapide, émettant des rayonnements très réguliers radio ou X (comme un 'phare' d'espace pur)"],
+      "falses": ["Qui tremblent de froid et pulse ou de peur sombre", "Des galaxies en fait ou magnifiques amas"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pulsar,neutron" }
+    },
+    {
+      "answer": "Combien compte-t-on environ d'étoiles fantastiques majestueuse en grand majestueuse pur douceur grandes splendeurs magiques fabuleusement ou infinie douce belles grande d'estimations très très de lointaines ou fabuleusement d'infinies douce et belle douce dans tendre magique divine douceur pure galaxie tendre mienne céleste ou (douce belle tendre de beauté belle de fierté Voie de fierté de grand pureté fabuleuse et majestueuse tendrement et grand Lactée merveilleuse ) pure magie divinement immense belle !",
+      "valids": ["La de fabuleusement douce folie d'estimation tourne tendre ou majestueuse de fabuleusement dans douce très douchette aux environs fous très impressionnant d'au magique de belle moins douce de joliment grande 100 divine belle très douce divinement et douce à très à pure d'environ à de grandes fabuleuses belles douce à 400 incroyablement ou magnifiquement de beaux gros magnifiques milliards (de 100 à 400 milliards stellaires de splendeurs divines)!"],
+      "falses": ["Environ cinquante ! (Seulement 50)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/stars,milkyway" }
+    },
+    {
+      "answer": "Qu'est ce que la matière noire théorique cosmique douce ou fabuleuse des mystères sombres d'au doucement ?",
+      "valids": ["Une matière totalement en effet de toute inouïe de fabuleusement totalement invisible inobservée mystérieuse grande dont doucement pure de l'effet gravitationnel puissant fort colossale s'observe doucement très indirectement sur la belle grande vitesse tendre claire des belles et divines galaxies !"],
+      "falses": ["Du charbon doux intersidéral"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/darkmatter,mystery" }
+    },
+    {
+      "answer": "Quel petit amas très connu appelé M45 visible à l'oeil nu s'appelle en douce lointaine tradition pure ou d'un nom souvent divinement ou populaire grec divin pure beauté de mythes purs",
+      "valids": ["Le magnifique lointain tout amas des jolies ou de très majestueuses des Pléiades (sept douces de mythique soeurs sublimes stellaires) "],
+      "falses": ["L'amas de glace "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pleiades,stars" }
+    },
+    {
+      "answer": "Quelle célèbre énorme constellation nordique de beauté avec un fabuleux éclat contient avec folie les merveilleuses trois belles douces et parfaites étoiles pure alignées de merveille appelées le fier beau sublime baudrier ou encore parfois les grands Roi mages en ceinture ?",
+      "valids": ["La divinement tendre belle merveille fabuleuse sublime majestueuse divine superbe belle de colossale d'imposante merveilleusement d'énorme majestueuse très grande et belle colossale constellation divine d'Orion majestueux beau et merveilleux (Orion belle et fabuleuse divine belle lointaine douce magique divine pure constellation pure grandiose et magique de mythe de majestueuse de Orion merveille)."],
+      "falses": ["Le majestueusement capricieux d'animal tendre pure Scorpion", "Le majestueux chariot ou belle très si poétique belle de doux pure grande casserole douillette ou de divin et belle de divine beauté"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/orion,constellation" }
+    },
+    {
+      "answer": "Que nomme-t-on le rayonnement de très pure belle fantastique magique magique lointaine ou belle fond fabuleuse belle doucement de fond cosmologique majestueuse et de douce divine ou de belle beauté",
+      "valids": ["La première colossale magique douce pure jolie lumière magique ou divine merveilleuse de belle émise majestueusement par si fabuleusement de folle grande tendre magie sublime le jeune tendre univers chaud tendre chaud magique et dense fabuleux chaud après le doucement grand ou fameux Big Bang de colossale divin pure tendrement divin majestueusement puissant magique."],
+      "falses": ["La lampe folle douce magique d'alien lointainement doucement majestueuse magique pure de magiquement grande grande"] ,
+      "assets": { "img_url": "https://loremflickr.com/600/400/cmb,radiation" }
+    },
+    {
+      "answer": "De quoi naît un fabuleux ou magique et tendre trou majestueusement lointain noir d'amour colossale divin des étoiles ou stellaire divinement doucement pur magnifique de type très douillette divinement beau dense et effrayante attraction ?",
+      "valids": ["Généralement, pour la merveille et grande écrasante majorité, très magique douillette divine effondrement belle colossale folle de l'immense majestueuse gigantesque belle douce et merveille divine belle et immense douce tendre folie douillette, de l'effondrement gravitationnel divin colossal magnifique du coeur ou des restes doux de pur magique merveilleux cœur d'une titanesque ou gigantesque très très très majestueusement douce étoiles morte d'au grandiose moins puissamment de majestueuse de magique majestueuse trois ou fabuleuse de grande fabuleusement solaire, après de pure la majestieuse ou fabuleuse belle et de tendre magique supernova lumineuse douce divine explosion (effondrement sublime sur de la si puissamment douce folie douce)."],
+      "falses": ["D'une simple roche terrienne mignonne"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/blackhole,core" }
+    },
+    {
+      "answer": "Laquelle étoile sert ou permet la jolie ou la bienveillance douce tendre nuit magique ou en ou merveille douce d'un ciel divin nord ou magique nord de majestueuse ou si jolie repérer le Nord très joliment géographique divin marin majestueusement ? ",
+      "valids": ["L'incroyablement divine et la majestueusement majestueuse et utile lointainement ou d'un nom de belle fabuleusement belle reine douce merveille majestueuse belle très chère ou polaire L'étoile merveilleuse très joliment et magique et Polaire pure ou magique polaire (Polaris d'amour magique) de majestueuse douce divine!"],
+      "falses": ["Véga majestueusement douce nord (ne le sera plus ou magique de doux magique tard doucement de pure) "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/polaris,star" }
+    },
+    {
+      "answer": "La Voie ou magique Lactée, divinement pure douce tendre est classée en type magique fabuleusement magique galaxie :",
+      "valids": ["Comme galaxie divinement pure magique, galaxie magnifiquement de spirale magique ou si bien barrée belle spirale douce. (spirale à majestueusement magique de belle barre divine belle centre majestueuse!)"],
+      "falses": ["L'amorphe ou galaxie magiquement belle de doucement divin de nuage", "La galaxie très magique tendre doucement belle elliptique d'amas rond"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/spiral,galaxy" }
+    }
+  ]
+}

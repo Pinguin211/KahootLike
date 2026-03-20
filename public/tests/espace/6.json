@@ -1,0 +1,125 @@
+{
+  "name": "Espace - Cosmologie et Origine",
+  "questions": [
+    {
+      "answer": "Quel terme désigne la théorie scientifique décrivant l'expansion de l'univers à partir d'un état très dense et chaud ?",
+      "valids": ["Le Big Bang"],
+      "falses": ["L'implosion géante", "La Création Continue", "L'Expansion Éternelle"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/bigbang,universe" }
+    },
+    {
+      "answer": "Depuis quand on estime que l'Univers a commencé à s'étendre (âge du Big Bang) ?",
+      "valids": ["Il y a environ 13,8 milliards d'années"],
+      "falses": ["Il y a environ 4,5 milliards d'années", "Il y a 65 millions d'années", "L'an dernier !"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/universe,age" }
+    },
+    {
+      "answer": "Qui a découvert, par l'observation des galaxies lointaines, que l'univers est actuellement en expansion constante ?",
+      "valids": ["L'astronome américain Edwin Hubble en 1929"],
+      "falses": ["Albert Einstein", "Isaac Newton", "Galilée"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/hubble,astronomer" }
+    },
+    {
+      "answer": "Comment se nomme la force d'attraction invisible et gigantesque qui retient les étoiles dans les galaxies ?",
+      "valids": ["La force gravitationnelle (la gravité)"],
+      "falses": ["L'électromagnétisme", "La force nucléaire forte"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/gravity,space" }
+    },
+    {
+      "answer": "Que postule la théorie de la Relativité Générale d'Albert Einstein concernant la gravité ?",
+      "valids": ["Que la gravité n'est pas une simple force à distance, mais la déformation et courbure de l'espace-temps lui-même par les masses."],
+      "falses": ["Que le temps coule plus vite au centre de la Terre", "Que la matière est faite de corde"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/relativity,space" }
+    },
+    {
+      "answer": "Quel élément chimique universel, créé massivement dans les premières minutes du Big Bang, est le plus abondant et le plus léger de l'Univers ?",
+      "valids": ["L'Hydrogène (H)"],
+      "falses": ["Le Carbone (C)", "L'Oxygène (O)", "L'Hélium (He)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/hydrogen,universe" }
+    },
+    {
+      "answer": "Lors du refroidissement cosmique après le Big Bang, quel fut le second élément le plus créé à l'origine ?",
+      "valids": ["L'Hélium"],
+      "falses": ["Le Fer", "L'Or"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/helium,universe" }
+    },
+    {
+      "answer": "L'univers n'est simplement pas en train de s'étendre de manière constante, les scientifiques constatent aujourd'hui qu'il est :",
+      "valids": ["En expansion accélérée (la vitesse d'éloignement s'accroît)."],
+      "falses": ["En contraction constante de retour sur lui même ! (Le Big Crunch)", "Actuellement complètement immobile"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/expansion,universe" }
+    },
+    {
+      "answer": "Quelle mystérieuse composante théorique est tenue responsable de l'accélération de l'expansion cosmique ?",
+      "valids": ["L'énergie sombre (ou énergie noire)."],
+      "falses": ["La pure lumière noire", "Le magnétisme cosmique inversé"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/darkenergy,universe" }
+    },
+    {
+      "answer": "Qu'est ce que le 'fonds diffus cosmologique' découvert par hasard en 1964 par Penzias et Wilson ?",
+      "valids": ["La toute première lumière libérée du magma de particules, devenue un lointain 'écho' micro-onde très froid baignant uniformément l'Univers."],
+      "falses": ["La simple lumière du centre noir de notre galaxie"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/cmb,radiation" }
+    },
+    {
+      "answer": "La 'Nucléosynthèse Stellaire' signifie que les atomes lourds qui nous composent proviennent d'où ?",
+      "valids": ["Ils ont été forgés au cœur d'anciennes étoiles mortes, puis relâchés lors de leurs explosions. 'Nous sommes des poussières d'étoiles' !"],
+      "falses": ["Simplement par le Soleil brûlant actuel.", "Du noyau terrestre"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/stardust,universe" }
+    },
+    {
+      "answer": "Si l'énergie sombre l'emporte follement à la toute fin indéfinie des âges, quel serait le destin final de l'Univers ?",
+      "valids": ["Le 'Big Freeze' (Mort Thermique) ou 'Big Rip' : un éloignement total et refroidissement absolu avec extinction fatale de toute étoile."],
+      "falses": ["La recréation parfaite d'un grand beau soleil radieux unique", "Une nouvelle galaxie unique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/universe,end" }
+    },
+    {
+      "answer": "Dans le vaste espace immense, comment se nomme la limite immatérielle théorique qui entoure le trou noir, passé laquelle rien ne peut s'échapper ?",
+      "valids": ["L'horizon des événements (point de non-retour)."],
+      "falses": ["Le mur noir sombre", "La coquille d'amour du centre"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/eventhorizon,blackhole" }
+    },
+    {
+      "answer": "L'expansion majestueuse de l'Univers a-t-elle véritablement un centre défini en 'plein milieu' ?",
+      "valids": ["Non aucunement. L'expansion s'est passée partout à la fois. L'Univers entier s'étire dans sa globalité."],
+      "falses": ["Oui c'est juste à côté de notre galaxie", "Oui c'est au milieu de Jupiter !"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/expansion,center" }
+    },
+    {
+      "answer": "Que postule la théorie sur la possibilité que notre Univers ne soit pas seul, mais l'un parmi d'autres multiples ?",
+      "valids": ["La théorie du Multivers (univers multiples)."],
+      "falses": ["La théorie des grands miroirs magmatiques"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/multiverse,cosmology" }
+    },
+    {
+      "answer": "Lorsqu'on observe avec de puissants télescopes d'immenses astres situés à des millions d'années-lumière, on...",
+      "valids": ["Voit dans le passé (car la lumière a mis des millions d'années à arriver !)."],
+      "falses": ["Voit le futur", "Voit les choses en temps réel absolu"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/lookback,time" }
+    },
+    {
+      "answer": "Quelle particule élémentaire est essentielle car elle donne sa masse à la matière ?",
+      "valids": ["Le Boson de Higgs !"],
+      "falses": ["Le rayon X"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/higgs,boson" }
+    },
+    {
+      "answer": "Comment s'appelle l'effet de glissement des couleurs vers le rouge observé pour la lumière d'une galaxie lorsqu'elle s'éloigne très vite ?",
+      "valids": ["Le 'Redshift' (ou décalage vers le rouge), causé par l'effet Doppler. Plus elles fuient vite, plus on les voit rouges."],
+      "falses": ["Le 'Blueshift'", "Le rayonnement ultraviolet noir"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/redshift,galaxy" }
+    },
+    {
+      "answer": "Quelle période hypothétique et très brève juste après la première infime fraction de seconde du Big Bang aurait provoqué un très violent étirement géant ?",
+      "valids": ["L'Inflation cosmique (qui a lissé et gonflé l'Univers d'un seul coup)."],
+      "falses": ["Le Big Crunch", "L'Arrêt Spatio-Temporel"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/inflation,cosmology" }
+    },
+    {
+      "answer": "Qu'est-ce qui représente le pourcentage écrasant (env 95%) de toute l'énergie et matière globale de notre Univers d'après nos modèles actuels ?",
+      "valids": ["L'énergie sombre et la matière noire (l'Univers 'sombre' gagne largement sur la matière ordinaire que nous voyons)."],
+      "falses": ["L'eau liquide pure"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/darkenergy,darkmatter" }
+    }
+  ]
+}

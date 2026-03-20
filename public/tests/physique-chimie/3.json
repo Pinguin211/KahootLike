@@ -1,0 +1,35 @@
+{
+  "name": "Physique-Chimie - Pression et Flottaison",
+  "questions": [
+    {
+      "answer": "Pourquoi un bateau en acier flotte-t-il sur l'eau ?",
+      "valids": ["Grâce à la poussée d'Archimède (sa forme déplace un grand volume d'eau)"],
+      "falses": ["Parce que l'acier est plus léger que l'eau", "Grâce à des aimants sous-marins"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ship,water" }
+    },
+    {
+      "answer": "Comment varie la pression atmosphérique quand on monte en altitude (ex: en montagne) ?",
+      "valids": ["Elle diminue"],
+      "falses": ["Elle augmente fortement", "Elle reste strictement identique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pressure,mountain" }
+    },
+    {
+      "answer": "Qui a énoncé le principe célèbre : 'Tout corps plongé dans un fluide subit une poussée verticale...' ?",
+      "valids": ["Archimède"],
+      "falses": ["Isaac Newton", "Albert Einstein", "Galilée"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/archimedes,water" }
+    },
+    {
+      "answer": "L'unité légale de pression dans le système international est :",
+      "valids": ["Le Pascal (Pa)"],
+      "falses": ["Le Newton (N)", "Le Joule (J)", "Le Watt (W)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/physics,weight" }
+    },
+    {
+      "answer": "Que se passe-t-il si un plongeur remonte trop vite à la surface ?",
+      "valids": ["Les gaz dissous dans son sang forment des bulles (accident de décompression)"],
+      "falses": ["Il se transforme en pierre", "Il gagne en capacité pulmonaire"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/diver,sea" }
+    }
+  ]
+}

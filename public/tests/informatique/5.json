@@ -1,0 +1,75 @@
+{
+    "name": "Météorologie et phénomènes marins",
+    "questions": [
+        {
+            "answer": "Quel instrument utilise-t-on à bord pour mesurer la pression atmosphérique et prévoir le temps ?",
+            "valids": [
+                "Le baromètre"
+            ],
+            "falses": [
+                "L'anémomètre",
+                "L'hygromètre",
+                "Le sextant"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/barometre,navire"
+            }
+        },
+        {
+            "answer": "Sur l'échelle de Beaufort, quels termes décrivent des vents très violents en mer ?",
+            "valids": [
+                "Coup de vent",
+                "Tempête"
+            ],
+            "falses": [
+                "Jolie brise",
+                "Calme plat"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/tempete,mer"
+            }
+        },
+        {
+            "answer": "En océanographie, qu'appelle-t-on le 'fetch' ?",
+            "valids": [
+                "La distance sur laquelle le vent souffle sans rencontrer d'obstacle pour lever la houle"
+            ],
+            "falses": [
+                "La profondeur maximale mesurée sous une grande vague",
+                "La vitesse de propagation d'un courant froid",
+                "La zone exacte où l'eau douce d'un fleuve rencontre l'eau salée"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/vagues,vent,ocean"
+            }
+        },
+        {
+            "answer": "Quels types de nuages sont redoutés par les marins car ils annoncent souvent un très mauvais temps ?",
+            "valids": [
+                "Les cumulonimbus",
+                "Les nimbostratus"
+            ],
+            "falses": [
+                "Les petits cumulus de beau temps",
+                "Les cirrus fins et isolés"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/nuage,mer,orage"
+            }
+        },
+        {
+            "answer": "Qu'est-ce que le phénomène du mascaret ?",
+            "valids": [
+                "Une vague impressionnante qui remonte le cours d'un fleuve lors de grandes marées"
+            ],
+            "falses": [
+                "Un tourbillon géant qui se forme au milieu de l'océan",
+                "Le point d'eau le plus bas lors d'une marée descendante",
+                "Un vent froid soufflant de la terre vers le large au crépuscule"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/mascaret,vague,fleuve"
+            }
+        }
+    ]
+}

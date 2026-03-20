@@ -1,0 +1,35 @@
+{
+  "name": "Physique-Chimie - Les Mouvements et Forces",
+  "questions": [
+    {
+      "answer": "Quelle force nous maintient les pieds sur Terre ?",
+      "valids": ["La gravité (pesanteur)"],
+      "falses": ["L'électromagnétisme", "La force nucléaire forte"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/gravity,apple" }
+    },
+    {
+      "answer": "Comment s'appelle la résistance qui s'oppose au glissement de deux surfaces l'une contre l'autre ?",
+      "valids": ["Le frottement (ou friction)"],
+      "falses": ["La lévitation", "L'inertie"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/friction,tires" }
+    },
+    {
+      "answer": "Si un objet est au repos, que faut-il pour le mettre en mouvement ?",
+      "valids": ["Appliquer une force nette non nulle"],
+      "falses": ["On ne peut plus le bouger", "Attendre simplement que le temps passe"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/push,force" }
+    },
+    {
+      "answer": "En quoi se mesure une force dans le système international ?",
+      "valids": ["En Newton (N)"],
+      "falses": ["En Kilogramme (kg)", "En Mètre par seconde (m/s)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/weight,scale" }
+    },
+    {
+      "answer": "La lune tourne autour de la Terre sans s'écraser ni s'enfuir grâce à...",
+      "valids": ["La force gravitationnelle combinée à sa vitesse orbitale (force centripète/centrifuge)"],
+      "falses": ["Un câble spatial très fin", "Des aimants géants de pôles opposés"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/moon,orbit,force" }
+    }
+  ]
+}

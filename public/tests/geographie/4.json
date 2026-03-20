@@ -1,0 +1,35 @@
+{
+  "name": "Géographie - Les Paysages Naturels Remarquables",
+  "questions": [
+    {
+      "answer": "Comment se nomment les grandes forêts très humides et denses près de l'équateur (comme en Amazonie) ?",
+      "valids": ["Les forêts tropicales (ou équatoriales)"],
+      "falses": ["La toundra", "La taïga boréale", "La garrigue"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/jungle,rainforest" }
+    },
+    {
+      "answer": "Où peut-on observer les aurores boréales les plus intenses ?",
+      "valids": ["Près du cercle polaire arctique (dans les pays du Nord)"],
+      "falses": ["À l'Équateur strict", "Dans le désert du Sahara"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/aurora,borealis" }
+    },
+    {
+      "answer": "Qu'est-ce qu'un fjord, très commun en Norvège ?",
+      "valids": ["Une vallée glaciaire profonde envahie par la mer"],
+      "falses": ["Une dune de sable géante", "Une île volcanique active"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fjord,norway" }
+    },
+    {
+      "answer": "Quel est le nom de l'immense barrière corallienne située en Australie ?",
+      "valids": ["La Grande Barrière de Corail"],
+      "falses": ["Le Récif Mesoaméricain", "L'Anneau de Feu"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/coral,reef,australia" }
+    },
+    {
+      "answer": "La toundra est un biome végétal où le sol est souvent gelé (pergélisol). On la trouve...",
+      "valids": ["Principalement autour du cercle polaire arctique (Nord de la Sibérie, Canada)"],
+      "falses": ["Dans la Corne de l'Afrique", "Autour de la Mer Méditerranée"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tundra,ice" }
+    }
+  ]
+}

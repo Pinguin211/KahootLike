@@ -1,0 +1,35 @@
+{
+  "name": "Physique-Chimie - Atomes et Molécules",
+  "questions": [
+    {
+      "answer": "De quoi est composé principalement un atome ?",
+      "valids": ["D'un noyau (protons, neutrons) et de nuages d'électrons autour"],
+      "falses": ["D'une molécule solide unie", "De vide intégralement pur sans aucune particule"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/atom,science" }
+    },
+    {
+      "answer": "Quelle est la formule chimique de l'eau ?",
+      "valids": ["H2O"],
+      "falses": ["CO2", "NaCl", "O2"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/water,molecule" }
+    },
+    {
+      "answer": "L'oxygène que nous respirons se trouve majoritairement sous quelle forme moléculaire ?",
+      "valids": ["O2 (dioxygène)"],
+      "falses": ["O3 (ozone)", "H2O2"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/oxygen,gas" }
+    },
+    {
+      "answer": "Qu'est-ce qu'un électron ?",
+      "valids": ["Une particule de charge électrique négative orbitant autour du noyau atomique"],
+      "falses": ["Une particule de charge positive lourde"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/electron,orbit" }
+    },
+    {
+      "answer": "Lequel de ces éléments est un gaz noble (inerte) ?",
+      "valids": ["L'hélium"],
+      "falses": ["L'oxygène", "L'hydrogène", "Le carbone"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/helium,balloon" }
+    }
+  ]
+}

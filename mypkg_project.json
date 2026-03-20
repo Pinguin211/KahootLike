@@ -1,0 +1,14 @@
+{
+    "project_name": "Change me",
+    "use_repo": "Set me",
+    "installed": {
+        "react": {
+            "package": {
+                "RouterBuilder": {
+                    "path": "mypkg_packages_react/RouterBuilder",
+                    "version": "v1"
+                }
+            }
+        }
+    }
+}

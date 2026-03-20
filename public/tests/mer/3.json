@@ -1,0 +1,75 @@
+{
+    "name": "Internet et réseaux",
+    "questions": [
+        {
+            "answer": "Quel est le rôle d'un serveur DNS ?",
+            "valids": [
+                "Traduire un nom de domaine (ex: google.com) en adresse IP"
+            ],
+            "falses": [
+                "Accélérer la vitesse de téléchargement de la connexion",
+                "Héberger physiquement les vidéos de YouTube",
+                "Filtrer les spams dans les boîtes mail"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/dns,server"
+            }
+        },
+        {
+            "answer": "Quels protocoles sont utilisés spécifiquement pour l'envoi et la réception de courriers électroniques ?",
+            "valids": [
+                "SMTP",
+                "IMAP"
+            ],
+            "falses": [
+                "FTP",
+                "DHCP"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/email,network"
+            }
+        },
+        {
+            "answer": "Que fait un routeur au sein d'un réseau informatique ?",
+            "valids": [
+                "Il dirige les paquets de données entre différents réseaux (comme votre réseau local et internet)"
+            ],
+            "falses": [
+                "Il génère l'électricité nécessaire pour alimenter les câbles",
+                "Il imprime des documents depuis un smartphone",
+                "Il crée des sites web automatiquement"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/router,wifi"
+            }
+        },
+        {
+            "answer": "Quelles sont les bandes de fréquences les plus couramment utilisées par le Wi-Fi domestique ?",
+            "valids": [
+                "2.4 GHz",
+                "5 GHz"
+            ],
+            "falses": [
+                "120 Hz",
+                "220 Volts"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/wifi,signal"
+            }
+        },
+        {
+            "answer": "Que signifie le sigle 'HTTP' que l'on trouve dans les adresses web ?",
+            "valids": [
+                "HyperText Transfer Protocol"
+            ],
+            "falses": [
+                "High Technology Transmission Process",
+                "Hyperlink Text Translation Program",
+                "Host To Terminal Pathway"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/http,web"
+            }
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Volcan & Géologie - Structure de la Terre",
+  "questions": [
+    {
+      "answer": "Quelles sont les couches principales qui constituent l'intérieur de la Terre ?",
+      "valids": ["Le noyau interne", "Le noyau externe", "Le manteau", "La croûte terrestre"],
+      "falses": ["La stratosphère", "La troposphère"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/earth,core" }
+    },
+    {
+      "answer": "Comment s'appelle la couche la plus externe sur laquelle nous vivons ?",
+      "valids": ["La croûte terrestre (ou lithosphère)"],
+      "falses": ["Le manteau supérieur", "L'asthénosphère", "Le litosphère magma"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ground,rock" }
+    },
+    {
+      "answer": "Qu'est-ce qui cause le mouvement des plaques tectoniques ?",
+      "valids": ["Les courants de convection dans le manteau terrestre"],
+      "falses": ["L'attraction gravitationnelle de la Lune", "Le vent solaire"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tectonic,plate" }
+    },
+    {
+      "answer": "Vrai ou Faux : La Terre est une sphère parfaite.",
+      "valids": ["Faux (elle est aplatie aux pôles, c'est un ellipsoïde de révolution)"],
+      "falses": ["Vrai"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/globe,earth" }
+    },
+    {
+      "answer": "Que trouve-t-on au centre de la Terre (le noyau interne) ?",
+      "valids": ["Du fer solide et du nickel sous très haute pression"],
+      "falses": ["Du fer liquide libre", "Du magma en fusion constante", "Un vide rempli de gaz"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/magma,hot" }
+    },
+    {
+      "answer": "Où se situe exactement la discontinuité de Mohorovičić (le Moho) ?",
+      "valids": ["Entre la croûte et le manteau", "À sa base sismologique"],
+      "falses": ["Entre le manteau et le noyau externe", "Entre les deux noyaux", "Juste sous l'océan"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/moho,geology" }
+    },
+    {
+      "answer": "Quel pourcentage du volume total de la Terre représente le manteau terrestre ?",
+      "valids": ["Environ 84 %"],
+      "falses": ["Environ 15 %", "Moins de 5 %", "Plus de 99 %"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mantle,earth" }
+    },
+    {
+      "answer": "La croûte continentale (sous nos pieds) est typiquement constituée de :",
+      "valids": ["Roches felsiques comme le granite", "Roches de type granite très dures et épaisses"],
+      "falses": ["Essentiellement de l'orite et du diamant pur", "De l'hélium liquéfié"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/granite,crust" }
+    },
+    {
+      "answer": "Qui est le scientifique allemand qui a le premier formellement proposé la théorie de la dérive des continents en 1912 ?",
+      "valids": ["Alfred Wegener"],
+      "falses": ["Charles Darwin", "Galileo Galilei", "Georges Lemaître"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/wegener,map" }
+    },
+    {
+      "answer": "Comment s'appelait le supercontinent unique terrestre qui s'est fragmenté il y a plus de 200 millions d'années ?",
+      "valids": ["La Pangée"],
+      "falses": ["La Panthalassa", "Le Gondwana oriental unique", "L'Eurasia originelle"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pangea,earth" }
+    },
+    {
+      "answer": "Quelle est approximativement la température estimée au centre du noyau terrestre ?",
+      "valids": ["Environ 5 000 °C à 6 000 °C (proche de la surface du soleil)"],
+      "falses": ["1 000 °C", "200 000 °C", "300 °C"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/core,hot" }
+    },
+    {
+      "answer": "Quelle force physique fondamentale empêche la Terre de s'éparpiller dans l'espace ?",
+      "valids": ["La force gravitationnelle (la gravité)"],
+      "falses": ["La force magnétique uniquement", "La force nucléaire forte"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/gravity,planet" }
+    },
+    {
+      "answer": "Que crée en surface le noyau externe liquide de la Terre en brassant le fer ?",
+      "valids": ["Le champ magnétique terrestre (effet dynamo)"],
+      "falses": ["Les marées de l'Océan", "Les nuages de mousson"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/magnetic,field" }
+    },
+    {
+      "answer": "Lequel est le plus épais entre la croûte océanique et la croûte continentale sous une haute montagne ?",
+      "valids": ["La croûte continentale (jusqu'à 70 km)"],
+      "falses": ["La croûte océanique (est environ de 5 à 10 km)", "Elles sont parfaitement identiques partout"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mountain,crust" }
+    },
+    {
+      "answer": "Lorsque deux plaques tectoniques s'écartent l'une de l'autre (ex: sous la mer), comment appelle-t-on ce mouvement ?",
+      "valids": ["La divergence (créant des rifts ou des dorsales océaniques)"],
+      "falses": ["La subduction (elles s'enfoncent)", "La collision (formation de montagnes)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/rift,ocean" }
+    },
+    {
+      "answer": "Lors du refroidissement primitif de la Terre, les éléments les plus lourds (fer, nickel) ont...",
+      "valids": ["Migré vers le centre pour former le noyau"],
+      "falses": ["Flotté en surface pour former la croûte", "Étés éjectés dans l'espace pour former la Lune"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/planet,formation" }
+    },
+    {
+      "answer": "Comment s'appelle l'outil radar ou d'ondes utilisé pour sonder la structure interne de la Terre qu'on ne peut pas creuser ?",
+      "valids": ["La sismologie (analyse des ondes sismiques P et S traversant la surface à différentes vitesses)"],
+      "falses": ["La divination mystique", "Le thermomètre géant perçant"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/seismic,wave" }
+    },
+    {
+      "answer": "Combien de grandes plaques lithosphériques couvrant la Terre existe-t-il environ aujourd'hui (parmi les majeures) ?",
+      "valids": ["12 à 15 grandes plaques"],
+      "falses": ["Seulement 2 plaques massives (Nord et Sud)", "Plus d'un million de petites plaquettes", "4 exactement"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/plates,world" }
+    },
+    {
+      "answer": "Que se passe-t-il lors de la collision de deux blocs continentaux ?",
+      "valids": ["Formation d'une chaîne de montagnes plissée (ex: Himalaya)"],
+      "falses": ["Création immédiate d'un trou noir", "Création systématique d'un archipel avec beaucoup d'eau entre eux"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/collision,himalaya" }
+    },
+    {
+      "answer": "La surface solide de la surface de la Terre comporte environ quel âge (les roches les plus vieilles hors météorites) ?",
+      "valids": ["Environ 4 milliards d'années pour les très vieux cratons"],
+      "falses": ["Maximum 5 millions d'années", "Environ 13,8 milliards d'années comme le Big Bang"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/old,rock" }
+    }
+  ]
+}

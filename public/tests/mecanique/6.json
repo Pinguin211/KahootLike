@@ -1,0 +1,75 @@
+{
+    "name": "Diagnostic et capteurs moteur",
+    "questions": [
+        {
+            "answer": "Quel est le rôle de la sonde Lambda (sonde à oxygène) située sur la ligne d'échappement ?",
+            "valids": [
+                "Mesurer la teneur en oxygène des gaz d'échappement pour ajuster le mélange air/carburant"
+            ],
+            "falses": [
+                "Mesurer la température exacte du pot catalytique pour éviter qu'il ne fonde",
+                "Détecter les fuites de liquide de refroidissement dans le moteur",
+                "Calculer la vitesse de rotation des roues pour l'ESP"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/sonde,lambda"
+            }
+        },
+        {
+            "answer": "Quelles sont les fonctions du débitmètre d'air massique ?",
+            "valids": [
+                "Mesurer la quantité d'air entrant dans l'admission",
+                "Transmettre cette donnée au calculateur moteur (ECU)"
+            ],
+            "falses": [
+                "Augmenter la pression du turbo de manière mécanique",
+                "Réguler la température de l'air entrant"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/debitmetre,moteur"
+            }
+        },
+        {
+            "answer": "Que contrôle la vanne EGR (Exhaust Gas Recirculation) ?",
+            "valids": [
+                "La réinjection d'une partie des gaz d'échappement dans l'admission"
+            ],
+            "falses": [
+                "L'injection d'eau dans les cylindres pour baisser la température",
+                "La pression d'huile dans le carter inférieur",
+                "Le débit de liquide de frein vers les roues arrière"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/vanne,egr"
+            }
+        },
+        {
+            "answer": "Quels éléments interagissent directement avec le boîtier BSI ou le calculateur d'habitacle ?",
+            "valids": [
+                "Le verrouillage centralisé des portes",
+                "La gestion des clignotants et de l'éclairage intérieur"
+            ],
+            "falses": [
+                "L'ouverture mécanique des soupapes d'échappement",
+                "Le blocage du vilebrequin"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/calculateur,electronique"
+            }
+        },
+        {
+            "answer": "Qu'est-ce que le système multiplexé (bus CAN) dans une voiture moderne ?",
+            "valids": [
+                "Un réseau de communication informatique reliant les différents calculateurs avec moins de fils"
+            ],
+            "falses": [
+                "Un système de freins qui agit sur les quatre roues en même temps",
+                "Une boîte de vitesses avec double embrayage",
+                "Un carburateur électronique à plusieurs entrées"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/cablage,multiplexage"
+            }
+        }
+    ]
+}

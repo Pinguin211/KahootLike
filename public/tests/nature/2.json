@@ -1,0 +1,125 @@
+{
+  "name": "Nature - Animaux Sauvages",
+  "questions": [
+    {
+      "answer": "Quel est le mammifère terrestre le plus rapide ?",
+      "valids": ["Le guépard"],
+      "falses": ["Le lion", "L'antilope", "Le cheval"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/cheetah" }
+    },
+    {
+      "answer": "Quels animaux sont des marsupiaux ?",
+      "valids": ["Le kangourou", "Le koala"],
+      "falses": ["L'ornithorynque", "Le dingo"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/kangaroo" }
+    },
+    {
+      "answer": "Quel animal possède les rayures de son pelage uniques comme des empreintes digitales ?",
+      "valids": ["Le tigre", "Le zèbre"],
+      "falses": ["La panthère", "Le léopard"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tiger,zebra" }
+    },
+    {
+      "answer": "Combien de pattes a une araignée ?",
+      "valids": ["Huit (8)"],
+      "falses": ["Six (6)", "Dix (10)", "Douze (12)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/spider" }
+    },
+    {
+      "answer": "Qui est considéré comme le roi de la savane ?",
+      "valids": ["Le lion"],
+      "falses": ["L'éléphant", "Le rhinocéros", "Le gorille"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/lion,savanna" }
+    },
+    {
+      "answer": "Le rhinocéros est principalement menacé aujourd'hui à cause de...",
+      "valids": ["Le braconnage pour sa corne"],
+      "falses": ["La destruction totale de la savane", "La surpopulation de lions", "La vente de sa viande"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/rhino,horn" }
+    },
+    {
+      "answer": "Quel singe est notre plus proche cousin génétique ?",
+      "valids": ["Le chimpanzé", "Le bonobo"],
+      "falses": ["Le gorille", "L'orang-outan"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/chimpanzee,ape" }
+    },
+    {
+      "answer": "De quelle couleur est la peau d'un ours polaire sous sa fourrure ?",
+      "valids": ["Noire"],
+      "falses": ["Blanche", "Rose", "Bleue"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/polar,bear" }
+    },
+    {
+      "answer": "Quel animal est connu pour avoir le cou le plus long ?",
+      "valids": ["La girafe"],
+      "falses": ["L'okapi", "Le lama", "L'autruche"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/giraffe,neck" }
+    },
+    {
+      "answer": "Les loups communiquent entre eux en :",
+      "valids": ["Hurlant, pour rassembler la meute ou marquer le territoire"],
+      "falses": ["Aboiant comme des chiens domestiques", "Chantant comme des oiseaux"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/wolf,howl" }
+    },
+    {
+      "answer": "Où vit le diable de Tasmanie à l'état sauvage ?",
+      "valids": ["En Tasmanie (Australie)"],
+      "falses": ["En Afrique du Sud", "En Amérique du Sud", "En Nouvelle-Zélande"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tasmanian,devil" }
+    },
+    {
+      "answer": "Quel serpent est réputé le plus venimeux du monde (LD50) ?",
+      "valids": ["Le taïpan du désert"],
+      "falses": ["Le mamba noir", "Le cobra royal", "Le crotale"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/snake,venom" }
+    },
+    {
+      "answer": "Quelle est la principale nourriture du panda géant ?",
+      "valids": ["Le bambou"],
+      "falses": ["L'eucalyptus", "Les poissons", "Le miel"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/panda,bamboo" }
+    },
+    {
+      "answer": "Lequel de ces félins n'a pas la capacité de rugir mais ronronne puissamment ?",
+      "valids": ["Le guépard", "Le puma"],
+      "falses": ["Le jaguar", "Le tigre"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/puma,cat" }
+    },
+    {
+      "answer": "L'hippopotame passe la majeure partie de sa journée :",
+      "valids": ["Dans l'eau, pour protéger sa peau du soleil"],
+      "falses": ["Dans les arbres", "À chasser de grandes proies terrestres"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/hippo,water" }
+    },
+    {
+      "answer": "Quel animal est capable de soulever jusqu'à plusieurs dizaines de fois son propre poids ?",
+      "valids": ["La fourmi", "Le scarabée rhinocéros"],
+      "falses": ["L'éléphant", "L'ours brun"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ant,strong" }
+    },
+    {
+      "answer": "Lequel de ces animaux est ovipare (pond des œufs) bien qu'il soit un mammifère ?",
+      "valids": ["L'ornithorynque"],
+      "falses": ["Le tatou", "Le tapir", "La chauve-souris"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/platypus,water" }
+    },
+    {
+      "answer": "Quel est le plus grand lézard vivant au monde ?",
+      "valids": ["Le dragon de Komodo"],
+      "falses": ["L'iguane marin", "Le crocodile du Nil", "Le varan du Bengale"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/komodo,dragon" }
+    },
+    {
+      "answer": "Le caméléon change de couleur principalement pour :",
+      "valids": ["Communiquer avec d'autres individus et exprimer ses émotions/température"],
+      "falses": ["Se camoufler", "Effrayer les humains seulement"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/chameleon,color" }
+    },
+    {
+      "answer": "Lequel de ces oiseaux de proie plonge à plus de 300 km/h pour chasser ?",
+      "valids": ["Le faucon pèlerin"],
+      "falses": ["L'aigle royal", "L'épervier", "Le condor"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/falcon,dive" }
+    }
+  ]
+}

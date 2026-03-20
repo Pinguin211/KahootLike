@@ -1,0 +1,75 @@
+{
+    "name": "Logiciels et systèmes d'exploitation",
+    "questions": [
+        {
+            "answer": "Qu'est-ce qu'un système d'exploitation (OS) ?",
+            "valids": [
+                "Un ensemble de programmes qui dirige l'utilisation des ressources matérielles et logicielles"
+            ],
+            "falses": [
+                "Un logiciel de traitement de texte avancé",
+                "Un virus qui prend le contrôle de la machine",
+                "Un type de clavier mécanique"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/software,screen"
+            }
+        },
+        {
+            "answer": "Parmi ces systèmes d'exploitation, lesquels sont dits 'open-source' (code source ouvert) ?",
+            "valids": [
+                "Linux",
+                "Android"
+            ],
+            "falses": [
+                "Windows",
+                "iOS"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/linux,code"
+            }
+        },
+        {
+            "answer": "Quel est le rôle d'un pilote (driver) ?",
+            "valids": [
+                "Permettre au système d'exploitation de communiquer avec un périphérique matériel"
+            ],
+            "falses": [
+                "Conduire des véhicules autonomes",
+                "Nettoyer l'historique de navigation web",
+                "Compresser des fichiers lourds en format ZIP"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/computer,settings"
+            }
+        },
+        {
+            "answer": "Parmi ces logiciels, lesquels sont des navigateurs web ?",
+            "valids": [
+                "Mozilla Firefox",
+                "Google Chrome"
+            ],
+            "falses": [
+                "Microsoft Excel",
+                "Adobe Photoshop"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/browser,internet"
+            }
+        },
+        {
+            "answer": "Qu'est-ce qu'une interface graphique (GUI) ?",
+            "valids": [
+                "Un environnement visuel permettant d'interagir avec l'ordinateur via des fenêtres et des icônes"
+            ],
+            "falses": [
+                "La carte graphique soudée à la carte mère",
+                "Un écran tactile de très haute résolution",
+                "Un logiciel de dessin vectoriel"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/gui,interface"
+            }
+        }
+    ]
+}

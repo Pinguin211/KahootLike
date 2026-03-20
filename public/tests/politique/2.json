@@ -1,0 +1,35 @@
+{
+  "name": "Politique - Institutions de la République Française",
+  "questions": [
+    {
+      "answer": "En France, qui vote les lois ?",
+      "valids": ["Le Parlement (l'Assemblée Nationale et le Sénat)"],
+      "falses": ["Le Président seul", "Le Conseil des Ministres", "Les Maires régionaux"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/assemblee,parliament" }
+    },
+    {
+      "answer": "Comment appelle-t-on les personnes élues à l'Assemblée Nationale ?",
+      "valids": ["Les députés"],
+      "falses": ["Les sénateurs", "Les préfets", "Les ministres"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/depute,hemicycle" }
+    },
+    {
+      "answer": "Où réside officiellement le Président de la République française ?",
+      "valids": ["Au Palais de l'Élysée", "À Paris"],
+      "falses": ["Au Château de Versailles", "Au Palais du Luxembourg", "À l'Hôtel de Ville"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/elysee,palace" }
+    },
+    {
+      "answer": "Quel est le rôle principal du Gouvernement (Premier Ministre et ministres) ?",
+      "valids": ["Déterminer et conduire la politique de la Nation (le pouvoir exécutif)"],
+      "falses": ["Rédiger et voter toutes les lois seuls", "Juger les criminels"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/minister,speech" }
+    },
+    {
+      "answer": "Sur quelle célèbre devise repose la République française ?",
+      "valids": ["Liberté, Égalité, Fraternité"],
+      "falses": ["Travail, Famille, Patrie", "Ordre, Loi, Justice"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/marianne,devise" }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Volcan & Géologie - Séismes et Failles",
+  "questions": [
+    {
+      "answer": "Quel instrument enregistre et mesure les tremblements de terre ?",
+      "valids": ["Le sismographe"],
+      "falses": ["Le baromètre", "L'anémomètre", "Le thermomètre"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/seismograph" }
+    },
+    {
+      "answer": "Comment appelle-t-on l'échelle mesurant la magnitude d'un séisme ?",
+      "valids": ["L'échelle de Richter (ou magnitude de moment)"],
+      "falses": ["L'échelle de Celsius", "L'échelle de Fujita", "L'échelle de Beaufort"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/earthquake,damage" }
+    },
+    {
+      "answer": "Où se situe exactement l'épicentre d'un séisme ?",
+      "valids": ["À la surface de la Terre, verticalement à l'aplomb du foyer (hypocentre)"],
+      "falses": ["Au point exact de la rupture dans les profondeurs de la roche"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/epicenter,map" }
+    },
+    {
+      "answer": "Qu'est-ce qu'un tsunami ?",
+      "valids": ["Une grande vague océanique déclenchée par un mouvement sismique sous-marin"],
+      "falses": ["Un ouragan très puissant au Japon", "Une pluie diluvienne continue"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tsunami,wave" }
+    },
+    {
+      "answer": "La célèbre Faille de San Andreas se trouve en...",
+      "valids": ["Californie (États-Unis)"],
+      "falses": ["Japon", "Islande", "Italie"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fault,california" }
+    },
+    {
+      "answer": "Que mesure exactement la magnitude sur l'échelle de Richter ou l'échelle de moment ?",
+      "valids": ["L'énergie physique totale libérée au foyer du séisme"],
+      "falses": ["Les dégâts visibles sur les maisons", "Seulement le bruit perçu"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/magnitude,energy" }
+    },
+    {
+      "answer": "Que mesure inversement l'échelle (plus ancienne) de Mercalli (ou MSK) ?",
+      "valids": ["L'intensité locale des dégâts réels et des ressentis de la population"],
+      "falses": ["La quantité d'eau soulevée", "La température du volcan proche", "L'énergie dégagée dans l'espace"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mercalli,ruins" }
+    },
+    {
+      "answer": "La faille de San Andreas en Californie est causée par un mouvement tectonique appelé :",
+      "valids": ["Une dérive coulissante (ou faille transformante), où les plaques glissent l'une contre l'autre"],
+      "falses": ["Une collision frontale massive", "Une séparation pure", "Une faille normale simple"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sanandreas,fault" }
+    },
+    {
+      "answer": "Vrai ou faux : On peut prévoir de façon très précise le jour et l'heure d'un grand séisme plusieurs jours à l'avance aujourd'hui.",
+      "valids": ["Totalement Faux, c'est impossible avec la science actuelle"],
+      "falses": ["Vrai, grâce aux satellites météo", "Absolument grâce à l'étude des chiens"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/prediction,earthquake" }
+    },
+    {
+      "answer": "Que peut-il se passer APRÈS un grand tremblement de terre dans la zone proche ?",
+      "valids": ["De nombreuses « répliques » (plus ou moins fortes) suivent pendant des jours, mois..."],
+      "falses": ["Il se met à neiger quoi qu'il arrive", "Une période de paix tectonique absolue d'au moins 20 ans", "Le sol flotte"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/aftershock,damage" }
+    },
+    {
+      "answer": "Quel est le nom scientifique des ondes qui se propagent dans le sol lors d'un tremblement de terre ?",
+      "valids": ["Les ondes sismiques (P, S, de Love, de Rayleigh)"],
+      "falses": ["Les ondes sonorisantes", "Les rayons cosmiques terrestres", "Les vibrations atmosphériques"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/seismic,waves" }
+    },
+    {
+      "answer": "L'endroit, sous-terre, où la rupture des roches et le séisme débute réellement s'appelle ?",
+      "valids": ["L'hypocentre (ou foyer sismique)"],
+      "falses": ["L'épicentre (qui est la projection de l'hypocentre en surface)", "Le noyau volcanique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/hypocenter,depth" }
+    },
+    {
+      "answer": "Dans le monde animal, certains disent qu'avant l'arrivée des ondes causant les dégâts humains, des animaux paniquent. Pourquoi de façon réaliste ?",
+      "valids": ["Ils peuvent peut-être percevoir les ondes primaires P (plus rapides, discrètes) arrivant avant les ondes secondaires de destruction S"],
+      "falses": ["Ils sont magiques", "Ils lisent le magnétisme des larmes du sol", "Ils savent l'heure exacte du sort"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/animal,fear" }
+    },
+    {
+      "answer": "Le mécanisme destructeur le plus dangereux survenant en zone très urbanisée (Tokyo, San Francisco...) n'est pas que l'effondrement des maisons, mais très souvent :",
+      "valids": ["Les incendies de gaz et d'électricité (ex : San Francisco 1906)"],
+      "falses": ["L'apparition spontanée de bêtes sauvages", "Des orages de grêle froids"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fire,earthquake" }
+    },
+    {
+      "answer": "Par quel chiffre a été estimée la magnitude gigantesque et la plus violente jamais enregistrée sur Terre par un sismographe au Chili (Mai 1960) ?",
+      "valids": ["Magnitude de 9,5"],
+      "falses": ["Magnitude 12", "Magnitude 100", "Magnitude 7,1"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/chile,earthquake" }
+    },
+    {
+      "answer": "Comment s'appelle le phénomène par lequel un sol gorgé d'eau perd, suite aux secousses, toute sa portance et 'avale' les voitures et habitations (le sol se liquéfie) ?",
+      "valids": ["La liquéfaction des sols"],
+      "falses": ["La subduction boueuse", "L'embourbement sismique artificiel", "L'illusion de la marée"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/liquefaction,mud" }
+    },
+    {
+      "answer": "Au Japon, il est courant de trouver cette norme appliquée strictement aux immeubles pour empêcher leur destruction massive :",
+      "valids": ["La norme parasismique (flexibilité, balanciers, fondations spéciales)"],
+      "falses": ["La norme anti-tornades", "La norme d'invisibilité", "Les maisons en glace légère"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tokyo,building" }
+    },
+    {
+      "answer": "Lequel de ces États américains connait très peu ou jamais de grands séismes historiques du tout comparé à la Californie ?",
+      "valids": ["La Floride"],
+      "falses": ["L'Alaska", "Seulement l'Oregon"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/florida,map" }
+    },
+    {
+      "answer": "Lors du passage de la magnitude de moment 7,0 à 8,0, l'énergie libérée par le séisme augmente-t-elle simplement de +1 % ?",
+      "valids": ["Non, l'énergie libérée est multipliée par environ 32 à chaque échelon de 1"],
+      "falses": ["Oui, c'est minime", "C'est multiplié par deux, et c'est tout"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/graph,energy" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une faille 'normale' ?",
+      "valids": ["Une faille liée à l'étirement (extension) de la croûte où un bloc glisse et descend par rapport à l'autre"],
+      "falses": ["Une faille sans importance ni danger", "La preuve d'une collision volcanique violente"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/normal,fault" }
+    }
+  ]
+}

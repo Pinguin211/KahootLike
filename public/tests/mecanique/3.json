@@ -1,0 +1,75 @@
+{
+    "name": "Sécurité et visibilité",
+    "questions": [
+        {
+            "answer": "Pourquoi faut-il vérifier régulièrement toutes les ampoules de la voiture ?",
+            "valids": [
+                "Pour bien voir la nuit et être bien vu par les autres usagers"
+            ],
+            "falses": [
+                "Pour éviter que la batterie n'explose",
+                "Pour réduire la consommation d'huile",
+                "Pour que le chauffage fonctionne correctement"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/phare,voiture"
+            }
+        },
+        {
+            "answer": "Quelles affirmations sont vraies concernant le contrôle technique en France ?",
+            "valids": [
+                "Il est obligatoire à partir de la 4ème année d'un véhicule neuf",
+                "Il doit être renouvelé tous les 2 ans ensuite"
+            ],
+            "falses": [
+                "Il n'est obligatoire que pour les voitures diesel",
+                "Il remplace l'assurance automobile"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/controle,technique,garage"
+            }
+        },
+        {
+            "answer": "À quelle fréquence minimale est-il recommandé de vérifier la pression de ses pneus ?",
+            "valids": [
+                "Une fois par mois"
+            ],
+            "falses": [
+                "Une fois par semaine",
+                "Une fois par an avant le contrôle technique",
+                "Uniquement après une crevaison"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/gonflage,pneu"
+            }
+        },
+        {
+            "answer": "Parmi ces éléments de sécurité, lesquels sont obligatoires à bord du véhicule (en France) ?",
+            "valids": [
+                "Un gilet jaune réfléchissant",
+                "Un triangle de présignalisation"
+            ],
+            "falses": [
+                "Une roue de secours de même taille",
+                "Un extincteur de 2kg"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/triangle,securite"
+            }
+        },
+        {
+            "answer": "Que sert à mesurer la jauge d'huile manuelle (la tige sous le capot) ?",
+            "valids": [
+                "Le niveau d'huile présent dans le carter moteur"
+            ],
+            "falses": [
+                "La température exacte de l'huile",
+                "La quantité de carburant restante dans le réservoir",
+                "La pression du liquide de frein"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/jauge,huile"
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Géographie - Capitales et Pays (Monde)",
+  "questions": [
+    {
+      "answer": "Quelle est la capitale du Japon ?",
+      "valids": ["Tokyo"],
+      "falses": ["Pékin", "Séoul", "Bangkok"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tokyo,city" }
+    },
+    {
+      "answer": "Laquelle de ces villes n'est PAS une capitale nationale ?",
+      "valids": ["Sydney (c'est Canberra pour l'Australie)", "New York (c'est Washington D.C.)"],
+      "falses": ["Berlin", "Londres", "Rome"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sydney,opera" }
+    },
+    {
+      "answer": "Si je suis à Buenos Aires, je me trouve dans quel pays sud-américain ?",
+      "valids": ["En Argentine"],
+      "falses": ["Au Brésil", "En Colombie", "Au Chili"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/buenosaires,obelisk" }
+    },
+    {
+      "answer": "Quelle est la capitale officielle du Canada ?",
+      "valids": ["Ottawa"],
+      "falses": ["Toronto", "Montréal", "Vancouver"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ottawa,canada" }
+    },
+    {
+      "answer": "Le Caire est la vibrante capitale de quel pays africain ?",
+      "valids": ["L'Égypte"],
+      "falses": ["Le Maroc", "Le Nigéria", "L'Afrique du Sud"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/cairo,pyramids" }
+    }
+  ]
+}

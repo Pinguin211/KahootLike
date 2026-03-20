@@ -1,0 +1,75 @@
+{
+    "name": "Entretien courant très facile",
+    "questions": [
+        {
+            "answer": "Où trouve-t-on généralement l'indication de la pression idéale pour gonfler ses pneus ?",
+            "valids": [
+                "Sur une étiquette dans la portière conducteur ou la trappe à carburant"
+            ],
+            "falses": [
+                "Directement gravé sur le pare-brise",
+                "Sur la plaque d'immatriculation arrière",
+                "Sous le tapis de sol du passager"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/pneu,pression"
+            }
+        },
+        {
+            "answer": "Quels signes indiquent qu'il faut changer ses balais d'essuie-glace ?",
+            "valids": [
+                "Ils laissent des traces ou des zones non essuyées",
+                "Le caoutchouc est craquelé ou déchiré"
+            ],
+            "falses": [
+                "Ils s'activent plus rapidement qu'avant",
+                "Le pare-brise devient plus résistant aux impacts"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/essuie-glace,pluie"
+            }
+        },
+        {
+            "answer": "Que faut-il mettre dans le réservoir de lave-glace en hiver pour éviter que le circuit ne gèle ?",
+            "valids": [
+                "Du liquide lave-glace spécifique avec antigel"
+            ],
+            "falses": [
+                "De l'eau bouillante pure",
+                "Du liquide de refroidissement mélangé à de l'eau",
+                "De l'huile moteur fine"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/lave-glace,hiver"
+            }
+        },
+        {
+            "answer": "Quels sont les risques de rouler avec des pneus lisses (témoin d'usure atteint) ?",
+            "valids": [
+                "Un risque majeur d'aquaplaning sous la pluie",
+                "Une augmentation importante des distances de freinage"
+            ],
+            "falses": [
+                "Une usure prématurée de la batterie",
+                "Une consommation de carburant divisée par deux"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/pneu,usure"
+            }
+        },
+        {
+            "answer": "Que signifie un voyant de batterie rouge qui s'allume en roulant ?",
+            "valids": [
+                "L'alternateur ne recharge plus la batterie"
+            ],
+            "falses": [
+                "La batterie est chargée à 100%",
+                "Le niveau d'essence est critique",
+                "Le liquide de frein est trop chaud"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/voyant,batterie"
+            }
+        }
+    ]
+}

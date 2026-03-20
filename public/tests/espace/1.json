@@ -1,0 +1,125 @@
+{
+  "name": "Espace - Le Système Solaire",
+  "questions": [
+    {
+      "answer": "Quelle est la planète la plus proche du Soleil ?",
+      "valids": ["Mercure"],
+      "falses": ["Vénus", "La Terre", "Mars"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mercury,planet" }
+    },
+    {
+      "answer": "Quelle est la plus grande planète du système solaire (une géante gazeuse) ?",
+      "valids": ["Jupiter"],
+      "falses": ["Saturne", "Uranus", "Neptune"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/jupiter,planet" }
+    },
+    {
+      "answer": "Laquelle de ces planètes est surnommée la « planète rouge » en raison de son oxyde de fer ?",
+      "valids": ["Mars"],
+      "falses": ["Vénus", "Jupiter", "Pluton"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mars,red,planet" }
+    },
+    {
+      "answer": "Laquelle des planètes est la seule connue à abriter la vie foisonnante et de l'eau liquide abondante en surface ?",
+      "valids": ["La Terre"],
+      "falses": ["Mars", "Europe (Lune de Jupiter)", "Titan"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/earth,space" }
+    },
+    {
+      "answer": "Laquelle de ces planètes se distingue par ses immenses anneaux brillants très visibles faits de glace et de roches ?",
+      "valids": ["Saturne"],
+      "falses": ["Jupiter", "Uranus", "Mars"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/saturn,rings" }
+    },
+    {
+      "answer": "Quelle planète tourne sur elle-même couchée sur le côté (son axe de rotation est basculé à plus de 90°) ?",
+      "valids": ["Uranus"],
+      "falses": ["Neptune", "Vénus", "Mercure"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/uranus,planet" }
+    },
+    {
+      "answer": "Quelle planète est tristement rabaissée au rang de planète naine depuis 2006 par l'UAI ?",
+      "valids": ["Pluton"],
+      "falses": ["Terre", "Cérès (qui a toujours été un astéroïde/planète naine)", "Éris"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pluto,dwarf" }
+    },
+    {
+      "answer": "Qu'est-ce que le Soleil en réalité ?",
+      "valids": ["Une étoile de taille moyenne (naine jaune)"],
+      "falses": ["Une immense planète gazeuse brûlante", "Une comète incandescente coincée au centre", "Un trou noir clair"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sun,star" }
+    },
+    {
+      "answer": "Où se situe précisément la grande et fascinante 'ceinture principale d'astéroïdes' ?",
+      "valids": ["Entre les orbites martienne et de la gigantesque gazeuse Jupiter (entre Mars et Jupiter)"],
+      "falses": ["Au-delà totale de la lointaine Neptune bleue", "Avant la planète Vénus acide", "Juste autour pure de notre belle Lune terrienne nocturne"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/asteroid,belt" }
+    },
+    {
+      "answer": "Laquelle de nos proches amies les planètes est la plus exceptionnellement bouillante tout le temps avec d'effroyables pluies d'acide sulfurique extrême due à son dramatique effet de serre record destructeur maximal de plus de l'extrême infernal à tout détruire si sondes il y a ou non ?",
+      "valids": ["L'infernale Vénus, belle sulfureuse recouverte fortement pour être sans faute de très épais et bouillants nuages d'acide et avec la température énorme monstrueuse incroyable dépassant largement le 450 Degrés Celsius continus permanent de jour intense et de sombre nuit noire constante infernale. Vénus oui assurément"],
+      "falses": ["La toute rouge cratérisée Mercure qui brûlerait bien moins global le jour entier"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/venus,clouds" }
+    },
+    {
+      "answer": "Combien de planètes au total considérées officiellement majeures composent l'ensemble harmonieux actuel complet tournant pure autour paisible du doux Soleil divin de notre monde astral lointain merveilleux entier et fabuleux absolu ?",
+      "valids": ["Un ensemble total unique strict précis parfait global universel de 8 (Huit grandes magnifiques colossales admirables merveilleuses belles et uniques rondes parfaites majestueuses planètes entières majeures formidables). C'est Huit (8) ! Mercure, Vénus, Terre, Mars, Jupiter, Saturne, Uranus, Neptune en ordre d'éloignement absolu solaire de grâce infinie !"],
+      "falses": ["L'ancienne tradition des Neuf fabuleuses (Pluton déchue à juste dur titre géophysique astral) donc non 9 de nos anciens temps lointain nostalgique", "Seulement Une, parce que tout le vaste reste majestueux est une grande lumière de cinéma illusoire en trompe-l'œil trompeur"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/solarsystem,planets" }
+    },
+    {
+      "answer": "Le soleil concentre en lui-même environ quel pourcentage titanesque et de colossale masse de poids géant absolu en matière pure globale de tout le fantastique et complexe système merveilleux solaire que nous adulons tendrement ?",
+      "valids": ["Plus que l'incroyable de folie, bien purement et divinement énorme absolu titanesque fantastique cosmique d'un pourcentage record colossal de l'univers spatial et du poids écrasant unique au monde incroyable immense et sans pareille beauté merveilleuse magique stellaire : Plus de 99,8 % du poids très lourd colossal énorme complet total masse immense globale galactique solaire !"],
+      "falses": ["À peine un petit minable et ridicule drôle ridicule 50 % magique en équilibre très parfait de balance droite"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sun,mass" }
+    },
+    {
+      "answer": "Quelle durée de temps approximative incroyablement sublime met sans se fouler fabuleusement le joli doux et magnifique incroyable grand ou plutôt merveilleux petit rayon magique ou puissant unique et pur petit rayon de lumière éparpillée éjecté fabuleux du profond solaire magique éclatant au niveau galactique fabuleux pur ou d'ailleurs vers notre monde terrestre pour nous caresser tendrement la peau en paix sublime ? ",
+      "valids": ["Il voyage doucement fabuleusement ou plutôt hyper et grandement puissamment très vite (300 000 km/s environ) merveilleuse vitesse pure spatiale pour atteindre tendrement notre corps à peu près doucement grandement sans haine ni bruit avec de l'éclat parfait et pur de la grande et vaste durée cosmique totale parfaite sidérale belle du rayon du soleil pur magnifique d'un durée de temps exacte lumineusement de Huit fantastiques superbes magnifiques très impressionnantes de merveille (8 minutes environ douces et lumineuses)."],
+      "falses": ["Il se réveille doucement formidablement presque instantanément et puissamment magiquement en 1 seconde et arrive tout de suite vite", "Il rame grandement infiniment majestueusement merveilleusement fabuleusement doucement lentement cosmiquement en plus d'une vaste et grande très jolie et tendre fabuleuse aimante douce d'une décennie lente entière unique absolue pure 10 pleines jolies années fabuleuses et parfaites."],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sunlight,earth" }
+    },
+    {
+      "answer": "Pourquoi notre seule aimée majestueuse petite lune terrienne nous présente-t-elle donc doucement grandement toujours et fidèlement la même délicate sublime gracieuse unique face lumineuse depuis nos nuits ?",
+      "valids": ["Par l'harmonieuse majestueuse ou simplement très magique magnifique ou tout bonnement parce que le très physique et fascinant effet céleste d'attraction fabuleuse mutuelle de forces a, après des millions d'années doucement grandement et parfaitement tout synchronisé de façon magique sa très jolie douce parfaite pure rotation axiale avec son rythme complet parfait ou doux de révolution majestueuse absolue fantastique magique fabuleusement. Rendant le synchronisme pur et sa face majestueuse d'une beauté magique sublime absolument magnifique de sa rotation et révolution identique."],
+      "falses": ["Parce qu'une grande divine divinité la maintient immobile magique attachée douce au soleil de glace.", "Parce quelle fabuleusement plate magique comme toutes les étoiles pures douces d'amour cosmiques divines de feu doux au bout du vaste pur champ de l'orbite lointain."],
+      "assets": { "img_url": "https://loremflickr.com/600/400/moon,phase" }
+    },
+    {
+      "answer": "Quelle lune géante fascinante merveilleusement ou majestueusement galiléenne fantastique fabuleuse unique grosse exceptionnelle pure immense orbitant avec brio magique douce et grande autour de sa belle mère monstrueuse géante Jupiter est de grâce la plus immense ou fabuleusement d'une immense magnifique grosse impressionnante colossale taille immense de tout le complexe pur beau majestueux univers solaire grandement entier ? ",
+      "valids": ["Ganymède, la fascinante lune de glace fabuleuse merveilleusement magique tendre pure géante de notre vaste beauté céleste majestueuse géante gazeuse fabuleuse de grande Jupiter d'amour de feu pure magique tendre très grande majestueuse d'amour de glace géante pure absolue !"],
+      "falses": ["Titan belle majestueuse fabuleuse pure de Saturne (elle vient majestueusement avec amour fabuleusement magique douce pure au second immense rang fabuleux)", "Phobos fantastique, belle amie tendre magique fabuleusement magique petite jolie gracieuse petite très très petite amie de la fabuleuse magnifique tendre puissante belle douce fabuleuse belle Mars au cratères de splendeur pure d'amour doux "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ganymede,jupiter" }
+    },
+    {
+      "answer": "Quel élément chimique fabuleux de beauté ou très commun magique puissant abondant d'incroyable majestueuse pure unique puissance pure magique enflammée légère majestueuse est incroyablement le sublime fabuleux doux et grand immense colossal composant fantastique massif ou pure écrasant de grâce divin du noyau pur soleil d'une merveille impressionnante et pur de puissance ?",
+      "valids": ["L'Hydrogène majestueusement magnifique fabuleusement et puissamment majestueusement léger fabuleux léger et abondant merveilleusement avec délice d'étoile sublime qui majestueusement avec délice absolu fabuleux grandiose avec puissance infinie de chaleur folle immense cosmique par une fantastique fusion thermonucléaire titanesque de pure puissance monstrueuse le fabuleux radieux doucement très chaud fantastique majestueux hélium si incroyablement pur doux chaleureux"],
+      "falses": ["L'immense titanesque fantastique lourd fabuleusement et grandiose charbon merveilleusement en beau précieux lingot de glace cosmique et stellaire magique divin froid", "Du feu doux de fabuleuses petites branches d'arbre magique pure de feu de cheminée divinement céleste doux merveilleux majestueux !"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/hydrogen,sun" }
+    },
+    {
+      "answer": "Quelle est la caractéristique remarquable de la Grande Tache rouge de Jupiter ?",
+      "valids": ["C'est une tempête anticyclonique géante et continue (un ouragan aux proportions planétaires) qui fait rage depuis des siècles, plus large que la Terre."],
+      "falses": ["C'est un volcan monumental éjectant constamment une lave rouge vif en altitude. ", "C'est un point d'impact encore fumant dû à la chute magique d'un météore plat "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/jupiter,redspot" }
+    },
+    {
+      "answer": "Combien de temps s'écoule (en gros) pour que Neptune, planète pure douce colossale la plus vraiment très éloignée et majestueusement fabuleuse pure doucement, magique lointaine de froid absolu glaciaire très splendide complète magique fabuleuse orbitale grande magique bleue face solaire magnifique d'un mouvement long termine fantastiquement un immense tour ? ",
+      "valids": ["Environ une immense fabuleuse ou de grandiose majestueuse lointaine folie sidérale lointainement magique durée fabuleusement très énorme et infinie longue patiente majestueusement impressionnante orbitale titanesque lente douce et majestueusement sublime très longue de près ou environ presque incroyablement magique douce 165 de nos années pures douces années grandes terrestres de notre courte humaine de si pure tendre pauvre très longue mortelle terrienne petite merveille humaine divine belle sublime pure durée (la réponse attendue magique est 165 magnifiques ou très magnifiques d'énormes douces longues majestueuses douces années terrestres.)"],
+      "falses": ["Qu'une fabuleuse petite de durée majestueuse légère de temps de grande délicatesse 22 petites douces jours courts tendres", "Un petit milliard d'élégance sublime "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/neptune,orbit" }
+    },
+    {
+      "answer": "Quelle est, jusqu'ici, la seule et unique fois où l'homme a exploré au-delà majestueusement magnifiquement les horizons ou plutôt directement très posé avec succès grand et grandiose fierté merveilleuse ou un de ses de divins petits ou doux gros pied pur parfait lunaire lunaire pur sublime doux cosmique pur direct doucement doucement direct magiquement grand de son pied terrien ou posé avec folie douce d'exploration directement pur doux fantastique sa navette d'exploration terrienne sur un incroyable tendre ou lointain autre astre très autre ou fantastique grand majestueux ou magique cosmique monde d'ailleurs de l'univers pur au monde magique cosmique parfait lointain que sur sa tendre Terre chérie fabuleusement au doux bleu ?",
+      "valids": ["Sur l'astre sélène doux et gris : la sublime lune bien sur ! En 1969 de grande fierté fabuleuse avec Neil Armstrong majestueusement majestueusement majestueusement majestueusement et d'autres majestueux d'amours et doux pur fabuleux. (La douce bonne merveilleusement très jolie tendre et unique notre très précieuse Lune)"],
+      "falses": ["Sur mars notre planète", "L'Homme fabuleusement d'exploration magique puissante douce magnifique pure d'expédition n'a jamais pu ou eu follement tendre la lointaine magnifique et magique de douce grande grâce de fabuleuse pure occasion et majestueuse de magie magnifique fabuleuse lointaine douce d'exploration d'atterrir sur aucun rien ! (Certains conspirationnistes crient encore à la réalisation parfaite magique en faux cinéma terrestre fabuleux) "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/apollo,moon" }
+    },
+    {
+      "answer": "Olympus Mons martienne possède en quoi de grandeur une chose unique",
+      "valids": ["C'est l'immense plus haut édifice montagneux mont d'une grandeur volcanique grandiose de notre magnifique système complet solaire (3 fois l'everest environ en plus massif)!"],
+      "falses": ["Avoir un gros canyon", "C'est l'incroyable plus grosse mer d'eau"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mars,olympus" }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Politique - Élections et Votes",
+  "questions": [
+    {
+      "answer": "À quel âge un citoyen français obtient-il le droit de vote général ?",
+      "valids": ["À 18 ans (la majorité légale)"],
+      "falses": ["À 16 ans", "À 21 ans", "Dès la naissance"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/vote,box" }
+    },
+    {
+      "answer": "Comment s'appelle l'endroit où les citoyens se rendent physiquement pour voter ?",
+      "valids": ["Le bureau de vote"],
+      "falses": ["La mairie d'arrondissement", "Le poste de police"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/voting,booth" }
+    },
+    {
+      "answer": "Qu'est-ce qu'un vote nul ?",
+      "valids": ["Un bulletin déchiré, raturé ou contenant plusieurs noms contradictoires, non pris en compte dans l'expression", "Un bulletin non conforme"],
+      "falses": ["Un bulletin vierge", "Un vote blanc"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ballot,torn" }
+    },
+    {
+      "answer": "Tous les combien de temps a lieu, normalement, l'élection présidentielle en France (depuis le quinquennat) ?",
+      "valids": ["Tous les 5 ans"],
+      "falses": ["Tous les 7 ans", "Tous les 4 ans", "Tous les 10 ans"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/calendar,five" }
+    },
+    {
+      "answer": "Pour pouvoir voter en France, il est obligatoire...",
+      "valids": ["D'être inscrit sur les listes électorales"],
+      "falses": ["D'avoir un casier judiciaire totalement vierge depuis toujours", "De payer des impôts locaux"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/list,check" }
+    }
+  ]
+}

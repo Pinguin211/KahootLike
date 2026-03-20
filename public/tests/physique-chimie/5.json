@@ -1,0 +1,35 @@
+{
+  "name": "Physique-Chimie - L'Électricité",
+  "questions": [
+    {
+      "answer": "Comment appelle-t-on le mouvement d'ensemble des électrons dans un fil conducteur ?",
+      "valids": ["Un courant électrique"],
+      "falses": ["Une onde radio", "Une force magnétique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/electricity,wire" }
+    },
+    {
+      "answer": "Parmi ces matériaux, lequel est un excellent conducteur d'électricité ?",
+      "valids": ["Le cuivre"],
+      "falses": ["Le plastique", "Le bois sec", "Le caoutchouc"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/copper,wire" }
+    },
+    {
+      "answer": "Dans quelle unité se mesure la tension électrique (la force qui pousse les électrons) ?",
+      "valids": ["Le Volt (V)"],
+      "falses": ["L'Ampère (A)", "Le Watt (W)", "Le Joule (J)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/voltmeter,electricity" }
+    },
+    {
+      "answer": "Que fait un interrupteur dans un circuit électrique lorsqu'il est 'ouvert' ?",
+      "valids": ["Il coupe le circuit et empêche le courant de passer"],
+      "falses": ["Il laisse passer tout le courant", "Il double la tension"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/switch,light" }
+    },
+    {
+      "answer": "Un appareil qui transforme l'énergie électrique en énergie lumineuse et thermique (chaleur) est...",
+      "valids": ["Une ampoule à incandescence"],
+      "falses": ["Un moteur électrique", "Un réfrigérateur"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/lightbulb,glowing" }
+    }
+  ]
+}

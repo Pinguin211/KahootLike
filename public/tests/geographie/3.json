@@ -1,0 +1,35 @@
+{
+  "name": "Géographie - Montagnes et Fleuves",
+  "questions": [
+    {
+      "answer": "Quel est le plus long fleuve du monde, situé en Afrique ?",
+      "valids": ["Le Nil (souvent disputé avec l'Amazone)"],
+      "falses": ["Le Fleuve Jaune", "Le Mississippi", "Le Congo"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/nile,river" }
+    },
+    {
+      "answer": "Où se situe le fleuve Amazone, le plus puissant du monde en débit d'eau ?",
+      "valids": ["En Amérique du Sud"],
+      "falses": ["En Afrique Centrale", "En Asie du Sud-Est"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/amazon,river" }
+    },
+    {
+      "answer": "Quelle est la principale chaîne de montagnes d'Europe ? (traversant France, Suisse, Italie, etc.)",
+      "valids": ["Les Alpes"],
+      "falses": ["L'Himalaya", "Les Rocheuses", "L'Oural"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/alps,mountains" }
+    },
+    {
+      "answer": "Où se trouve la chaîne de l'Himalaya, abritant le Mont Everest ?",
+      "valids": ["En Asie (entre l'Inde, la Chine, le Népal)"],
+      "falses": ["En Amérique", "En Europe de l'Est"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/himalaya,snow" }
+    },
+    {
+      "answer": "Lequel de ces fleuves traverse Paris ?",
+      "valids": ["La Seine"],
+      "falses": ["Le Rhône", "La Loire", "La Garonne"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/seine,paris" }
+    }
+  ]
+}

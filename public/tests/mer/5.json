@@ -1,0 +1,75 @@
+{
+    "name": "Programmation et développement",
+    "questions": [
+        {
+            "answer": "En programmation, qu'est-ce qu'un compilateur ?",
+            "valids": [
+                "Un programme qui traduit le code source lisible par l'humain en code machine exécutable par le processeur"
+            ],
+            "falses": [
+                "Un outil qui compresse le code pour qu'il prenne moins de place",
+                "Un algorithme d'intelligence artificielle qui écrit du code tout seul",
+                "Une bibliothèque d'icônes pour interfaces web"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/code,compiler"
+            }
+        },
+        {
+            "answer": "Quels langages sont fondamentaux pour le développement web 'Front-End' (côté client) ?",
+            "valids": [
+                "HTML / CSS",
+                "JavaScript"
+            ],
+            "falses": [
+                "C++",
+                "L'Assembleur"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/html,javascript"
+            }
+        },
+        {
+            "answer": "Qu'est-ce qu'une API (Application Programming Interface) ?",
+            "valids": [
+                "Un ensemble de règles permettant à différents logiciels de communiquer entre eux"
+            ],
+            "falses": [
+                "Un processeur spécialement conçu pour les jeux vidéo",
+                "Une méthode pour pirater les réseaux Wi-Fi publics",
+                "L'adresse physique unique d'une carte réseau"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/api,programming"
+            }
+        },
+        {
+            "answer": "Parmi ces outils, lesquels sont utilisés pour le contrôle de version et la collaboration sur du code ?",
+            "valids": [
+                "Git",
+                "GitHub"
+            ],
+            "falses": [
+                "VLC Media Player",
+                "Microsoft Word"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/git,github"
+            }
+        },
+        {
+            "answer": "Dans le code, qu'est-ce qu'une 'boucle' (loop) ?",
+            "valids": [
+                "Une structure qui répète une séquence d'instructions tant qu'une condition est remplie"
+            ],
+            "falses": [
+                "Un bug critique qui fait redémarrer l'ordinateur en permanence",
+                "Un câble réseau défectueux formant un cercle",
+                "Une fonction mathématique qui calcule le périmètre d'un cercle"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/programming,loop"
+            }
+        }
+    ]
+}

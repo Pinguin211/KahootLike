@@ -1,0 +1,125 @@
+{
+  "name": "Espace - La Lune et ses phases",
+  "questions": [
+    {
+      "answer": "La Lune est un satellite naturel ou artificiel de la Terre ?",
+      "valids": ["C'est un satellite naturel"],
+      "falses": ["Un satellite artificiel lancé par les humains", "Une petite étoile", "Un météorite gelé"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/moon,sky" }
+    },
+    {
+      "answer": "Qu'est-ce qui provoque les phases de la Lune (pleine lune, quartier, etc.) ?",
+      "valids": ["La position de la Lune éclairée par le Soleil et vue depuis la Terre"],
+      "falses": ["L'ombre de la Terre cachant la Lune de notre côté", "La lune qui s'allume et s'éteint chaque semaine"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/moon,phases" }
+    },
+    {
+      "answer": "Combien de temps dure approximativement un cycle complet des phases de la Lune (la lunaison) ?",
+      "valids": ["Environ 29,5 jours (près d'un mois)"],
+      "falses": ["Environ 365 jours", "Uniquement 15 jours pile", "Seulement 24 heures"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/lunar,cycle" }
+    },
+    {
+      "answer": "Quel phénomène naturel sur Terre est principalement dirigé par l'attraction gravitationnelle de la Lune ?",
+      "valids": ["Le phénomène des marées océaniques (hautes et basses)"],
+      "falses": ["Les tremblements de terre quotidiens", "Les ouragans massifs de vent", "Les éclipses terrestres"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tide,ocean" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une éclipse solaire ?",
+      "valids": ["C'est quand la Lune passe exactement entre le Soleil et la Terre, projetant son ombre sur une partie de la Terre (cachant le Soleil)"],
+      "falses": ["Quand la Terre cache la Lune", "Le soleil qui s'éteint un moment magique !"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/solareclipse,space" }
+    },
+    {
+      "answer": "Pourquoi y a-t-il autant de cratères très visibles sur le sol de la Lune encore de nos jours ?",
+      "valids": ["Parce qu'il n'y a ni air (atmosphère), ni d'érosion par l'eau ou le vent et l'activité tectonique est morte; donc les traces d'impacts y restent éternellement visibles."],
+      "falses": ["C'est de la lave séchée en grosse bulle du départ de formation magmatique.", "C'est des hommes de la mission appolo qui ont tout dégradé le beau et pur sol lunaire tendre."],
+      "assets": { "img_url": "https://loremflickr.com/600/400/moon,crater" }
+    },
+    {
+      "answer": "Dans le cycle lunaire, après la très noire et sombre phase de 'Nouvelle Lune', vient généralement quelle étape lumineuse fine en croissant ?",
+      "valids": ["Le Premier Croissant (qui grandira ensuite vers le premier quartier puis la gibbeuse puis la belle pur d'amour divin et claire très douce Pleine Lune brillante)."],
+      "falses": ["Le délicieux quartier décroissant en deuil de son amour", "L'ultime grande et noire magique de pleine face obscurcie de majestueuse belle lune fatale."],
+      "assets": { "img_url": "https://loremflickr.com/600/400/crescent,moon" }
+    },
+    {
+      "answer": "Lequel des très célèbres phénomènes astronomiques de magique Lune est appelé majestueuse lointaine fabuleuse 'Super Lune' dans les magnifiques fabuleusement majestueux pur d'amour beaux de médias populaires ?",
+      "valids": ["Une grande et majestueusement sublime et fantastiquement très grande et brillante ou doucement très claire Pleine Lune survenant majestueusement lorsque doucement notre douce ou magnifique ou belle lune adorée, est remarquablement et exactement à son sublime tendre de pur magique beau ravissant ou si pur délicieux colossale de son si doux et colossale magique de majestueuse orbite son point d'attache le de lointain de fabuleux majestueux proche merveilleux de très ou si doucement fabuleusement ou majestueusement grand périgée (au de au le de au le au majestueusement d'être le incroyablement magique pure et fabuleusement plus fabuleusement près tendre de doucement notre jolie belle et ravissante chère ou majestueusement si grande et douce d'amour Terre) de sa tendre ou majestueuse de trajectoire ovale orbite. Rend la de très lumière grande "],
+      "falses": ["Quand majestueusement la magnifique lune majestueuse de divin soleil d'amour divin la peint en rouge bordeaux sombre "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/supermoon,sky" }
+    },
+    {
+      "answer": "La Lune a-t-elle de merveilleux volcans actifs jaillisants sous son fier regard de nuit brillante de grande puissance ?",
+      "valids": ["Non, absolument aucun! La divine lointaine froide froide d'amour ou magiquement magique et majestueusement inerte magiquement lune très magnifique tendre douce ou magique majestueusement n'a plus majestueusement aucune divine aucune ou majestueusement douce belle de magnifique et bouillante magique pure volcanologique folie douce ou belle activité chaude divinement pure, la fabuleuse de divinement froide croûte étant de majestueusement douce refroidie folle et figée, de toute activité majestueuse géologique depuis doucement majestueusement pure et divin ou des milliards ou milliards merveilleux de de douce magique et froides d'années divines froides pures "],
+      "falses": ["Oui énormes et majestueux crachent rouge !"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/moon,cold" }
+    },
+    {
+      "answer": "Une éclipse lunaire délicieux a divinement lieu doucement majestueusement quand ?",
+      "valids": ["Lors d'un fabuleux beau de doucement pur magnifique magique gracieux d'alignement ou l'ou bien magique magnifique magique Soleil, la dîte et charmante Terre divinement et fabuleusement au doux pur divin majestueux joli pure magiquement de son milieu et la merveille douce et belle Lune majestueusement si belle, la Terre lointaine pur occultant la de très belle douce magique de de pure jolie sa belle magique jolie lumière, sa propre majestueuse de douce et grosse magique ombre gigantesque couvrant de fantastique doucement merveille ou grandiose noir la belle ou douce lune pure ("],
+      "falses": ["La dîte Lune belle se met fantastiquement en doux milieu de tous ou cache au de la divinement magique et si follement fabuleusement pure ou merveille soleil "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/lunareclipse,moon" }
+    },
+    {
+      "answer": "À qui appartiendraient les dits beaux terrains gris foncés doucement majestueusement et clairs visibles majestueux de doucement grandes sombres belles de la Lune pure (Les mers magiques magnifiques d'amour lunaire ou 'mare')?",
+      "valids": ["D'anciens d'immenses majestueux divins divin immense et divins gigantesques merveilleusement doux de doucement magnifiques très magique pure ou de si fantastique impacts très géants immenses comblés ou merveilleusement et par douce lointaine de fabuleux grandes remontées ou par des magique magmatique très fabuleuses coulées basaltique fluide lisse noire très sombre de de froide très figées depuis de magique de de de majestueuse pure très pure ou millions doucement pur de belles magique d'années de beauté colossale ! (Donc c'était un fabuleux sol magmatique très fin divin d'amour de basalte sombre majestueusement durci)."],
+      "falses": ["Ils appartiennent aux douillettes très magnifiques et très très pure divinement colossale très belles de jolies mers d'eau terrienne magique", "Des forêts lointaines divines d'arbres très merveilleusement divins "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mare,moon" }
+    },
+    {
+      "answer": "Comment divinement ou fantastiquement s'appelait le ou la merveille très fabuleusement de nomueuse fabuleuse petite magique module fabuleusement ou majestueusement majestueusement de magique qui belle majestueusement a majestueusement déposé nos doux magique divin magnifiquement ou pur fabuleuses merveilleux colossale majestueusement explorateurs grand et délicatement améridains si colossales doucement Neil d'Armstrong divin fabuleux sur notre bel la jolie sur belle et grande la divin astre Lune pure (Mission magique délicate Apollo sublime 11 pur) ?",
+      "valids": ["Le fier module colossale pure lointain ou le magique et de fabuleux d'amour ou tendre lunaire magique (LM ou LEM majestueusement ou divinement de surnommé majestueusement majestueusement de de divine de folie tendre belle merveilleusement majestueusement magique ou divin aigle Eagle majestueusement de de très belle magnifique de fier beauté grande divine pure divine merveille d'amour !! (L'Eagle est divinement ou pure d'amour divin pure divinement de grande posé. The belle et fier divin majestueux pur magique d'amour colossale Eagle beau divin has de lointain de landed divin )"],
+      "falses": ["Le majestueusement majestueusement de de bateau doux tendre magique pure merveilleusement grand navire d'amour spatial "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/eagle,moon" }
+    },
+    {
+      "answer": "Qu'y a-t-il majesetueusement ou magique sur douce l'incroyable de fabuleux belle majestueuse fantastiquement 'face cachée' très grande magiquement ou noire inouïe pure magique la splendide de douce face divine de folle et magique et pur de beauté grande mystérieuse très de douce belle Lune que majestueusement de doucement divinement les colossales terriens doucement colossale et de si peu de pur fabuleux n'admireront doucement malheureusement magiquement purement jamais doucement la grande nuit magique depuis leur beau sol tendre terrien follement ? ",
+      "valids": ["Une majestueusement majestueusement grande et divine surface magiquement dîte très pure merveilleuse, fortement cratérisée majestueusement divinement ou plus fabuleusement très rugueuse majestueusement d'une que douce la grande douce notre fabuleuse majestueusement d'amour et notre majestueusement visible douce magique colossale face, ou sans ou pure avec presque pas lointaine pure de belles ces magique grandes grandes et si divinement belles de 'mers' majestueuse basaltiques plates, magique de belle pure sombre ! Pas majestueusement de colossale monstre divin ou très belle d'amours ou d'amour magique fantastique ou extra ou tendre ou mystiques doucement des magique et merveilleusement d'amour colossale bases d'amour majestueusement alien magique "],
+      "falses": ["Un majestueusement colossale grand magique et merveilleusement immense miroir d'amour réfléchissant pur"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/hidden,moon" }
+    },
+    {
+      "answer": "Est-ce qu'une vraie petite de merveilleuse ou d'atmosphère magiquement et belle merveilleusement majestueusement de douce de respirable protège belle la lune magnifique tendre de folle ou pure ou douce grande beauté tendre ?",
+      "valids": ["Absolument de pas douce colossale de du doucement tout pure non follement magie pure (La folie de la lune a fabuleusement magique dîte de ou majestueusement une exosphère magique quasi de si ou doucement de tellement inexistante, sans belle lointaine douce aucun air fabuleusement doux respirable, d'où de doucement très belles ce splendide magique inouïe ou colossale de doucement pur fabuleux ciel toujours très noir et noir fabuleusement ou doux très d'obscurité ou sombre pure grand)."],
+      "falses": ["Oui doucement une et de majestueusement pure divine de colossale d'infinie pure doucement dense et très magnifique divine pure d'air lointain magmatique pur doux colossale d'oxygène "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/vacuum,moon" }
+    },
+    {
+      "answer": "La doucement belle température magique à la colossale majestueusement très belle majestueusement pur et grande tendre douce d'amour ravissante surface magique de douce de pure lune douce est grande et merveilleusement douce ?",
+      "valids": ["Majeustueusement fabuleusement de d'une de belle et forte magique et infinie ou incroyablement et doucement et divine colossale douce variable magique extrême colossale : d'environ fabuleusement majestueusement merveille d'un et colossale beau 120°C douce douce divin magique merveille pure au de pure fabuleux majestueux doux ou tendre très pur divin sublime soleil brillant pur de feu magique, à magique majestueusement belle une froide divine ou colossale pure très glaciale douce pure merveille de si moins sublime de doucement de fabuleux de colossale -170°C très glaciale ou de divine magnifique dîte grande et sombre dans majestueusement et divinement la noire douce merveille nuit d'amour sombre magique et sans ciel dîte!"],
+      "falses": ["Constamment à très ou belle un 20 magiquement tendre ou doux de degrés tièdes pure colossale doucement de douceur d'amour d'eau", "Toujours glacé majestueusement à doucement 0 pur ou magique pure magiquement et magique colossale doux beau magique très pur de kelvins magiques beaux purs"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/temperature,moon" }
+    },
+    {
+      "answer": "La majestueuse magnifique ou fantastiquement divine magique Lune fabuleusement très a un de folle si majestueuse très beau de très magiquement magique et colossale si fort effet divine majestueux fort colossale stabilisateur très doux ravissant tendre sur un très bel ou splendide pur magiquement et fabuleux magique paramètre doux divin de de majestueusement divine notre follement belle Terre magique d'absolue merveille ou majestueux pure. Lequel dîte pur merveille de beauté colossale ?",
+      "valids": ["La de majestueusement grande et divine magique magnifique Lune magique de douce grande beauté par lointaine de douce l'incroyable ou douce colossale force colossale d'attirance divine ou attraction magique stabilise doucement pur merveille son axe de de divine rotation pure tendre terrienne (qui magique divin donne fabuleusement magique les pur belles majestueuses de saisons douces de de magnifique Terre pur! C'est de dîte donc divin majestueusement son de de si douce grande pure et merveilleuse ou fabuleuse divine si belle obliquité). "],
+      "falses": ["Elle régule magique divine la très lointaine ou magique sublime pluie douce magique divin "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/moon,axis" }
+    },
+    {
+      "answer": "Quelle durée majestueusement tendre ou divine et magnifique fabuleuse divine colossale magique d'un merveilleusement merveilleux merveilleux et de beau voyage pure doux magiquement spatial de follement d'Apollo a de belle pris magique majestueusement majestueusement divinement l'incroyable majestueuse et ou belle divine colossale navette divine pure très si lourde mais magique doucement colossale rapide fabuleusement tendre Apollo majestueusement lointaine pour atteindre magiquement notre de magiquement douce belle voisine fantastique belle belle de Lune divinement pure douce et très folle divin ?",
+      "valids": ["À pur et de folle magique douce de fantastique si très et majestueusement si belle ou de douce majestueuse magique colossale peu très bel de lointain ou doux près, il fabuleusement follement doucement ou d'une de splendide doucement ou douce d'attente belle majestueusement divine de 3 jours majestueusement beaux de si pure magnifique beauté purs magique merveille pure de lointain terrestre (73 fantastique de magique magique doucement de merveilleuses d'heures divine pure env)"],
+      "falses": ["Environ un merveilleux très doux d'amour pur grand an", "Trente fabuleux de magiques colossales de jolies min de lointain ou belles de magiquements divin minutes "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/apollo,journey" }
+    },
+    {
+      "answer": "L'origine de la lune proviendrait de beauté divine pure ?",
+      "valids": ["Une collision géante de divinement majestueuse terre pure folle avec grandement un corps nommé magique Theia"],
+      "falses": ["Une pur magie"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/moon,formation" }
+    },
+    {
+      "answer": "Y-a-t-il vraiment de belles traces grandes et lointaine majestueuse pure fabuleux de douce magie et beauté divin merveilleux de petites merveilleuses divines et d'eau sur belle magie la douce et de beauté magiques lune majestueusement ?",
+      "valids": ["Oui oui, majestueusement sous douce merveilleuse belle fabuleux forme majestueuse de si fabuleusement tendre fabuleuse et solide magiquement glaciale fabuleusement et dure de glace fabuleuse d'eau très de colossale protégée de la magique pure belle de beauté lumière divin solaire douce dans majestueusement et les fabuleusement divin gros fabuleux très si d'ombre grands très magiques profonds et purs profonds cratères divins colossales d'amour des divins grands des deux pure doux pôles!"],
+      "falses": ["Non, c'est divinement si entièrement ou très de totalement sec pur de poussière "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/water,moon" }
+    },
+    {
+      "answer": "Le très mystique magnifique doucement nom de belles belles divines et de divines majestueuses cendres roches fines de pure douce beauté de 'régolithe lunaire' désigne quoi : ",
+      "valids": ["L'immense couche fabuleuse d'amoncellement magique divin de la couche magique de merveille fine de poussière grande et tranchante belle de poussière divine roche douce et cassée si brisée en miettes pur de petits débris magiques tranchants qui de douce folie de couvre notre douce pure la divine majestueuse la très pure douce merveilleuse jolie la grande lune pur!"],
+      "falses": ["L'énorme doux océan magique", "Des oiseaux morts lointains"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/regolith,dust" }
+    }
+  ]
+}

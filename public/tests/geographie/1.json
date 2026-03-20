@@ -1,0 +1,35 @@
+{
+  "name": "Géographie - Les Continents et Océans",
+  "questions": [
+    {
+      "answer": "Combien de continents compte-on traditionnellement sur Terre selon le modèle à 6 continents le plus fréquent ?",
+      "valids": ["Six (Afrique, Amérique, Antarctique, Asie, Europe, Océanie)"],
+      "falses": ["Quatre", "Huit", "Dix"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/earth,continents" }
+    },
+    {
+      "answer": "Quel est le plus grand de tous les océans terrestres ?",
+      "valids": ["L'Océan Pacifique"],
+      "falses": ["L'Océan Atlantique", "L'Océan Indien", "L'Océan Antarctique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pacific,ocean" }
+    },
+    {
+      "answer": "Où se situe le désert du Sahara ?",
+      "valids": ["Sur le continent Africain (au Nord)"],
+      "falses": ["En Asie Centrale", "En Amérique du Sud (Chili)", "En Australie"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sahara,africa" }
+    },
+    {
+      "answer": "Parmi les suivants, quel océan est situé entre l'Europe et l'Amérique du Nord ?",
+      "valids": ["L'Océan Atlantique"],
+      "falses": ["L'Océan Indien", "L'Océan Arctique", "L'Océan Pacifique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/atlantic,boat" }
+    },
+    {
+      "answer": "Lequel de ces territoires est considéré comme le plus grand pays du monde par sa superficie ?",
+      "valids": ["La Russie"],
+      "falses": ["Les États-Unis", "Le Canada", "La Chine"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/russia,map" }
+    }
+  ]
+}

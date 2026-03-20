@@ -1,0 +1,75 @@
+{
+    "name": "Navigation et bateaux",
+    "questions": [
+        {
+            "answer": "Comment appelle-t-on le côté droit d'un navire en regardant vers l'avant ?",
+            "valids": [
+                "Tribord"
+            ],
+            "falses": [
+                "Bâbord",
+                "La poupe",
+                "La proue"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/bateau,tribord"
+            }
+        },
+        {
+            "answer": "Quels éléments mécaniques servent directement à diriger un voilier ?",
+            "valids": [
+                "Le gouvernail",
+                "La barre"
+            ],
+            "falses": [
+                "L'ancre",
+                "La boussole"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/voilier,gouvernail"
+            }
+        },
+        {
+            "answer": "Quelle unité de mesure est utilisée pour exprimer la vitesse d'un bateau en mer ?",
+            "valids": [
+                "Le nœud"
+            ],
+            "falses": [
+                "Le mille marin",
+                "Le kilomètre par heure",
+                "Le fathom"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/vitesse,bateau,mer"
+            }
+        },
+        {
+            "answer": "Quels vents sont particulièrement célèbres et utilisés par les navigateurs à la voile ?",
+            "valids": [
+                "Les alizés",
+                "Le mistral"
+            ],
+            "falses": [
+                "L'ouragan arctique",
+                "Le vent solaire"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/vent,voile"
+            }
+        },
+        {
+            "answer": "À quoi sert la quille située sous la coque d'un voilier ?",
+            "valids": [
+                "À assurer la stabilité et éviter que le bateau ne dérive avec le vent"
+            ],
+            "falses": [
+                "À augmenter la vitesse en surfant sur les courants",
+                "À stocker l'eau douce pour le voyage",
+                "À remonter l'ancre plus rapidement"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/quille,voilier"
+            }
+        }
+    ]
+}

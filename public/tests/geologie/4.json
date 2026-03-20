@@ -1,0 +1,125 @@
+{
+  "name": "Volcan & Géologie - Roches et Minéraux",
+  "questions": [
+    {
+      "answer": "Quelle roche se forme à partir du refroidissement du magma ou de la lave ?",
+      "valids": ["La roche magmatique (ou ignée)"],
+      "falses": ["La roche sédimentaire", "La roche métamorphique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/rock,magma" }
+    },
+    {
+      "answer": "Quel est le minéral naturel le plus dur sur l'échelle de Mohs ?",
+      "valids": ["Le diamant"],
+      "falses": ["Le quartz", "Le corindon (rubis / saphir)", "Le talc"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/diamond,gem" }
+    },
+    {
+      "answer": "Laquelle de ces roches est une roche sédimentaire contenant souvent des fossiles ?",
+      "valids": ["Le calcaire"],
+      "falses": ["Le basalte", "Le granit", "L'obsidienne"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/limestone,fossil" }
+    },
+    {
+      "answer": "Le marbre est le résultat de la transformation d'une roche sous haute pression et température. C'est une roche...",
+      "valids": ["Métamorphique"],
+      "falses": ["Sédimentaire", "Igneuse extrusive"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/marble,stone" }
+    },
+    {
+      "answer": "L'obsidienne, souvent noire et brillante, est...",
+      "valids": ["Un verre volcanique refroidi très rapidement sans cristaux"],
+      "falses": ["Du charbon compacté", "Un métal précieux extra-terrestre", "Une roche sédimentaire"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/obsidian,black" }
+    },
+    {
+      "answer": "Quelle est la différence entre une roche et un minéral ?",
+      "valids": ["Le minéral est pur (cristal précis) tandis que la roche est un assemblage de minéraux divers"],
+      "falses": ["C'est exactement le même mot", "La roche est toujours lisse, le minéral est tranchant"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/minerals,rocks" }
+    },
+    {
+      "answer": "Le grès (roche sédimentaire) est principalement formé par l'agglomération et la cimentation de...",
+      "valids": ["Grains de sable (principalement du quartz)"],
+      "falses": ["Cendres du magma très chaud", "Glace pressée en profondeur", "Feuilles d'arbres mortes"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sandstone,bed" }
+    },
+    {
+      "answer": "Quelle roche volcanique, extraite par l'homme, a la particularité de pouvoir flotter sur l'eau (en petits morceaux poreux) ?",
+      "valids": ["La pierre ponce"],
+      "falses": ["Le basalte pur lourd", "Le granite cristallisé", "La craie blanche"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pumice,float" }
+    },
+    {
+      "answer": "Laquelle de ces substances précieuses n'est PAS un vrai minéral (au sens géologique strict inorganique) mais de la matière organique fossile ?",
+      "valids": ["L'ambre (résine fossilisée)"],
+      "falses": ["Le rubis", "L'émeraude", "Le diamant (constitué de carbone, il est minéral)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/amber,insect" }
+    },
+    {
+      "answer": "Si j'identifie le Quartz, de quoi est-il très souvent reconnaissable et composé dans la croûte ?",
+      "valids": ["Silice naturelle (dioxyde de silicium SiO2), de forme souvent cristalline transparente/blanche"],
+      "falses": ["De fer totalement pur de couleur rouge", "De cuivre noir magnétique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/quartz,crystal" }
+    },
+    {
+      "answer": "À quoi fait référence l’échelle dite 'de Mohs' ?",
+      "valids": ["La dureté des minéraux (allant de 1 pour le talc jusqu'à 10 pour le diamant)"],
+      "falses": ["Leur radioactivité mesurée", "Leur couleur primaire éclatante", "Leur réaction acide"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/mohs,scale" }
+    },
+    {
+      "answer": "Quel type de roche compose massivement la croûte océanique au fond des mers, issue des éruptions sous-marines des dorsales ?",
+      "valids": ["Le basalte (sombre, lourd et dense)"],
+      "falses": ["Le granite clair et léger de la croûte fine", "L'argile douce fluente", "Le gypse"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/basalt,rock" }
+    },
+    {
+      "answer": "Quelle gemme précieuse, variété du béryl, est connue pour sa couleur verte exceptionnelle ?",
+      "valids": ["L'émeraude"],
+      "falses": ["Le rubis (rouge)", "Le saphir (bleu ou autres)", "L'améthyste (violet)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/emerald,gem" }
+    },
+    {
+      "answer": "Le charbon, utilisé comme énergie fossile massive mondiale pendant 200 ans, a pour origine :",
+      "valids": ["L'accumulation fantastique puis très lente de matière végétale forestière morte des millions d'années"],
+      "falses": ["C'est une roche volcanique crachée du noyau", "Des cadavres de dinosaures stricts"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/coal,rock" }
+    },
+    {
+      "answer": "Quel matériau rocheux utilise-t-on le plus majoritairement dans la fabrication du ciment puis du béton par les humains ?",
+      "valids": ["Le calcaire (cuit à très haute température avec de l'argile)"],
+      "falses": ["Le diamant", "Le verre naturel de lave rapide", "La roche volcanique froide"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/cement,powder" }
+    },
+    {
+      "answer": "Lequel des métaux précieux se trouve couramment dans des gisements par pépites formées naturellement ?",
+      "valids": ["L'or"],
+      "falses": ["Le plomb toujours synthétique", "L'acier", "La bauxite à pépites"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/gold,nugget" }
+    },
+    {
+      "answer": "Comment les géologues repèrent-ils facilement le calcaire sur le terrain ? (Test pratique sur une roche inoubliable)",
+      "valids": ["Ils appliquent une goutte d'acide chlorhydrique diluée pour voir s'il y a une effervescence 'qui pétille/mousse' (réaction au carbonate de calcium)"],
+      "falses": ["Ils le sentent pour chercher l'odeur du sel", "Ils testent sa lumière avec un prisme"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/limestone,acid" }
+    },
+    {
+      "answer": "L'ardoise grise (sur les toits) provient initialement par métamorphisme (chauffée, clivée, compressée...) de quelle roche tendre ?",
+      "valids": ["L'argile sédimentaire ou schiste argileux ancien"],
+      "falses": ["Du fer forgé", "Du basalte pure", "Du silex dur"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/slate,roof" }
+    },
+    {
+      "answer": "L'oxyde de fer rougeâtre sur certaines pierres, roches lisses sur Mars ou latérites, trahit la formation ancienne via ?",
+      "valids": ["L'oxydation, la présence prolongée du fer l'oxygène et généralement d'un peu d'eau (altération physique/chimique)"],
+      "falses": ["L'attaque cosmique d'un laser bleu", "Une simple couleur temporaire artificielle", "Aucun fer n'existe hors noyau"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/red,rock,iron" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une géode géologique bien cachée sous son extérieur sombre ?",
+      "valids": ["Une cavité rocheuse vide tapissée à l'intérieur de très beaux cristaux agencés par percolation"],
+      "falses": ["Une grosse émeraude compacte sans vide ni autre pierre", "Un satellite spatial qui revient"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/geode,amethyst" }
+    }
+  ]
+}

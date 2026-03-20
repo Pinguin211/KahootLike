@@ -1,0 +1,75 @@
+{
+    "name": "Les composants du moteur",
+    "questions": [
+        {
+            "answer": "Quel est le rôle du filtre à air dans un moteur thermique ?",
+            "valids": [
+                "Retenir les impuretés de l'air avant qu'il n'entre dans les cylindres"
+            ],
+            "falses": [
+                "Purifier l'air conditionné qui rentre dans l'habitacle",
+                "Filtrer les gaz d'échappement à la sortie du silencieux",
+                "Refroidir directement le liquide de refroidissement"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/filtre-air,moteur"
+            }
+        },
+        {
+            "answer": "Sur un moteur Diesel, quelles pièces remplacent les bougies d'allumage des moteurs à essence ?",
+            "valids": [
+                "Les bougies de préchauffage",
+                "L'inflammation se fait par forte compression de l'air"
+            ],
+            "falses": [
+                "Des bobines d'induction magnétiques",
+                "Des étincelles créées par la courroie"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/bougie-prechauffage,diesel"
+            }
+        },
+        {
+            "answer": "Que fait la pompe à eau ?",
+            "valids": [
+                "Elle fait circuler le liquide de refroidissement dans le moteur et le radiateur"
+            ],
+            "falses": [
+                "Elle injecte de l'eau dans le carburant pour moins consommer",
+                "Elle envoie l'eau vers les essuie-glaces",
+                "Elle aspire l'humidité de l'air d'admission"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/pompe-eau,moteur"
+            }
+        },
+        {
+            "answer": "Quels sont les rôles du système d'injection ?",
+            "valids": [
+                "Pulvériser le carburant dans le moteur",
+                "Doser précisément la quantité de carburant nécessaire"
+            ],
+            "falses": [
+                "Réduire le bruit du moteur à haut régime",
+                "Lubrifier les soupapes d'échappement"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/injecteur,moteur"
+            }
+        },
+        {
+            "answer": "Comment s'appelle l'axe principal qui transforme le mouvement vertical des pistons en mouvement rotatif ?",
+            "valids": [
+                "Le vilebrequin"
+            ],
+            "falses": [
+                "L'arbre à cames",
+                "Le cardan",
+                "La crémaillère"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/vilebrequin,mecanique"
+            }
+        }
+    ]
+}

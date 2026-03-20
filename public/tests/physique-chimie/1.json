@@ -1,0 +1,35 @@
+{
+  "name": "Physique-Chimie - Les États de la Matière",
+  "questions": [
+    {
+      "answer": "Quels sont les trois états principaux de la matière couramment rencontrés sur Terre ?",
+      "valids": ["Solide, liquide et gazeux"],
+      "falses": ["Feu, eau et roche", "Vapeur, vent et glace"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/matter,states" }
+    },
+    {
+      "answer": "Comment s'appelle le passage de l'état solide à l'état liquide ?",
+      "valids": ["La fusion"],
+      "falses": ["La solidification", "La vaporisation", "La condensation"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/melting,ice" }
+    },
+    {
+      "answer": "À quelle température l'eau pure bout-elle au niveau de la mer ?",
+      "valids": ["À 100°C"],
+      "falses": ["À 50°C", "À 0°C", "À 150°C"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/boiling,water" }
+    },
+    {
+      "answer": "Que se passe-t-il lors de la sublimation ?",
+      "valids": ["Un solide passe directement à l'état gazeux"],
+      "falses": ["Un gaz devient solide", "Un liquide devient solide"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sublimation,dryice" }
+    },
+    {
+      "answer": "Peut-on compresser indéfiniment un liquide ?",
+      "valids": ["Faux (les liquides sont incompressibles dans la vie courante)"],
+      "falses": ["Vrai"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/liquid,glass" }
+    }
+  ]
+}

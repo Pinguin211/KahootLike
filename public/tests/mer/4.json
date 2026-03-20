@@ -1,0 +1,75 @@
+{
+    "name": "Cybersécurité",
+    "questions": [
+        {
+            "answer": "Qu'est-ce que le 'Phishing' (hameçonnage) ?",
+            "valids": [
+                "Une technique frauduleuse pour leurrer l'internaute et lui soutirer des informations confidentielles"
+            ],
+            "falses": [
+                "Un logiciel qui optimise la batterie d'un ordinateur portable",
+                "Le fait de télécharger illégalement des films en P2P",
+                "Une méthode pour surfer sur le dark web de façon anonyme"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/phishing,hacker"
+            }
+        },
+        {
+            "answer": "Parmi ces termes, lesquels désignent des types de logiciels malveillants (malwares) ?",
+            "valids": [
+                "Un cheval de Troie (Trojan)",
+                "Un rançongiciel (Ransomware)"
+            ],
+            "falses": [
+                "Un pare-feu (Firewall)",
+                "Un logiciel antivirus"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/malware,virus"
+            }
+        },
+        {
+            "answer": "Quel est l'objectif principal d'un VPN (Réseau Privé Virtuel) ?",
+            "valids": [
+                "Créer un tunnel chiffré et sécurisé entre l'utilisateur et internet"
+            ],
+            "falses": [
+                "Multiplier par dix la vitesse de connexion à internet",
+                "Réparer les secteurs défectueux d'un disque dur",
+                "Détecter les erreurs matérielles de la mémoire RAM"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/vpn,security"
+            }
+        },
+        {
+            "answer": "Quelles sont les bonnes pratiques pour créer un mot de passe robuste ?",
+            "valids": [
+                "Utiliser un mélange de majuscules, minuscules, chiffres et caractères spéciaux",
+                "Avoir une longueur d'au moins 12 caractères"
+            ],
+            "falses": [
+                "Utiliser sa date de naissance pour ne pas l'oublier",
+                "Utiliser le même mot de passe sur tous ses comptes"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/password,lock"
+            }
+        },
+        {
+            "answer": "Que fait un pare-feu (Firewall) ?",
+            "valids": [
+                "Il surveille et contrôle le trafic réseau entrant et sortant selon des règles de sécurité"
+            ],
+            "falses": [
+                "Il protège physiquement l'ordinateur contre les incendies",
+                "Il refroidit l'alimentation électrique",
+                "Il sauvegarde les données dans le cloud"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/firewall,shield"
+            }
+        }
+    ]
+}

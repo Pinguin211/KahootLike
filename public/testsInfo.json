@@ -1,0 +1,58 @@
+{
+  "tests": [
+    {
+      "type": "Mécanique",
+      "dir": "mecanique",
+      "img_url": "https://loremflickr.com/400/300/garage,mecanique",
+      "tests": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    {
+      "type": "Informatique",
+      "dir": "informatique",
+      "img_url": "https://loremflickr.com/400/300/ram,computer",
+      "tests": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    {
+      "type": "Mer",
+      "dir": "mer",
+      "img_url": "https://loremflickr.com/400/300/ocean,sea",
+      "tests": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    {
+      "type": "Nature",
+      "dir": "nature",
+      "img_url": "https://loremflickr.com/400/300/nature,forest",
+      "tests": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    {
+      "type": "Géologie",
+      "dir": "geologie",
+      "img_url": "https://loremflickr.com/400/300/volcano,geology",
+      "tests": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    {
+      "type": "Espace",
+      "dir": "espace",
+      "img_url": "https://loremflickr.com/400/300/space,galaxy",
+      "tests": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    {
+      "type": "Physique & Chimie",
+      "dir": "physique-chimie",
+      "img_url": "https://loremflickr.com/400/300/physics,chemistry",
+      "tests": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    {
+      "type": "Politique",
+      "dir": "politique",
+      "img_url": "https://loremflickr.com/400/300/politics,parliament",
+      "tests": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    {
+      "type": "Géographie",
+      "dir": "geographie",
+      "img_url": "https://loremflickr.com/400/300/map,geography",
+      "tests": ["1", "2", "3", "4", "5", "6", "7"]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Histoire de l'informatique",
+    "questions": [
+        {
+            "answer": "Qui est souvent considéré(e) comme la toute première personne à avoir écrit un programme informatique au XIXe siècle ?",
+            "valids": [
+                "Ada Lovelace"
+            ],
+            "falses": [
+                "Alan Turing",
+                "Bill Gates",
+                "Steve Jobs"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/history,computing"
+            }
+        },
+        {
+            "answer": "Quelles entreprises pionnières de la micro-informatique ont été fondées dans les années 1970 ?",
+            "valids": [
+                "Apple",
+                "Microsoft"
+            ],
+            "falses": [
+                "Google",
+                "Facebook (Meta)"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/retro,computer"
+            }
+        },
+        {
+            "answer": "Qu'était l'ARPANET ?",
+            "valids": [
+                "Le premier réseau de transfert de paquets de données, considéré comme l'ancêtre d'Internet"
+            ],
+            "falses": [
+                "Le premier système d'exploitation créé par Microsoft",
+                "Le nom de code de la première souris d'ordinateur",
+                "Un satellite de communication militaire soviétique"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/arpanet,network"
+            }
+        },
+        {
+            "answer": "Quelles technologies utilisaient les tous premiers ordinateurs (comme l'ENIAC dans les années 1940) ?",
+            "valids": [
+                "Les tubes à vide",
+                "Les cartes perforées"
+            ],
+            "falses": [
+                "Les microprocesseurs en silicium",
+                "Les écrans tactiles capacitifs"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/eniac,vintage"
+            }
+        },
+        {
+            "answer": "Quelle machine théorique conceptualisée en 1936 pose les fondations mathématiques de l'informatique moderne ?",
+            "valids": [
+                "La machine de Turing"
+            ],
+            "falses": [
+                "La calculatrice de Pascal (Pascaline)",
+                "L'ordinateur quantique",
+                "La machine à vapeur de Watt"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/turing,machine"
+            }
+        }
+    ]
+}

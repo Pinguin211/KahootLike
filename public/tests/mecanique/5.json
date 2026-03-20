@@ -1,0 +1,75 @@
+{
+    "name": "Transmission et systèmes anti-pollution",
+    "questions": [
+        {
+            "answer": "À quoi sert le filtre à particules (FAP) sur les moteurs modernes ?",
+            "valids": [
+                "Piéger et brûler les particules fines de suie contenues dans les gaz d'échappement"
+            ],
+            "falses": [
+                "Filtrer l'huile moteur des particules métalliques",
+                "Empêcher les pollens d'entrer dans la ventilation",
+                "Nettoyer le carburant avant son injection"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/fap,echappement"
+            }
+        },
+        {
+            "answer": "Quels éléments composent le kit d'embrayage classique d'une boîte manuelle ?",
+            "valids": [
+                "Le disque d'embrayage",
+                "La butée d'embrayage"
+            ],
+            "falses": [
+                "Le convertisseur de couple",
+                "La courroie d'accessoires"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/embrayage,mecanique"
+            }
+        },
+        {
+            "answer": "Quel liquide utilise-t-on spécifiquement dans le système AdBlue des moteurs diesel ?",
+            "valids": [
+                "Une solution aqueuse d'urée (pour réduire les émissions de NOx)"
+            ],
+            "falses": [
+                "De l'eau déminéralisée bleue",
+                "Un antigel puissant pour le gazole",
+                "Une huile lubrifiante pour le turbo"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/adblue,station"
+            }
+        },
+        {
+            "answer": "Que permet le différentiel situé au niveau de l'essieu moteur ?",
+            "valids": [
+                "Aux roues motrices de tourner à des vitesses différentes dans les virages",
+                "De transmettre le mouvement de rotation de l'arbre de transmission aux roues"
+            ],
+            "falses": [
+                "De bloquer les roues instantanément en cas de freinage d'urgence",
+                "De démultiplier la puissance pour augmenter la vitesse de pointe"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/differentiel,engrenage"
+            }
+        },
+        {
+            "answer": "Quelle est la principale différence d'une boîte de vitesses automatique à convertisseur de couple ?",
+            "valids": [
+                "Elle n'a pas d'embrayage mécanique à friction traditionnel"
+            ],
+            "falses": [
+                "Elle ne possède qu'une seule vitesse continue",
+                "Elle doit être vidangée toutes les semaines",
+                "Elle fonctionne exclusivement à l'électricité"
+            ],
+            "assets": {
+                "img_url": "https://loremflickr.com/400/300/boite-automatique,levier"
+            }
+        }
+    ]
+}

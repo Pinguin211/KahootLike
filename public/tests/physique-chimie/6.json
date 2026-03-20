@@ -1,0 +1,35 @@
+{
+  "name": "Physique-Chimie - Les Réactions Chimiques",
+  "questions": [
+    {
+      "answer": "Lors d'une réaction chimique de combustion, de quel gaz a-t-on impérativement besoin pour brûler ?",
+      "valids": ["De dioxygène (O2)"],
+      "falses": ["De dioxyde de carbone (CO2)", "D'azote (N2)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fire,combustion" }
+    },
+    {
+      "answer": "Comment s'appelle une transformation où la matière change de nature moléculaire (ex: le fer qui rouille) ?",
+      "valids": ["Une réaction ou transformation chimique"],
+      "falses": ["Une transformation physique de phase", "Un changement d'état"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/rust,iron" }
+    },
+    {
+      "answer": "Antoine Lavoisier a prononcé une phrase célèbre lors de ses expériences :",
+      "valids": ["'Rien ne se perd, rien ne se crée, tout se transforme.'"],
+      "falses": ["'La Terre tourne autour du Soleil.'", "'Je pense, donc je suis.'"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/chemistry,lab" }
+    },
+    {
+      "answer": "Si je mélange un acide (vinaigre) et une base (bicarbonate), je crée une réaction qui mousse parce qu'elle dégage...",
+      "valids": ["Du dioxyde de carbone (gaz CO2)"],
+      "falses": ["Du monoxyde de dihydrogène", "De l'or liquide"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/baking,soda" }
+    },
+    {
+      "answer": "Le pH permet de mesurer quoi dans une solution aqueuse ?",
+      "valids": ["Son acidité ou sa basicité"],
+      "falses": ["Sa température exacte", "Sa couleur transparente"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ph,scale" }
+    }
+  ]
+}

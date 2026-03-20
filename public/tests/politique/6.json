@@ -1,0 +1,35 @@
+{
+  "name": "Politique - Les Relations Internationales",
+  "questions": [
+    {
+      "answer": "Que signifie le sigle O.N.U. ?",
+      "valids": ["Organisation des Nations Unies"],
+      "falses": ["Organisation des Normes Universelles", "Office National des Usines"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/un,flag" }
+    },
+    {
+      "answer": "Quel est l'objectif principal de l'ONU fondé en 1945 ?",
+      "valids": ["Maintenir la paix mondiale et la sécurité internationale"],
+      "falses": ["Organiser les Jeux Olympiques", "Gérer une armée mondiale commune pour envahir des pays"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/peace,world" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une ambassade ?",
+      "valids": ["La représentation diplomatique permanente d'un État souverain dans un autre pays hôte"],
+      "falses": ["Un hôtel de luxe pour touristes", "Une prison internationale secrète"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/embassy,flag" }
+    },
+    {
+      "answer": "Le Conseil de Sécurité de l'ONU compte 5 membres permanents avec droit de veto. Qui sont-ils ?",
+      "valids": ["États-Unis, Chine, Russie, France, Royaume-Uni"],
+      "falses": ["Allemagne, Japon, Italie, Canada, Espagne", "Canada, Mexique, Brésil, Argentine, Pérou"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/security,council" }
+    },
+    {
+      "answer": "Que signifie le sigle OTAN (ou NATO en anglais) ?",
+      "valids": ["Organisation du Traité de l'Atlantique Nord (alliance militaire)"],
+      "falses": ["Office des Transports Aériens Nouveaux", "Observatoire Terre-Air-Nature"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/nato,symbol" }
+    }
+  ]
+}

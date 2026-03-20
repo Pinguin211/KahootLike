@@ -1,0 +1,125 @@
+{
+  "name": "Nature - Arbres & Forêts",
+  "questions": [
+    {
+      "answer": "Quel arbre perd ses feuilles en hiver parmi les suivants ?",
+      "valids": ["Le chêne", "Le hêtre"],
+      "falses": ["Le sapin", "L'épicéa"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/forest,oak" }
+    },
+    {
+      "answer": "Comment appelle-t-on le processus par lequel les plantes créent du dioxygène ?",
+      "valids": ["La photosynthèse"],
+      "falses": ["La respiration cellulaire", "La méiose", "L'osmose"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/leaf,sun" }
+    },
+    {
+      "answer": "Quel est le plus grand arbre du monde en volume ?",
+      "valids": ["Le séquoia géant"],
+      "falses": ["Le baobab", "Le chêne centenaire", "Le banian"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sequoia,tree" }
+    },
+    {
+      "answer": "Quels animaux aident à la pollinisation ?",
+      "valids": ["Les abeilles", "Les papillons"],
+      "falses": ["Les fourmis noires", "Les vers de terre"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/bee,flower" }
+    },
+    {
+      "answer": "Que trouve-t-on majoritairement dans la sève brute d'un arbre ?",
+      "valids": ["De l'eau", "Des minéraux"],
+      "falses": ["Du glucose pur", "De l'alcool"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tree,trunk" }
+    },
+    {
+      "answer": "Quel arbre produit des glands ?",
+      "valids": ["Le chêne"],
+      "falses": ["Le hêtre", "Le châtaignier", "L'érable"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/acorn,oak" }
+    },
+    {
+      "answer": "Quel champignon est souvent associé aux racines des chênes et très recherché ?",
+      "valids": ["La truffe"],
+      "falses": ["Le bolet de Satan", "La girolle", "L'amanite tue-mouches"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/truffle,forest" }
+    },
+    {
+      "answer": "Comment s'appelle l'étude des arbres ?",
+      "valids": ["La dendrologie"],
+      "falses": ["La botanique", "La sylviculture", "L'arboriculture"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/science,tree" }
+    },
+    {
+      "answer": "Dans quelle partie de l'arbre la sève élaborée circule-t-elle principalement vers le bas ?",
+      "valids": ["Le liber (phloème)"],
+      "falses": ["Le bois (xylème)", "L'écorce externe", "La moelle"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sap,wood" }
+    },
+    {
+      "answer": "Quel est le plus vieil arbre connu sur Terre (un pin de Bristlecone) ?",
+      "valids": ["Mathusalem (environ 4800 ans)"],
+      "falses": ["Prométhée", "Hyperion", "Le Général Sherman"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/old,tree" }
+    },
+    {
+      "answer": "Quel arbre est le symbole du Liban et figure sur son drapeau ?",
+      "valids": ["Le cèdre"],
+      "falses": ["Le pin", "L'olivier", "Le cyprès"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/cedar,lebanon" }
+    },
+    {
+      "answer": "Comment s'appelle la couche la plus haute d'une forêt tropicale ?",
+      "valids": ["La canopée"],
+      "falses": ["Le sous-bois", "La strate herbacée", "La litière"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/canopy,rainforest" }
+    },
+    {
+      "answer": "Quel type de forêt est constitué principalement de conifères et s'étend dans les régions subarctiques ?",
+      "valids": ["La taïga (forêt boréale)"],
+      "falses": ["La toundra", "La mangrove", "La jungle"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/taiga,snow" }
+    },
+    {
+      "answer": "Quel arbre est réputé pour son écorce blanche qui pèle comme du papier ?",
+      "valids": ["Le bouleau"],
+      "falses": ["Le tremble", "Le peuplier", "Le saule pleureur"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/birch,bark" }
+    },
+    {
+      "answer": "Le phénomène qui fait tomber les feuilles à l'automne s'appelle :",
+      "valids": ["L'abscission foliaire"],
+      "falses": ["La sénescence accélérée", "L'automne précoce", "La photosynthèse inverse"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/autumn,leaves" }
+    },
+    {
+      "answer": "Quel oiseau est célèbre pour percer des trous dans l'écorce des arbres avec son bec ?",
+      "valids": ["Le pic-vert (ou pic)"],
+      "falses": ["Le coucou", "Le geai", "Le moineau"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/woodpecker,tree" }
+    },
+    {
+      "answer": "Pourquoi les cernes d'un arbre coupé permettent-ils de connaître son âge ?",
+      "valids": ["Chaque cerne correspond à une année de croissance du bois"],
+      "falses": ["Chaque cerne correspond à une maladie", "Chaque cerne correspond à un siècle"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/tree,rings" }
+    },
+    {
+      "answer": "Laquelle de ces essences est un bois dit 'dur', parfait pour les meubles ?",
+      "valids": ["Le chêne", "Le noyer"],
+      "falses": ["Le sapin", "Le balsa"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/wood,furniture" }
+    },
+    {
+      "answer": "Dans une forêt, comment appelle-t-on les champignons microscopiques et bactéries qui décomposent les feuilles mortes ?",
+      "valids": ["Les décomposeurs"],
+      "falses": ["Les producteurs", "Les prédateurs", "Les pollinisateurs"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/fungi,soil" }
+    },
+    {
+      "answer": "Quel mammifère est le plus grand herbivore sauvage des forêts d'Europe et d'Amérique du Nord ?",
+      "valids": ["L'élan (ou orignal)"],
+      "falses": ["Le cerf commun", "Le sanglier", "L'ours brun"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/moose,forest" }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Espace - Satellites et Sondes",
+  "questions": [
+    {
+      "answer": "Quelle est la principale fonction d'un satellite météorologique ?",
+      "valids": ["Observer et prévoir le temps (la météo) et le climat de la Terre depuis l'espace"],
+      "falses": ["Diffuser des chaînes de télévision", "Chercher de l'or sur d'autres planètes"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/weather,satellite" }
+    },
+    {
+      "answer": "Qu'est-ce que le système de positionnement global (GPS) ?",
+      "valids": ["Un réseau de satellites permettant de déterminer la position exacte (géolocalisation) de quelqu'un sur Terre"],
+      "falses": ["Un réseau de surveillance d'animaux", "Un grand télescope en orbite"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/gps,satellite" }
+    },
+    {
+      "answer": "La célèbre sonde Rosetta de l'ESA s'est illustrée en 2014 pour quelle audacieuse prouesse inédite de l'histoire humaine de l'Espace ?",
+      "valids": ["Être le premier engin à s'être placé en orbite autour d'une comète (Tchouri) puis y avoir posé un atterrisseur (Philae)"],
+      "falses": ["S'être posée en douceur sur la surface brûlante même du Soleil majestueux", "Avoir sauvé une navette fantôme "],
+      "assets": { "img_url": "https://loremflickr.com/600/400/rosetta,comet" }
+    },
+    {
+      "answer": "Quel engin extraordinaire fantastique terrestre navigue depuis 1977 et se trouve être actuellement l'objet le plus éloigné de la Terre ?",
+      "valids": ["La sonde Voyager 1"],
+      "falses": ["L'ISS divine", "Spoutnik"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/voyager,deepspace" }
+    },
+    {
+      "answer": "Comment une sonde ou un satellite se maintient-il dans l'espace en orbite ?",
+      "valids": ["Par l'équilibre entre sa grande vitesse horizontale et la force d'attraction de gravité de la planète (une chute libre perpétuelle)"],
+      "falses": ["Il se maintient par des ballons magnétiques", "Avec un câble géant relié au sol"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/orbit,gravity" }
+    },
+    {
+      "answer": "Le télescope spatial James Webb (JWST) observe principalement l'Univers dans quel domaine de lumière ?",
+      "valids": ["L'Infrarouge (ce qui permet de voir à travers les nuages de poussière cosmique)"],
+      "falses": ["La lumière ultraviolette exclusivement", "Les rayons gamma"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/jwst,infrared" }
+    },
+    {
+      "answer": "Quelle fut la principale mission de la sonde spatiale 'Cassini' (et de son module Huygens) ?",
+      "valids": ["Explorer la planète géante gazeuse Saturne, ses anneaux et sa lune Titan"],
+      "falses": ["Explorer uniquement la planète Mars", "Rejoindre le Soleil"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/cassini,saturn" }
+    },
+    {
+      "answer": "En quoi consiste l'orbite 'Géostationnaire' utilisée pour les satellites de communication ?",
+      "valids": ["Le satellite tourne exactement à la même vitesse que la rotation de la Terre, et semble donc immobile dans le ciel."],
+      "falses": ["Le satellite s'arrête complètement de bouger et attend.", "Il tourne à contresens de la Terre."],
+      "assets": { "img_url": "https://loremflickr.com/600/400/geostationary,orbit" }
+    },
+    {
+      "answer": "Comment s'appelle l'élément bleu et plat fixé sur la plupart des sondes pour assurer l'apport d'énergie ?",
+      "valids": ["Un panneau solaire (photovoltaïque)"],
+      "falses": ["Une voile à vent terrestre", "Un miroir de maquillage galactique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/solarpanel,space" }
+    },
+    {
+      "answer": "La sonde 'New Horizons' a effectué un survol historique en 2015 de quel astre lointain du système solaire ?",
+      "valids": ["Pluton (et sa lune Charon)"],
+      "falses": ["La planète Neptune", "L'étoile Sirius"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/newhorizons,pluto" }
+    },
+    {
+      "answer": "Qu'est-ce que Sputnik 1 ?",
+      "valids": ["Le tout premier satellite artificiel lancé dans l'espace par l'URSS en 1957"],
+      "falses": ["La première sonde martienne", "Le navire d'exploration lunaire américain"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/sputnik,1957" }
+    },
+    {
+      "answer": "Quel est la cible principale des missions d'exploration Juno et Galileo ?",
+      "valids": ["La planète géante Jupiter"],
+      "falses": ["La planète Mercure", "L'amas de la Vierge"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/juno,jupiter" }
+    },
+    {
+      "answer": "Quel est le célèbre télescope spatial qui a précédé le James Webb et pris les plus belles photos de l'espace profond pendant des décennies ?",
+      "valids": ["Le télescope spatial Hubble"],
+      "falses": ["Le télescope d'Arecibo", "La sonde Pioneer"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/hubble,mirror" }
+    },
+    {
+      "answer": "Les CubeSats, d'une grande popularité aujourd'hui, sont :",
+      "valids": ["De tout petits satellites normés en forme de cubes, économiques et utilisés souvent par des universités."],
+      "falses": ["Des satellites géants en forme de dé à coudre", "Des glaçons de l'espace"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/cubesat,small" }
+    },
+    {
+      "answer": "Quel rover de la NASA, arrivé en 2012 sur Mars, fait à peu près la taille d'une petite voiture ?",
+      "valids": ["Curiosity"],
+      "falses": ["Spirit", "Sojourner", "Apollo"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/curiosity,rover" }
+    },
+    {
+      "answer": "Comment nomme-t-on le réseau mondial de grandes antennes utilisé pour communiquer avec les sondes interplanétaires très lointaines ?",
+      "valids": ["Le Deep Space Network (DSN)"],
+      "falses": ["Le réseau Wi-Fi Stellaire", "Le Dark Web de l'espace"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dsn,antenna" }
+    },
+    {
+      "answer": "Sur quelle comète l'atterrisseur Philae s'est-il posé de manière historique ?",
+      "valids": ["La comète 67P Tchourioumov-Guérassimenko"],
+      "falses": ["La comète de Halley", "L'astéroïde Ryugu"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/comet,rosetta" }
+    },
+    {
+      "answer": "Une sonde dans le vide de l'espace sans moteur s'arrête-t-elle à cause des frottements ?",
+      "valids": ["Non, dans le vide spatial, avec le principe d'inertie, elle continue indéfiniment sur sa lancée sans freiner."],
+      "falses": ["Oui, l'air de l'espace la ralentit très vite.", "Oui, par frottement thermique noir."],
+      "assets": { "img_url": "https://loremflickr.com/600/400/probe,space" }
+    },
+    {
+      "answer": "Quelle extraordinaire mission chinoise a réussi un exploit mondial inédit sur la Lune en 2019 ?",
+      "valids": ["Chang'e-4, qui a atterri sur la face cachée de la Lune"],
+      "falses": ["Chang'e-1, qui a ramené de l'eau liquide à flot", "Chang'e-0, qui a creusé jusqu'au magma lunaire"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/change4,moon" }
+    },
+    {
+      "answer": "Que va 'frôler' et étudier de très près la sonde Parker (Parker Solar Probe) ?",
+      "valids": ["L'atmosphère supérieure ou la couronne extrêmement chaude du Soleil, au plus près jamais tenté par un vaisseau."],
+      "falses": ["Le système de Jupiter", "Les cratères de Mars"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/parker,solarprobe" }
+    }
+  ]
+}

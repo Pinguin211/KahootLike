@@ -1,0 +1,35 @@
+{
+  "name": "Politique - Les Idéologies Politiques",
+  "questions": [
+    {
+      "answer": "Qu'est-ce que le capitalisme ?",
+      "valids": ["Un système économique basé sur la propriété privée des moyens de production et la recherche du profit"],
+      "falses": ["Un système où l'État possède tout", "Un système fondé sur le troc de bétail"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/money,economy" }
+    },
+    {
+      "answer": "Quelle idéologie théorise une société sans classes sociales et sans État, basée sur la mise en commun totale ?",
+      "valids": ["Le communisme (au sens de Marx)"],
+      "falses": ["Le libéralisme classique", "Le conservatisme autoritaire"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/flag,red" }
+    },
+    {
+      "answer": "Qu'est-ce que l'anarchisme politique ?",
+      "valids": ["Un courant philosophique qui rejette tout pouvoir étatique et toute autorité hiérarchique imposée"],
+      "falses": ["Le désir de détruire la Terre par les armes", "Une dictature militaire absolue"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/protest,sign" }
+    },
+    {
+      "answer": "Le concept de 'gauche et droite' en politique trouve ses origines historiques en France, lors de...",
+      "valids": ["La Révolution française (1789), placement physique des députés dans l'Assemblée selon leurs opinions face au Roi"],
+      "falses": ["L'Appel du 18 juin 1940", "La guerre de Cent Ans contre les Anglais"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/assembly,seats" }
+    },
+    {
+      "answer": "L'écologie politique (ou parti vert) a pour priorité...",
+      "valids": ["La protection de l'environnement, le développement durable et la justice sociale"],
+      "falses": ["De coloniser la planète Mars uniquement", "D'imposer la viande à tous les repas"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/green,nature" }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Découverte du bord de mer",
+  "questions": [
+    {
+      "answer": "Qu'est-ce qui provoque principalement le phénomène des marées ?",
+      "valids": [
+        "L'attraction gravitationnelle de la Lune et du Soleil"
+      ],
+      "falses": [
+        "Le vent puissant qui souffle depuis la côte",
+        "Les courants froids sous-marins",
+        "La rotation rapide des bancs de poissons"
+      ],
+      "assets": {
+        "img_url": "https://loremflickr.com/400/300/marée,plage"
+      }
+    },
+    {
+      "answer": "Quels animaux trouve-t-on couramment dans les flaques d'eau laissées à marée basse ?",
+      "valids": [
+        "Les crabes",
+        "Les anémones de mer"
+      ],
+      "falses": [
+        "Les grands requins blancs",
+        "Les dauphins"
+      ],
+      "assets": {
+        "img_url": "https://loremflickr.com/400/300/crabe,rocher"
+      }
+    },
+    {
+      "answer": "Laquelle de ces affirmations sur l'eau de mer est vraie ?",
+      "valids": [
+        "Elle est salée"
+      ],
+      "falses": [
+        "Elle est naturellement gazeuse",
+        "Elle est douce",
+        "Elle est distillée par le soleil"
+      ],
+      "assets": {
+        "img_url": "https://loremflickr.com/400/300/vague,ocean"
+      }
+    },
+    {
+      "answer": "Que ramasse-t-on très souvent sur la plage en se promenant ?",
+      "valids": [
+        "Des coquillages",
+        "Du bois flotté"
+      ],
+      "falses": [
+        "Des météorites",
+        "Des truffes"
+      ],
+      "assets": {
+        "img_url": "https://loremflickr.com/400/300/coquillage,sable"
+      }
+    },
+    {
+      "answer": "À quoi sert un phare sur la côte ?",
+      "valids": [
+        "À guider les navires pour éviter les dangers près des côtes la nuit"
+      ],
+      "falses": [
+        "À éclairer les plages pour les touristes",
+        "À faire pousser des algues spécifiques",
+        "À éblouir les gros poissons pour les pêcher"
+      ],
+      "assets": {
+        "img_url": "https://loremflickr.com/400/300/phare,mer"
+      }
+    }
+  ]
+}

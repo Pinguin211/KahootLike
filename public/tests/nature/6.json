@@ -1,0 +1,125 @@
+{
+  "name": "Nature - Les Oiseaux",
+  "questions": [
+    {
+      "answer": "Quel est le plus grand oiseau vivant actuel ?",
+      "valids": ["L'autruche"],
+      "falses": ["L'émeu", "Le condor des Andes", "L'albatros hurleur"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ostrich,bird" }
+    },
+    {
+      "answer": "Quels oiseaux sont incapables de voler ?",
+      "valids": ["Le manchot", "L'autruche", "Le kiwi"],
+      "falses": ["L'albatros", "Le faucon pèlerin"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/penguin,bird" }
+    },
+    {
+      "answer": "Quel oiseau peut voler sur place et en marche arrière ?",
+      "valids": ["Le colibri (oiseau-mouche)"],
+      "falses": ["L'hirondelle", "Le martin-pêcheur", "Le moineau"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/hummingbird" }
+    },
+    {
+      "answer": "Pourquoi les flamants sont-ils roses ?",
+      "valids": ["Grâce à leur alimentation riche en crevettes et algues (carotène)"],
+      "falses": ["C'est leur couleur de naissance", "Ils se teignent dans la boue argileuse"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/flamingo" }
+    },
+    {
+      "answer": "La chouette est...",
+      "valids": ["Un oiseau rapace nocturne", "Dépourvue d'aigrettes (plumes en forme de cornes) sur la tête"],
+      "falses": ["La femelle du hibou", "Un oiseau exclusivement herbivore"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/owl,night" }
+    },
+    {
+      "answer": "Lequel de ces oiseaux a la plus grande envergure (largeur d'ailes déployées) ?",
+      "valids": ["L'albatros hurleur (plus de 3 mètres)"],
+      "falses": ["L'aigle chauve (pygargue)", "Le pélican blanc", "La cigogne"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/albatross,ocean" }
+    },
+    {
+      "answer": "Comment s'appelle l'oiseau emblème des États-Unis ?",
+      "valids": ["Le pygargue à tête blanche"],
+      "falses": ["L'aigle royal", "Le condor de Californie", "Le vautour fauve"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/baeldeagle,bird" }
+    },
+    {
+      "answer": "Quel oiseau est réputé pour imiter la parole humaine avec brio ?",
+      "valids": ["Le perroquet (ex: le gris du Gabon)", "Le mainate"],
+      "falses": ["Le vautour", "La chouette effraie"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/parrot,bird" }
+    },
+    {
+      "answer": "Le nid de l'hirondelle est souvent fait de...",
+      "valids": ["Boue, terre et salive collées aux murs"],
+      "falses": ["Juste des plumes douces", "Grosses branches de chêne", "Mousse aquatique"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/swallow,nest" }
+    },
+    {
+      "answer": "Où vivent les manchots empereurs ?",
+      "valids": ["Exclusivement dans l'hémisphère Sud (Antarctique)"],
+      "falses": ["Exclusivement au Pôle Nord (Arctique)", "À l'Équateur", "En Islande"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/emperor,penguin" }
+    },
+    {
+      "answer": "Quel oiseau pond le plus gros œuf du monde ?",
+      "valids": ["L'autruche"],
+      "falses": ["Le casoar", "Le paon", "Le condor"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ostrich,egg" }
+    },
+    {
+      "answer": "Quel oiseau marin plonge de très haut en piqué dans l'océan pour attraper des poissons ?",
+      "valids": ["Le fou de Bassan"],
+      "falses": ["Le macareux", "Le goéland", "Le flamant rose"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/gannet,diving" }
+    },
+    {
+      "answer": "Le dodo de l'île Maurice a...",
+      "valids": ["Rejoint la liste des espèces éteintes à cause de l'homme au 17e siècle"],
+      "falses": ["Été sauvé in extremis en 1990", "Jamais réellement existé"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/dodo,museum" }
+    },
+    {
+      "answer": "Le mâle de quel oiseau possède une immense traîne ocellée qu'il déploie pour faire la roue en parade nuptiale ?",
+      "valids": ["Le paon bleu"],
+      "falses": ["Le faisan de Colchide", "L'oiseau de paradis", "Le cacatoès"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/peacock,feathers" }
+    },
+    {
+      "answer": "Le rossignol philomèle est très connu pour...",
+      "valids": ["Son chant mélodieux, souvent entendu la nuit"],
+      "falses": ["Son plumage extrêmement coloré (faux, il est brun et terne)", "Ses capacités de prédateur de gros rongeurs"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/nightingale,bird" }
+    },
+    {
+      "answer": "Quel oiseau ne fait pas de nid, mais pond ses œufs discrètement dans les nids d'autres petites espèces ?",
+      "valids": ["Le coucou gris"],
+      "falses": ["Le moineau", "La mésange bleue", "La corneille"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/cuckoo,bird" }
+    },
+    {
+      "answer": "Comment s'appelle l'organe (sorte de poche) chez de nombreux oiseaux qui permet de stocker et gonfler la nourriture avant digestion ?",
+      "valids": ["Le jabot"],
+      "falses": ["Le bec", "L'estomac", "Le gésier"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/crop,bird" }
+    },
+    {
+      "answer": "Les corbeaux et les corneilles sont...",
+      "valids": ["Des corvidés, considérés comme très intelligents parmi les oiseaux"],
+      "falses": ["Des rapaces nocturnes", "Stupides et incapables d'utiliser des outils"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/crow,smart" }
+    },
+    {
+      "answer": "Le toucan se reconnaît immédiatement à...",
+      "valids": ["Son énorme bec coloré et disproportionné par rapport à son corps"],
+      "falses": ["Ses longues pattes rouges", "Ses ailes complètement transparentes"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/toucan,beak" }
+    },
+    {
+      "answer": "Pourquoi des oiseaux migrent-ils sur des milliers de kilomètres deux fois par an ?",
+      "valids": ["Pour trouver des zones plus chaudes et abondantes en nourriture l'hiver, et regagner le nord l'été"],
+      "falses": ["Juste pour faire de l'exercice pour leurs ailes", "Parce que le sol change de magnétisme"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/migration,birds" }
+    }
+  ]
+}

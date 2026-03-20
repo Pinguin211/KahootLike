@@ -1,0 +1,15 @@
+{
+    "name": "RouterBuilder",
+    "type": "package",
+    "version": "v1",
+    "comment": "",
+    "requirements": {},
+    "repo": "react",
+    "path": "",
+    "files": [
+        "readme.md",
+        "RouteBuilder.tsx"
+    ],
+    "ignored_files": [],
+    "local": {}
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Politique - Justice et Droit",
+  "questions": [
+    {
+      "answer": "Qu'est-ce qu'une constitution pour un pays ?",
+      "valids": ["La loi fondamentale suprême qui définit la forme du gouvernement et les droits garantis des citoyens"],
+      "falses": ["Un simple livre d'histoire scolaire", "Le règlement de la police uniquement"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/constitution,book" }
+    },
+    {
+      "answer": "Qui est censé garantir l'indépendance de la Justice dans un État de droit ?",
+      "valids": ["La séparation des pouvoirs (Lécutif, Législatif, Judiciaire)"],
+      "falses": ["Le chef de la police secrète", "Le Président seul en décidant tout"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/justice,scale" }
+    },
+    {
+      "answer": "Comment appelle-t-on le principe selon lequel toute personne accusée est considérée comme innocente tant que sa culpabilité n'est pas prouvée par un tribunal ?",
+      "valids": ["La présomption d'innocence"],
+      "falses": ["La culpabilité avérée", "L'auto-condamnation anticipée"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/gavel,judge" }
+    },
+    {
+      "answer": "En France, la peine de mort a été abolie. Sous quel président et par quel Garde des Sceaux en 1981 ?",
+      "valids": ["François Mitterrand et Robert Badinter"],
+      "falses": ["Charles De Gaulle et Georges Pompidou", "Jacques Chirac et Nicolas Sarkozy"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/law,book" }
+    },
+    {
+      "answer": "Que veut dire la mention 'La loi est dure, mais c'est la loi' (Dura lex, sed lex) ?",
+      "valids": ["La règle s'applique à tous, même si elle semble pénible, pour garantir l'équité"],
+      "falses": ["Il faut être cruel envers tout le monde tout le temps", "Il faut abolir toutes les lois parce qu'elles sont nulles"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/courthouse,columns" }
+    }
+  ]
+}

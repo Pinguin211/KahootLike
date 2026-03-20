@@ -1,0 +1,125 @@
+{
+  "name": "Volcan & Géologie - Éruption et Magma",
+  "questions": [
+    {
+      "answer": "Quelle est la différence entre le magma et la lave ?",
+      "valids": ["Le magma est sous terre, la lave est expulsée en surface"],
+      "falses": ["Le magma est liquide, la lave est gazeuse", "La lave est plus chaude que le magma"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/lava,volcano" }
+    },
+    {
+      "answer": "Comment appelle-t-on l'ouverture principale par laquelle sort la lave d'un volcan ?",
+      "valids": ["Le cratère"],
+      "falses": ["La chambre magmatique", "Le conduit secondaire", "Le geyser"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/crater,volcano" }
+    },
+    {
+      "answer": "Quels gaz dangereux peuvent être libérés lors d'une éruption volcanique ?",
+      "valids": ["Le dioxyde de soufre (SO2)", "Le dioxyde de carbone (CO2)"],
+      "falses": ["L'oxygène pur (O2)", "L'hélium (He)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/smoke,volcano" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une nuée ardente ?",
+      "valids": ["Une avalanche rapide de gaz chauds et de cendres"],
+      "falses": ["Une coulée de lave très lente", "Une pluie de diamants incandescents"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/eruption,ash" }
+    },
+    {
+      "answer": "Les volcans explosifs se forment généralement au niveau :",
+      "valids": ["Des zones de subduction"],
+      "falses": ["Des dorsales océaniques (divergence)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/explosion,volcano" }
+    },
+    {
+      "answer": "Laquelle de ces éruptions est célèbre pour son explosion cataclysmique en 1883 en Indonésie ?",
+      "valids": ["Le Krakatoa"],
+      "falses": ["L'Etna", "Le Mauna Kea", "Le Pinatubo"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/krakatoa,volcano" }
+    },
+    {
+      "answer": "Où le magma (qui nourrit un volcan) est-il temporairement stocké avant l'éruption ?",
+      "valids": ["Dans une chambre magmatique"],
+      "falses": ["Dans l'atmosphère avant de retomber", "Dans un lac de cratère extérieur toujours visible"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/magmachamber,earth" }
+    },
+    {
+      "answer": "Les volcans hawaïens (Kīlauea...) sont célèbres pour leurs éruptions de type :",
+      "valids": ["Effusives (lave fluide s'écoulant calmement sur de grandes distances)"],
+      "falses": ["Explosives (projetant d'immenses panaches de cendres uniquement)"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/hawaii,volcano" }
+    },
+    {
+      "answer": "Que sont les lapillis, souvent projetés par les volcans en éruption ?",
+      "valids": ["De petites pierres poreuses volcaniques solides de la taille d'un gravier entourant une noix"],
+      "falses": ["Des gaz empoisonnés mortels violets", "Des arcs-en-ciel volcaniques", "De grandes rivières de feu"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/lapilli,stone" }
+    },
+    {
+      "answer": "Environ combien de volcans actifs à la surface (au-dessus du niveau de l'eau) existe-t-il sur Terre environ ?",
+      "valids": ["Autour de 1 500 volcans"],
+      "falses": ["Moins de 10", "Plus de 50 000"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/active,volcano" }
+    },
+    {
+      "answer": "Qu'est-ce qu'une bombe volcanique ?",
+      "valids": ["Un gros morceau de lave (de plus de 64 mm) projeté en l'air qui refroidit partiellement en retombant"],
+      "falses": ["Une vraie bombe larguée par un avion sur un volcan", "Une pierre précieuse noire parfaite"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/bomb,rock" }
+    },
+    {
+      "answer": "L'échelle permettant de mesurer la puissance (l'intensité, l'explosivité) d'une éruption volcanique est :",
+      "valids": ["L'Indice d'Explosivité Volcanique (VEI)"],
+      "falses": ["L'échelle de Richter", "Le thermomètre de Celsius", "L'échelle de Beaufort"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/vei,scale" }
+    },
+    {
+      "answer": "Une coulée de boue destructrice d'origine volcanique (composée d'eau, cendres montagnardes) s'appelle...",
+      "valids": ["Un lahar"],
+      "falses": ["Un tsunami", "Une mousson", "Une tempête de sable"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/lahar,mud" }
+    },
+    {
+      "answer": "Pourquoi observe-t-on souvent des éclairs et de l'orage violent juste au-dessus du panache de cendres d'une éruption ?",
+      "valids": ["À cause du frottement intense et chargé d'électricité statique des diverses particules de cendres chaudes"],
+      "falses": ["Parce que le magma attire la foudre des nuages préexistants", "Car le volcan hurle vers le ciel"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/lightning,eruption" }
+    },
+    {
+      "answer": "Quelle est la température approximative habituelle d'une lave fluide très chaude éjectée (type basalte habilement effusif) ?",
+      "valids": ["De 900 °C à plus de 1 100 °C"],
+      "falses": ["Environ 20 000 °C", "100 °C", "Seulement 300 °C"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/heat,lava" }
+    },
+    {
+      "answer": "Lequel de ces supervolcans aux USA menacerait fortement le climat global en cas de maxi éruption ?",
+      "valids": ["Yellowstone"],
+      "falses": ["Mont Saint Helens", "Le Vésuve (qui est en Italie)", "Fuji"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/supervolcano,yellowstone" }
+    },
+    {
+      "answer": "Comment s'appelle l'« Anneau de feu » ?",
+      "valids": ["Une grande zone riche en volcans et séismes s'étendant tout autour des franges de l'océan Pacifique"],
+      "falses": ["L'éruption circulaire du soleil", "Un anneau mythique magmatique du Seigneur des Anneaux"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/ringoffire,pacific" }
+    },
+    {
+      "answer": "Une éruption sous-marine très profonde produit...",
+      "valids": ["Rares explosions de surface en général, la lave refroidit en gros « coussins » appelés Pillow Lavas"],
+      "falses": ["Un panache de 40km de haut"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/pillow,lava" }
+    },
+    {
+      "answer": "Où se trouvent la plupart des volcans actifs du monde (environ 80 %) ?",
+      "valids": ["Le long des frontières de plaques tectoniques"],
+      "falses": ["Pleins au milieu de vastes continents stables", "Seulement aux deux pôles"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/plates,boundaries" }
+    },
+    {
+      "answer": "Comment s'appelle le type de volcan ayant une forme de cône très pentu généré formés d'alternances de coulées et cendres (type explosif) ?",
+      "valids": ["Un stratovolcan"],
+      "falses": ["Un grand volcan bouclier extra-plat", "Un volcan gris"],
+      "assets": { "img_url": "https://loremflickr.com/600/400/stratovolcano,cone" }
+    }
+  ]
+}
